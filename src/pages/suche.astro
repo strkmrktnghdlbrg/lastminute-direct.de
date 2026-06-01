@@ -1,0 +1,68 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Suche" description="Durchsuche alle Reise-Artikel von Lastminute Direct nach Zielen, Reisearten und Tipps.">
+  <section class="hub-hero">
+    <div class="wrap">
+      <nav class="crumbs"><a href="/">Start</a> <span>/</span> Suche</nav>
+      <h1>Suche</h1>
+      <form class="searchform" role="search">
+        <input type="search" id="q" name="q" placeholder="Reiseziel, Thema oder Stichwort…" autocomplete="off" />
+      </form>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <p class="status" id="status">Gib einen Suchbegriff ein, um Artikel zu finden.</p>
+    <ul class="results" id="results"></ul>
+  </section>
+</BaseLayout>
+
+<script is:inline>
+  (async () => {
+    const res = await fetch('/search-index.json');
+    const index = await res.json();
+    const input = document.getElementById('q');
+    const out = document.getElementById('results');
+    const status = document.getElementById('status');
+
+    const params = new URLSearchParams(location.search);
+    const initial = params.get('q');
+    if (initial) input.value = initial;
+
+    function render(q) {
+      const term = q.trim().toLowerCase();
+      out.innerHTML = '';
+      if (!term) { status.textContent = 'Gib einen Suchbegriff ein, um Artikel zu finden.'; return; }
+      const hits = index.filter((a) =>
+        (a.title + ' ' + a.description + ' ' + (a.tags || []).join(' ')).toLowerCase().includes(term)
+      );
+      status.textContent = hits.length
+        ? `${hits.length} Treffer für „${q}"`
+        : `Keine Treffer für „${q}". Versuch ein anderes Stichwort.`;
+      for (const a of hits) {
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${a.url}"><span class="rc">${a.cluster}</span><span class="rt">${a.title}</span><span class="rd">${a.description}</span></a>`;
+        out.appendChild(li);
+      }
+    }
+
+    input.addEventListener('input', (e) => render(e.target.value));
+    if (initial) render(initial);
+  })();
+</script>
+
+<style>
+  .hub-hero { background: var(--color-skybound-blue); color: var(--color-cloud-whisper); padding: 64px 0 48px; }
+  .crumbs { font-size: 13px; opacity: .8; margin-bottom: 20px; } .crumbs a { text-decoration: underline; } .crumbs span { margin: 0 6px; }
+  .hub-hero h1 { font-size: clamp(40px, 6vw, 64px); margin-bottom: 24px; }
+  .searchform input { width: 100%; max-width: 640px; font-family: var(--font-text); font-size: 18px; padding: 16px 22px; border-radius: var(--radius-pill); border: 1.5px solid var(--color-cloud-whisper); background: rgba(255,255,255,.12); color: var(--color-cloud-whisper); outline: none; }
+  .searchform input::placeholder { color: rgba(245,244,223,.65); }
+  .status { font-size: 16px; color: #45525f; margin-bottom: 24px; }
+  .results { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 14px; }
+  .results :global(a) { display: block; background: #fff; border: 1px solid rgba(171,171,156,.25); border-radius: var(--radius-card); padding: 22px 24px; transition: transform .25s ease; }
+  .results :global(a:hover) { transform: translateY(-3px); }
+  .results :global(.rc) { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--color-skybound-blue); font-weight: 500; margin-bottom: 4px; }
+  .results :global(.rt) { display: block; font-family: var(--font-display); font-weight: 550; font-size: 20px; margin-bottom: 4px; }
+  .results :global(.rd) { display: block; font-size: 14px; color: #45525f; }
+</style>

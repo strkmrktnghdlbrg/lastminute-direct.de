@@ -1,0 +1,26 @@
+---
+import { SITE } from '../data/site';
+---
+<section class="section wrap">
+  <div class="news">
+    <h2>Verpasse kein Schnäppchen mehr</h2>
+    <p>Mit dem Deal-Alarm bekommst du die besten Last-Minute-Angebote direkt in dein Postfach, bevor sie weg sind.</p>
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value={SITE.web3formsKey} />
+      <input type="hidden" name="subject" value="Neue Deal-Alarm Anmeldung" />
+      <input type="hidden" name="from_name" value="Lastminute Direct" />
+      <input type="email" name="email" placeholder="Deine E-Mail-Adresse" required />
+      <button type="submit" class="btn btn-primary">Deal-Alarm aktivieren</button>
+    </form>
+  </div>
+</section>
+<style>
+  .news { background: var(--color-cosmic-violet); color: var(--color-cloud-whisper); border-radius: 160px 160px 0 0; padding: 72px 56px; text-align: center; }
+  .news h2 { font-size: clamp(32px, 5vw, 48px); max-width: 20ch; margin: 0 auto 16px; }
+  .news p { font-size: 17px; opacity: .9; max-width: 46ch; margin: 0 auto 32px; }
+  .news form { display: flex; gap: 0; max-width: 520px; margin: 0 auto; border: 1.5px solid var(--color-cloud-whisper); border-radius: var(--radius-pill); overflow: hidden; }
+  .news input { flex: 1; background: transparent; border: 0; padding: 16px 24px; color: var(--color-cloud-whisper); font-size: 15px; outline: none; font-family: var(--font-text); }
+  .news input::placeholder { color: rgba(245,244,223,.6); }
+  .news .btn { border-radius: 0; padding: 0 32px; }
+  @media (max-width: 560px) { .news { padding: 48px 24px; border-radius: 48px 48px 0 0; } .news form { flex-direction: column; border-radius: 24px; } .news .btn { padding: 16px; } }
+</style>

@@ -1,0 +1,135 @@
+@import "tailwindcss";
+
+/* ===========================================================
+   Lastminute Direct — Design System
+   Based on the Joby Aviation "Skyward Glide" style reference
+   =========================================================== */
+
+@theme {
+  /* Colors */
+  --color-midnight-ink: #0e1620;
+  --color-cloud-whisper: #f5f4df;
+  --color-skybound-blue: #007ae5;
+  --color-cosmic-violet: #1c3f99;
+  --color-sunset-orange: #eb6110;
+  --color-horizon-blue: #083e6f;
+  --color-pale-peach: #ffd9c9;
+  --color-shadow-grey: #abab9c;
+
+  /* Fonts (Inter substitutes JobyDisplay / jobyText) */
+  --font-display: "Inter", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-text: "Inter", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  /* Radius */
+  --radius-default: 8px;
+  --radius-card: 16px;
+  --radius-pill: 147.6px;
+
+  /* Spacing helpers */
+  --section-gap: 96px;
+}
+
+:root {
+  --shadow-card: rgba(0, 0, 0, 0.3) 0px 16px 47.6px 0px;
+  --shadow-soft: var(--color-shadow-grey) 0px 8px 32px -8px;
+  --radius-asym: 160px 160px 0 0;
+  --maxw: 1200px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--font-text);
+  color: var(--color-midnight-ink);
+  background: var(--color-cloud-whisper);
+  letter-spacing: -0.01em;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  font-weight: 550;
+  margin: 0;
+}
+
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding-inline: 24px; }
+
+/* ---- Component layer ---- */
+@layer components {
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-family: var(--font-display);
+    font-weight: 550;
+    font-size: 15px;
+    letter-spacing: -0.01em;
+    padding: 12px 24px;
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    transition: filter .25s ease, background .25s ease, color .25s ease;
+    border: 1.5px solid transparent;
+  }
+  .btn-primary { background: var(--color-sunset-orange); color: var(--color-cloud-whisper); }
+  .btn-primary:hover { filter: brightness(1.08); }
+  .btn-ghost-light { background: transparent; color: var(--color-cloud-whisper); border-color: var(--color-cloud-whisper); }
+  .btn-ghost-light:hover { background: var(--color-cloud-whisper); color: var(--color-skybound-blue); }
+  .btn-ghost-dark { background: transparent; color: var(--color-horizon-blue); border-color: var(--color-horizon-blue); }
+  .btn-ghost-dark:hover { background: var(--color-horizon-blue); color: var(--color-cloud-whisper); }
+
+  .link-arrow {
+    color: var(--color-horizon-blue);
+    font-weight: 500;
+    font-size: 15px;
+    border-bottom: 1.5px solid var(--color-horizon-blue);
+    padding-bottom: 2px;
+    white-space: nowrap;
+  }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-size: 13px; font-weight: 500; letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+  .eyebrow .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-sunset-orange); }
+}
+
+/* ---- Section scaffold ---- */
+.section { padding: 96px 0; }
+.section-head { display: flex; align-items: flex-end; justify-content: space-between; margin-bottom: 48px; gap: 24px; flex-wrap: wrap; }
+.section-head h2 { font-size: clamp(32px, 5vw, 48px); max-width: 18ch; }
+.section-head p { font-size: 16px; color: #45525f; max-width: 42ch; margin: 8px 0 0; }
+
+/* ---- Mobile drawer (Pattern B: slide-in right) ---- */
+.drawer {
+  position: fixed; inset: 0 0 0 auto;
+  width: min(88vw, 360px);
+  background: var(--color-skybound-blue);
+  color: var(--color-cloud-whisper);
+  transform: translateX(100%);
+  transition: transform .4s ease;
+  z-index: 100;
+  padding: 88px 28px 28px;
+  display: flex; flex-direction: column; gap: 4px;
+  box-shadow: var(--shadow-card);
+}
+.drawer.open { transform: translateX(0); }
+.drawer a { font-size: 20px; font-weight: 500; padding: 12px 0; border-bottom: 1px solid rgba(245,244,223,.18); }
+.drawer-backdrop {
+  position: fixed; inset: 0; background: rgba(14,22,32,.5);
+  opacity: 0; visibility: hidden; transition: opacity .3s ease, visibility .3s ease; z-index: 90;
+}
+.drawer-backdrop.open { opacity: 1; visibility: visible; }
+.drawer-close { position: absolute; top: 24px; right: 24px; background: none; border: 0; color: inherit; cursor: pointer; }
+
+body.no-scroll { overflow: hidden; }

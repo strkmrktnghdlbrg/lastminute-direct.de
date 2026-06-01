@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../data/site';
+---
+<BaseLayout title="Kontakt" description="Fragen, Feedback oder Kooperationsanfragen? So erreichst du das Team von Lastminute Direct.">
+  <section class="hub-hero">
+    <div class="wrap">
+      <nav class="crumbs"><a href="/">Start</a> <span>/</span> Kontakt</nav>
+      <h1>Schreib uns</h1>
+      <p>Egal ob Feedback, eine Frage zu einem Artikel oder eine Kooperationsanfrage: Wir freuen uns über deine Nachricht.</p>
+    </div>
+  </section>
+
+  <section class="section wrap contact">
+    <form action="https://api.web3forms.com/submit" method="POST" class="form">
+      <input type="hidden" name="access_key" value={SITE.web3formsKey} />
+      <input type="hidden" name="subject" value="Neue Kontaktanfrage über lastminute-direct.de" />
+      <input type="hidden" name="from_name" value="Lastminute Direct Kontaktformular" />
+      <input type="checkbox" name="botcheck" class="hidden" style="display:none" />
+
+      <div class="row">
+        <label>Name
+          <input type="text" name="name" required placeholder="Dein Name" />
+        </label>
+        <label>E-Mail
+          <input type="email" name="email" required placeholder="du@beispiel.de" />
+        </label>
+      </div>
+      <label>Betreff
+        <input type="text" name="betreff" placeholder="Worum geht es?" />
+      </label>
+      <label>Nachricht
+        <textarea name="message" rows="6" required placeholder="Deine Nachricht an uns"></textarea>
+      </label>
+      <button type="submit" class="btn btn-primary">Nachricht senden</button>
+    </form>
+
+    <aside class="info">
+      <h3>Direkt erreichbar</h3>
+      <p>E-Mail: <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+      <p>Wir antworten in der Regel innerhalb von zwei Werktagen.</p>
+      <h3 style="margin-top:28px">Kooperationen</h3>
+      <p>Du betreibst ein Hotel, eine Region oder ein Reiseprodukt? Schreib uns mit dem Betreff „Kooperation".</p>
+    </aside>
+  </section>
+</BaseLayout>
+
+<style>
+  .hub-hero { background: var(--color-skybound-blue); color: var(--color-cloud-whisper); padding: 64px 0 56px; }
+  .crumbs { font-size: 13px; opacity: .8; margin-bottom: 20px; } .crumbs a { text-decoration: underline; } .crumbs span { margin: 0 6px; }
+  .hub-hero h1 { font-size: clamp(40px, 6vw, 64px); } .hub-hero p { font-size: 18px; opacity: .92; max-width: 56ch; margin-top: 20px; }
+  .contact { display: grid; grid-template-columns: 1.4fr 1fr; gap: 56px; }
+  .form { display: flex; flex-direction: column; gap: 18px; }
+  .form .row { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .form label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; font-weight: 500; color: #36424d; }
+  .form input, .form textarea { font-family: var(--font-text); font-size: 15px; padding: 13px 16px; border: 1.5px solid rgba(8,62,111,.25); border-radius: var(--radius-default); outline: none; background: #fff; }
+  .form input:focus, .form textarea:focus { border-color: var(--color-skybound-blue); }
+  .form .btn { align-self: flex-start; }
+  .info h3 { font-size: 18px; } .info p { font-size: 15px; color: #45525f; margin: 8px 0; }
+  .info a { color: var(--color-skybound-blue); text-decoration: underline; }
+  @media (max-width: 900px) { .contact { grid-template-columns: 1fr; } .form .row { grid-template-columns: 1fr; } }
+</style>

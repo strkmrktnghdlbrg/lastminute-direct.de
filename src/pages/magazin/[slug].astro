@@ -1,0 +1,157 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { unsplash, unsplashCredit, pickImage } from '../../data/images';
+import { primaryCluster } from '../../data/clusters';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const all = await getCollection('artikel');
+  return all.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry, all },
+  }));
+}
+
+const { entry, all } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const img = pickImage(d.heroTheme, entry.id);
+const primary = primaryCluster(d.clusters);
+
+const related = all
+  .filter((a) => a.id !== entry.id && a.data.clusters.some((c) => d.clusters.includes(c)))
+  .slice(0, 3);
+
+const faqSchema = d.faq.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: d.faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+} : null;
+---
+<BaseLayout title={d.title} description={d.description} ogType="article">
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+
+  <article>
+    <header class="art-hero">
+      <div class="art-hero-img">
+        <img src={unsplash(img.id, 1600)} alt={img.alt} loading="eager" />
+        <div class="overlay"></div>
+      </div>
+      <div class="wrap art-hero-inner">
+        <nav class="crumbs">
+          <a href="/">Start</a> <span>/</span>
+          {primary && <><a href={`/${primary.slug}/`}>{primary.title}</a> <span>/</span></>}
+          {d.title}
+        </nav>
+        <h1>{d.title}</h1>
+        <p class="lead">{d.description}</p>
+        <div class="meta">
+          {primary && <span class="pill">{primary.title}</span>}
+          <span>{d.readingTime} Min. Lesezeit</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="wrap art-body">
+      <div class="prose">
+        <Content />
+
+        {d.faq.length > 0 && (
+          <section class="faq">
+            <h2>Häufige Fragen</h2>
+            {d.faq.map((f) => (
+              <details>
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </section>
+        )}
+
+        <p class="credit">Titelbild: <a href={unsplashCredit(img.id)} rel="nofollow noopener" target="_blank">Unsplash</a></p>
+      </div>
+
+      <aside class="sidebar">
+        <div class="deal-box">
+          <span class="badge">Last-Minute Tipp</span>
+          <h3>Passende Deals finden</h3>
+          <p>Spontane Angebote für genau dieses Thema, bevor sie weg sind.</p>
+          <a href="/deals/" class="btn btn-primary" style="width:100%">Zu den Deals</a>
+        </div>
+        {d.tags.length > 0 && (
+          <div class="tag-box">
+            <h4>Themen</h4>
+            <div class="tags">{d.tags.map((t) => <span>{t}</span>)}</div>
+          </div>
+        )}
+      </aside>
+    </div>
+
+    {related.length > 0 && (
+      <section class="section wrap">
+        <div class="section-head"><div><h2>Das könnte dich auch interessieren</h2></div></div>
+        <div class="grid-3">
+          {related.map((a) => (
+            <ArticleCard
+              slug={a.id}
+              title={a.data.title}
+              description={a.data.description}
+              heroTheme={a.data.heroTheme}
+              clusters={a.data.clusters}
+              readingTime={a.data.readingTime}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .art-hero { position: relative; background: var(--color-midnight-ink); color: var(--color-cloud-whisper); }
+  .art-hero-img { position: absolute; inset: 0; }
+  .art-hero-img img { width: 100%; height: 100%; object-fit: cover; }
+  .art-hero-img .overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(14,22,32,.35) 0%, rgba(14,22,32,.85) 100%); }
+  .art-hero-inner { position: relative; z-index: 2; padding: 96px 24px 56px; max-width: var(--maxw); }
+  .crumbs { font-size: 13px; opacity: .85; margin-bottom: 20px; }
+  .crumbs a { text-decoration: underline; } .crumbs span { margin: 0 6px; }
+  .art-hero h1 { font-size: clamp(34px, 5vw, 56px); max-width: 20ch; }
+  .art-hero .lead { font-size: 19px; opacity: .92; max-width: 56ch; margin-top: 18px; line-height: 1.45; }
+  .art-hero .meta { margin-top: 24px; display: flex; align-items: center; gap: 16px; font-size: 14px; opacity: .9; }
+  .art-hero .pill { background: rgba(245,244,223,.15); padding: 5px 13px; border-radius: var(--radius-pill); }
+
+  .art-body { display: grid; grid-template-columns: 1fr 320px; gap: 56px; padding-top: 56px; padding-bottom: 56px; }
+  .prose { font-size: 17px; line-height: 1.7; color: #1d2731; }
+  .prose :global(h2) { font-size: 30px; margin: 40px 0 16px; }
+  .prose :global(h3) { font-size: 22px; margin: 32px 0 12px; }
+  .prose :global(p) { margin: 0 0 18px; }
+  .prose :global(ul), .prose :global(ol) { margin: 0 0 18px; padding-left: 22px; }
+  .prose :global(li) { margin-bottom: 8px; }
+  .prose :global(a) { color: var(--color-skybound-blue); text-decoration: underline; }
+  .prose :global(blockquote) { border-left: 3px solid var(--color-sunset-orange); padding-left: 18px; margin: 24px 0; color: #45525f; font-style: italic; }
+
+  .faq { margin-top: 48px; border-top: 1px solid rgba(171,171,156,.4); padding-top: 32px; }
+  .faq h2 { font-size: 28px; margin-bottom: 20px; }
+  .faq details { border-bottom: 1px solid rgba(171,171,156,.35); padding: 14px 0; }
+  .faq summary { font-family: var(--font-display); font-weight: 550; font-size: 17px; cursor: pointer; }
+  .faq details p { margin: 12px 0 4px; color: #45525f; }
+  .credit { font-size: 12px; color: var(--color-shadow-grey); margin-top: 40px; }
+  .credit a { text-decoration: underline; }
+
+  .sidebar { display: flex; flex-direction: column; gap: 24px; }
+  .deal-box { position: sticky; top: 96px; background: var(--color-skybound-blue); color: var(--color-cloud-whisper); border-radius: var(--radius-card); padding: 28px; box-shadow: var(--shadow-card); }
+  .deal-box .badge { display: inline-block; background: var(--color-sunset-orange); font-size: 11px; font-weight: 600; padding: 4px 11px; border-radius: var(--radius-pill); text-transform: uppercase; letter-spacing: .03em; margin-bottom: 14px; }
+  .deal-box h3 { font-size: 21px; margin-bottom: 8px; }
+  .deal-box p { font-size: 14px; opacity: .9; margin-bottom: 20px; }
+  .tag-box h4 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--color-shadow-grey); margin-bottom: 12px; }
+  .tag-box .tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tag-box .tags span { font-size: 12px; background: #fff; border: 1px solid rgba(171,171,156,.4); padding: 4px 11px; border-radius: var(--radius-pill); }
+
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  @media (max-width: 900px) { .art-body { grid-template-columns: 1fr; } .deal-box { position: static; } .grid-3 { grid-template-columns: 1fr; } }
+</style>

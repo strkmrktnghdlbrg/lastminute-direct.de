@@ -1,0 +1,56 @@
+---
+import Logo from './Logo.astro';
+---
+<footer class="ft">
+  <div class="wrap">
+    <div class="ft-grid">
+      <div class="ft-brand">
+        <Logo />
+        <p>Dein Magazin für spontane Kurzurlaube und die besten Last-Minute-Reisen. Einfach los.</p>
+      </div>
+      <div>
+        <h4>Reiseziele</h4>
+        <a href="/reiseziele/">Strand & Inseln</a>
+        <a href="/staedtereisen/">Städtereisen</a>
+        <a href="/reiseziele/">Europa</a>
+        <a href="/reiseziele/">Fernreisen</a>
+      </div>
+      <div>
+        <h4>Reisearten</h4>
+        <a href="/reisearten/">Familie</a>
+        <a href="/reisearten/">Abenteuer</a>
+        <a href="/reisearten/">Genuss</a>
+        <a href="/reisearten/">Alleinreisende</a>
+      </div>
+      <div>
+        <h4>Service</h4>
+        <a href="/ratgeber/">Reise-Ratgeber</a>
+        <a href="/reiseplanung/">Reiseplanung</a>
+        <a href="/ueber-uns/">Über uns</a>
+        <a href="/kontakt/">Kontakt</a>
+      </div>
+      <div>
+        <h4>Rechtliches</h4>
+        <a href="/datenschutz/">Datenschutz</a>
+        <a href="/impressum/">Impressum</a>
+        <a href="/suche/">Suche</a>
+      </div>
+    </div>
+    <div class="ft-bottom">
+      <span>© {new Date().getFullYear()} Lastminute Direct. Alle Preise inkl. Steuern, Beispieldaten.</span>
+      <span>Mit Liebe zum Reisen gemacht.</span>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .ft { background: var(--color-midnight-ink); color: var(--color-cloud-whisper); padding: 72px 0 32px; }
+  .ft-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 48px; }
+  .ft-grid h4 { font-family: var(--font-display); font-size: 14px; text-transform: uppercase; letter-spacing: .04em; opacity: .6; margin-bottom: 16px; font-weight: 500; }
+  .ft-grid a { display: block; font-size: 15px; opacity: .85; margin-bottom: 10px; }
+  .ft-grid a:hover { opacity: 1; }
+  .ft-brand p { font-size: 15px; opacity: .8; max-width: 36ch; margin-top: 14px; line-height: 1.5; }
+  .ft-bottom { border-top: 1px solid rgba(245,244,223,.15); padding-top: 24px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; font-size: 13px; opacity: .65; }
+  @media (max-width: 900px) { .ft-grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 560px) { .ft-grid { grid-template-columns: 1fr; } }
+</style>

@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Seite nicht gefunden" description="Diese Seite gibt es nicht mehr.">
+  <section class="nf">
+    <div class="wrap">
+      <span class="code">404</span>
+      <h1>Hier ist wohl jemand spontan abgereist</h1>
+      <p>Die Seite, die du suchst, gibt es nicht mehr. Vielleicht findest du im Magazin neue Inspiration.</p>
+      <div class="actions">
+        <a href="/" class="btn btn-primary">Zur Startseite</a>
+        <a href="/magazin/" class="btn btn-ghost-dark">Zum Magazin</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+<style>
+  .nf { padding: 120px 0; text-align: center; }
+  .code { font-family: var(--font-display); font-weight: 600; font-size: 96px; color: var(--color-skybound-blue); }
+  .nf h1 { font-size: clamp(28px, 4vw, 40px); margin: 8px auto 16px; max-width: 18ch; }
+  .nf p { font-size: 17px; color: #45525f; max-width: 46ch; margin: 0 auto 32px; }
+  .actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+</style>

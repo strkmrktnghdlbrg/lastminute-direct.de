@@ -1,0 +1,35 @@
+---
+import { unsplash, pickImage } from '../data/images';
+import { primaryCluster } from '../data/clusters';
+
+interface Props {
+  slug: string;
+  title: string;
+  description: string;
+  heroTheme: string;
+  clusters: string[];
+  readingTime: number;
+}
+const { slug, title, description, heroTheme, clusters, readingTime } = Astro.props;
+const img = pickImage(heroTheme, slug);
+const primary = primaryCluster(clusters);
+---
+<article class="art">
+  <a href={`/magazin/${slug}/`} class="thumb">
+    <img src={unsplash(img.id, 600)} alt={img.alt} loading="lazy" />
+  </a>
+  <span class="cat">{primary?.title ?? 'Magazin'}</span>
+  <h3><a href={`/magazin/${slug}/`}>{title}</a></h3>
+  <p>{description}</p>
+  <span class="read">{readingTime} Min. Lesezeit</span>
+</article>
+<style>
+  .art { display: flex; flex-direction: column; gap: 12px; }
+  .thumb { height: 200px; border-radius: var(--radius-card); overflow: hidden; display: block; }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+  .thumb:hover img { transform: scale(1.05); }
+  .cat { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--color-skybound-blue); font-weight: 500; }
+  .art h3 { font-size: 21px; line-height: 1.15; }
+  .art p { font-size: 14px; color: #45525f; margin: 0; }
+  .read { font-size: 13px; color: var(--color-shadow-grey); }
+</style>

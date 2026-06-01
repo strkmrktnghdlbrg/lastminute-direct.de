@@ -1,0 +1,72 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE } from '../data/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogType?: string;
+}
+
+const {
+  title,
+  description = SITE.description,
+  ogType = 'website',
+} = Astro.props;
+
+const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;550;600&display=swap"
+      rel="stylesheet"
+    />
+    {/* GTM + AdSense placeholders, aktiviert wenn IDs in site.ts gesetzt sind */}
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+
+    <script is:inline>
+      // Mobile drawer toggle
+      document.addEventListener('click', (e) => {
+        const t = e.target.closest('[data-drawer-toggle]');
+        const c = e.target.closest('[data-drawer-close]');
+        const drawer = document.getElementById('drawer');
+        const backdrop = document.getElementById('drawer-backdrop');
+        if (!drawer) return;
+        if (t) {
+          drawer.classList.add('open');
+          backdrop.classList.add('open');
+          document.body.classList.add('no-scroll');
+        }
+        if (c || e.target === backdrop) {
+          drawer.classList.remove('open');
+          backdrop.classList.remove('open');
+          document.body.classList.remove('no-scroll');
+        }
+      });
+    </script>
+  </body>
+</html>
