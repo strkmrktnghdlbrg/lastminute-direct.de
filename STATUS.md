@@ -22,11 +22,21 @@
   - 6 Archive: stadtreisen->staedtereisen, abenteurer/familie/feinschmecker->reisearten, tipps-und-tricks/reisetipps-fuer-anfaenger->ratgeber
   - `/reiseziele/` bleibt (wird als Cluster-Hub wiederverwendet)
 
+## Affiliate (AWIN)
+
+- Infrastruktur fertig und getestet: `src/data/site.ts` (`AWIN.affid`, Disclosure) + `src/data/affiliates.ts` (Merchant-Registry + Helper `affiliateLink`/`awinDeeplink`/`merchantsForTheme`/`merchantsForCluster`).
+- Komponenten: `AffiliateButton.astro`, `AffiliateBox.astro` (auto-platziert im Artikel-Template nach heroTheme).
+- **Aktivierung in 2 Schritten:** (1) `AWIN.affid` in site.ts setzen, (2) pro freigeschaltetem Programm `mid` in affiliates.ts füllen (Referenz-ID steht im Kommentar). Bis dahin: graceful Fallback auf Direkt-Links, Boxen rendern leer.
+- Deeplink verifiziert: `awin1.com/cread.php?awinmid=..&awinaffid=..&ued=..&clickref=lmd-<slug>`.
+- Programm-Auswahl + IDs siehe `AFFILIATE-AWIN.md`.
+
 ## Offene To-Dos (vor Go-Live)
 
-- [ ] Sold-Link-Verdachtsfälle aus Workflow prüfen (siehe Migrations-Report)
+- [ ] **AWIN:** Publisher-ID + freigeschaltete Merchant-IDs eintragen (siehe oben)
+- [ ] Sold-Link-Verdachtsfälle aus Workflow prüfen (Ergebnis: 0 gefunden)
 - [ ] `src/data/site.ts`: GTM-ID, AdSense-Client, **individuelle Stay22 lmaID** eintragen
 - [ ] Stay22-Widget + AdSense-Slots in Artikel/Hubs einbauen
+- [ ] Datenschutz um AWIN/Affiliate-Tracking ergänzen
 - [ ] Impressum + Datenschutz mit echten Daten füllen
 - [ ] Echte Deal-Daten / Affiliate-Feed statt Beispiel-Deals (`src/data/deals.ts`)
 - [ ] GitHub-Repo + Auto-Deploy (Hosting noch offen)

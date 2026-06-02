@@ -1,0 +1,33 @@
+---
+import { affiliateLink, isAffiliate, type Merchant } from '../data/affiliates';
+
+interface Props {
+  merchant: string | Merchant;
+  subId?: string;
+  target?: string;
+  label?: string;
+  variant?: 'primary' | 'ghost';
+}
+const { merchant, subId, target, label, variant = 'primary' } = Astro.props;
+
+// Merchant-Objekt auflösen (für CTA-Text), funktioniert auch mit Key
+import { MERCHANTS } from '../data/affiliates';
+const m = typeof merchant === 'string' ? MERCHANTS.find((x) => x.key === merchant) : merchant;
+const href = affiliateLink(merchant, { target, subId });
+const text = label ?? m?.cta ?? 'Zum Angebot';
+const sponsored = isAffiliate(merchant);
+---
+{m && (
+  <a
+    href={href}
+    class={`btn ${variant === 'primary' ? 'btn-primary' : 'btn-ghost-dark'} aff-btn`}
+    rel={sponsored ? 'sponsored nofollow noopener' : 'noopener'}
+    target="_blank"
+  >
+    {text}{sponsored && <span class="aff-star" aria-hidden="true"> *</span>}
+  </a>
+)}
+<style>
+  .aff-btn { width: 100%; }
+  .aff-star { opacity: .8; }
+</style>

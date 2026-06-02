@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
+import AffiliateBox from '../../components/AffiliateBox.astro';
 import { unsplash, unsplashCredit, pickImage } from '../../data/images';
 import { primaryCluster } from '../../data/clusters';
 import { getCollection, render } from 'astro:content';
@@ -83,6 +84,10 @@ const faqSchema = d.faq.length > 0 ? {
           <p>Spontane Angebote für genau dieses Thema, bevor sie weg sind.</p>
           <a href="/deals/" class="btn btn-primary" style="width:100%">Zu den Deals</a>
         </div>
+
+        {/* AWIN-Affiliate-Box: erscheint automatisch, sobald Merchants in affiliates.ts freigeschaltet sind */}
+        <AffiliateBox theme={d.heroTheme} subId={entry.id} />
+
         {d.tags.length > 0 && (
           <div class="tag-box">
             <h4>Themen</h4>

@@ -1,0 +1,35 @@
+---
+import AffiliateButton from './AffiliateButton.astro';
+import { merchantsForTheme, merchantsForCluster } from '../data/affiliates';
+import { AFFILIATE_DISCLOSURE } from '../data/site';
+
+interface Props {
+  theme?: string;
+  cluster?: string;
+  subId?: string;
+  heading?: string;
+  limit?: number;
+}
+const { theme, cluster, subId, heading = 'Passende Angebote', limit = 3 } = Astro.props;
+
+const merchants = cluster
+  ? merchantsForCluster(cluster, limit)
+  : theme
+    ? merchantsForTheme(theme, limit)
+    : [];
+---
+{merchants.length > 0 && (
+  <aside class="aff-box">
+    <h4>{heading}</h4>
+    <div class="aff-list">
+      {merchants.map((m) => <AffiliateButton merchant={m} subId={subId} />)}
+    </div>
+    <p class="aff-disclosure">{AFFILIATE_DISCLOSURE}</p>
+  </aside>
+)}
+<style>
+  .aff-box { background: var(--color-pale-peach); border-radius: var(--radius-card); padding: 24px; }
+  .aff-box h4 { font-size: 16px; margin-bottom: 14px; }
+  .aff-list { display: flex; flex-direction: column; gap: 10px; }
+  .aff-disclosure { font-size: 11px; color: #5a4a42; margin-top: 14px; line-height: 1.4; }
+</style>

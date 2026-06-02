@@ -13,6 +13,25 @@ export const SITE = {
   email: 'kontakt@lastminute-direct.de',
 };
 
+/**
+ * AWIN Affiliate-Konfiguration.
+ * NUR HIER eure Publisher-ID eintragen, sobald der AWIN-Account steht.
+ * Die einzelnen Merchant-IDs stehen in src/data/affiliates.ts.
+ * Solange `affid` leer ist, fallen alle Affiliate-Buttons automatisch auf
+ * Direkt-Links (ohne Provision) zurück, die Seite bleibt also funktionsfähig.
+ */
+export const AWIN = {
+  affid: '', // <-- eure AWIN Publisher-ID (z. B. "123456")
+  // SubID-Präfix fürs Reporting (clickref). Pro Seite wird der Slug angehängt.
+  clickrefPrefix: 'lmd',
+};
+
+export const isAwinReady = () => AWIN.affid.trim().length > 0;
+
+// Pflicht-Werbe-Kennzeichnung für Affiliate-Platzierungen
+export const AFFILIATE_DISCLOSURE =
+  'Anzeige: Links mit Sternchen sind Affiliate-Links. Buchst du darüber, erhalten wir eine kleine Provision. Für dich bleibt der Preis gleich.';
+
 export const NAV = [
   { label: 'Last-Minute Deals', href: '/deals/' },
   { label: 'Reiseziele', href: '/reiseziele/' },
