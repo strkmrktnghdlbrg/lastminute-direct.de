@@ -8,15 +8,17 @@ interface Props {
   title?: string;
   description?: string;
   ogType?: string;
+  noindex?: boolean;
 }
 
 const {
   title,
   description = SITE.description,
   ogType = 'website',
+  noindex = false,
 } = Astro.props;
 
-const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} - ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 ---
 
@@ -27,6 +29,7 @@ const canonical = new URL(Astro.url.pathname, SITE.url).href;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />

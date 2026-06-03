@@ -71,3 +71,8 @@
 /reiseziele/strandurlaube-alleinreisende/ /magazin/strandurlaube-alleinreisende/ 301
 /reiseziele/strandurlaub-wohnmobil/ /magazin/strandurlaub-wohnmobil/ 301
 /reiseziele/all-inclusive-strandresorts/ /magazin/all-inclusive-strandresorts/ 301
+# --- Legacy-Permalinks & Dubletten ---
+/abenteurer/lohnt-sich-last-minute/ /magazin/lohnt-sich-last-minute/ 301
+/lohnt-sich-last-minute-urlaub/ /magazin/lohnt-sich-last-minute/ 301
+/staedtereisen-mit-kindern-eine-familienanleitung/ /magazin/staedtereisen-mit-kindern/ 301
+/solo-staedtereisen-ein-leitfaden/ /magazin/solo-staedtereisen/ 301

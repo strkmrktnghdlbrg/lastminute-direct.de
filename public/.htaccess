@@ -75,4 +75,10 @@
   RewriteRule ^reiseziele/strandurlaube-alleinreisende/?$ /magazin/strandurlaube-alleinreisende/ [R=301,L]
   RewriteRule ^reiseziele/strandurlaub-wohnmobil/?$ /magazin/strandurlaub-wohnmobil/ [R=301,L]
   RewriteRule ^reiseziele/all-inclusive-strandresorts/?$ /magazin/all-inclusive-strandresorts/ [R=301,L]
+
+  # Legacy-Permalinks & Dubletten
+  RewriteRule ^abenteurer/lohnt-sich-last-minute/?$ /magazin/lohnt-sich-last-minute/ [R=301,L]
+  RewriteRule ^lohnt-sich-last-minute-urlaub/?$ /magazin/lohnt-sich-last-minute/ [R=301,L]
+  RewriteRule ^staedtereisen-mit-kindern-eine-familienanleitung/?$ /magazin/staedtereisen-mit-kindern/ [R=301,L]
+  RewriteRule ^solo-staedtereisen-ein-leitfaden/?$ /magazin/solo-staedtereisen/ [R=301,L]
 </IfModule>

@@ -22,6 +22,16 @@ const PATHS = [
   'reiseziele/urlaubsziele-familie','reiseziele/strandurlaube-alleinreisende','reiseziele/strandurlaub-wohnmobil','reiseziele/all-inclusive-strandresorts',
 ];
 
+// Zusätzliche Legacy-Redirects (per Semrush-Ranking + Live-Check 2026-06 gefunden):
+// - abenteurer-Dublette desselben Artikels
+// - alte root-level Permalinks (WP leitete intern bereits weiter; hier direkt aufs Ziel)
+const EXTRA = {
+  '/abenteurer/lohnt-sich-last-minute/': '/magazin/lohnt-sich-last-minute/',
+  '/lohnt-sich-last-minute-urlaub/': '/magazin/lohnt-sich-last-minute/',
+  '/staedtereisen-mit-kindern-eine-familienanleitung/': '/magazin/staedtereisen-mit-kindern/',
+  '/solo-staedtereisen-ein-leitfaden/': '/magazin/solo-staedtereisen/',
+};
+
 // Archive (category root) -> new cluster hub. /reiseziele/ stays (reused as cluster hub).
 const ARCHIVES = {
   '/stadtreisen/': '/staedtereisen/',
@@ -48,6 +58,8 @@ r += '# --- Article archives -> cluster hubs ---\n';
 for (const [from, to] of Object.entries(ARCHIVES)) r += `${from} ${to} 301\n`;
 r += '# --- Articles -> /magazin/<slug>/ ---\n';
 for (const a of articles) r += `${a.from} ${a.to} 301\n`;
+r += '# --- Legacy-Permalinks & Dubletten ---\n';
+for (const [from, to] of Object.entries(EXTRA)) r += `${from} ${to} 301\n`;
 writeFileSync(new URL('../public/_redirects', import.meta.url), r);
 
 // ---- .htaccess (Apache / All-Inkl, Hostinger) ----
@@ -62,6 +74,11 @@ h += '\n  # Articles -> /magazin/<slug>/\n';
 for (const a of articles) {
   const f = a.from.replace(/^\//, '').replace(/\/$/, '');
   h += `  RewriteRule ^${f}/?$ ${a.to} [R=301,L]\n`;
+}
+h += '\n  # Legacy-Permalinks & Dubletten\n';
+for (const [from, to] of Object.entries(EXTRA)) {
+  const f = from.replace(/^\//, '').replace(/\/$/, '');
+  h += `  RewriteRule ^${f}/?$ ${to} [R=301,L]\n`;
 }
 h += '</IfModule>\n';
 writeFileSync(new URL('../public/.htaccess', import.meta.url), h);
