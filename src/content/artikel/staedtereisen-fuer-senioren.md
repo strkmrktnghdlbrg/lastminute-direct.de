@@ -24,20 +24,20 @@ Eine Städtereise muss nicht anstrengend sein. Mit der richtigen Vorbereitung la
 
 Komfort und kurze Wege machen den Unterschied. Besonders angenehm reist es sich in Städten mit gut ausgebautem Nahverkehr, ebenen Gehwegen und genügend Sitzgelegenheiten zum Pausieren. Wichtig sind außerdem barrierefreie Zugänge zu öffentlichen Gebäuden und Sehenswürdigkeiten.
 
-Diese Aspekte sollten Sie bei der Zielwahl im Blick haben:
+Diese Aspekte solltest du bei der Zielwahl im Blick haben:
 
 - Rollstuhl- und gehgerechte Gehwege sowie abgesenkte Bordsteine
 - Aufzüge in Museen, Bahnhöfen und öffentlichen Gebäuden
 - Leicht erreichbare öffentliche Toiletten
 - Grüne Rückzugsorte wie der Tiergarten in Berlin, der Wiener Prater oder der Park Güell in Barcelona
 
-Solche grünen Oasen sind ideal, um zwischen zwei Programmpunkten durchzuatmen und die Eindrücke sacken zu lassen.
+Solche grünen Oasen sind ideal, um zwischen zwei Programmpunkten durchzuatmen und die Eindrücke sacken zu lassen. Wer gezielt nach Ruheinseln sucht, findet in unserem Überblick zu [entspannenden Rückzugsorten in der Großstadt](/magazin/entspannende-rueckzugsorte/) weitere Ideen.
 
 ## Wie bereite ich mich gesundheitlich richtig vor?
 
-Eine gute Vorbereitung gibt Sicherheit und nimmt Stress. Klären Sie vor der Abreise, ob alle Impfungen aktuell sind und wie die medizinische Versorgung am Reiseziel organisiert ist. Nehmen Sie Ihre Medikamente in ausreichender Menge mit und legen Sie Kopien der Rezepte bei, falls am Zielort nachgekauft werden muss.
+Eine gute Vorbereitung gibt Sicherheit und nimmt Stress. Kläre vor der Abreise, ob alle Impfungen aktuell sind und wie die medizinische Versorgung am Reiseziel organisiert ist. Nimm deine Medikamente in ausreichender Menge mit und lege Kopien der Rezepte bei, falls am Zielort nachgekauft werden muss.
 
-Eine durchdachte Packliste hilft ungemein:
+Eine durchdachte Packliste hilft ungemein und lässt sich gut mit unserer allgemeinen [Packliste für Städtereisen](/magazin/packliste-staedtereisen/) abgleichen:
 
 - Bequeme, eingelaufene Schuhe für lange Stadtspaziergänge
 - Wetterangepasste, leichte Kleidung im Zwiebellook
@@ -46,16 +46,20 @@ Eine durchdachte Packliste hilft ungemein:
 
 Beim Thema Versicherung gilt: lieber einmal mehr nachfragen. Eine gute Police deckt medizinische Notfälle, Reiserücktritt und Gepäckverlust ab und gilt zuverlässig im gewählten Reiseland. Ein erreichbarer Kundenservice ist im Ernstfall Gold wert.
 
+Wer lieber am Meer entspannt, findet in unserem Ratgeber zum [Strandurlaub für Senioren](/magazin/strandurlaub-senioren/) passende Ziele mit mildem Klima und barrierefreien Unterkünften.
+
 ## Unterwegs in der Stadt: Mobilität ohne Stress
 
-Vor Ort entscheidet die Mobilität über das Reisegefühl. Öffentliche Verkehrsmittel wie U-Bahn, Bus, Straßenbahn oder Fähre bringen Sie meist günstig und bequem ans Ziel. In vielen Städten gibt es vergünstigte Seniorentarife oder praktische Mehrtagestickets, die sich schnell rechnen.
+Vor Ort entscheidet die Mobilität über das Reisegefühl. Öffentliche Verkehrsmittel wie U-Bahn, Bus, Straßenbahn oder Fähre bringen dich meist günstig und bequem ans Ziel. In vielen Städten gibt es vergünstigte Seniorentarife oder praktische Mehrtagestickets, die sich schnell rechnen. Wie du dich am cleversten durch eine Metropole bewegst, zeigt unser Überblick zum [öffentlichen Verkehr in Großstädten](/magazin/oeffentlicher-verkehr/).
 
-Wer flexibler sein möchte, greift auf Taxis oder einen Mietwagen mit Automatikgetriebe zurück. Barrierefreie Stadtführungen sind eine schöne Alternative zum Selbsterkunden, sie sollten allerdings frühzeitig gebucht werden. Oft gibt es auch hier Ermäßigungen für ältere Gäste.
+Wer flexibler sein möchte, greift auf Taxis oder einen Mietwagen mit Automatikgetriebe zurück. Barrierefreie Stadtführungen sind eine schöne Alternative zum Selbsterkunden, sie sollten allerdings frühzeitig gebucht werden. Geführte Touren und Tickets findest du zum Beispiel über [GetYourGuide](https://www.getyourguide.de/), wo sich Treffpunkte und Dauer vorab gut einschätzen lassen. Oft gibt es auch hier Ermäßigungen für ältere Gäste.
 
 ## Worauf kommt es bei Unterkunft und Genuss an?
 
-Die richtige Unterkunft ist mehr als ein Bett für die Nacht. Achten Sie auf barrierefreie Zugänge, einen Aufzug und ein hilfsbereites Personal. Für längere Aufenthalte sind Apartments attraktiv: Sie liegen idealerweise nah an Haltestellen und Einkaufsmöglichkeiten und bieten mehr Raum, eine Stadt in Ruhe kennenzulernen.
+Die richtige Unterkunft ist mehr als ein Bett für die Nacht. Achte auf barrierefreie Zugänge, einen Aufzug und ein hilfsbereites Personal. Für längere Aufenthalte sind Apartments attraktiv: Sie liegen idealerweise nah an Haltestellen und Einkaufsmöglichkeiten und bieten mehr Raum, eine Stadt in Ruhe kennenzulernen. Komfortable Hotels und Apartments mit den passenden Filtern findest du etwa über [Booking.com](https://www.booking.com/), wo sich barrierefreie Häuser gezielt heraussuchen lassen.
 
-Zum Reisen gehört der kulinarische Genuss. Lassen Sie sich Zeit, lokale Spezialitäten zu probieren, ob Tapas in Spanien, Pasta in Italien oder Käse und Wein in Frankreich. Viele Museen und Theater bieten zudem Seniorenprogramme mit längeren Pausen, Sitzgelegenheiten und Audioguides. Ein Blick in den lokalen Veranstaltungskalender vor der Reise lohnt sich, denn Konzerte, Feste und Aufführungen sind oft schnell ausgebucht.
+Zum Reisen gehört der kulinarische Genuss. Lass dir Zeit, lokale Spezialitäten zu probieren, ob Tapas in Spanien, Pasta in Italien oder Käse und Wein in Frankreich. Wer das Thema Essen in den Mittelpunkt stellen möchte, findet in unseren [kulinarischen Entdeckungen auf Städtereisen](/magazin/kulinarische-entdeckungen/) Anregungen für genussvolle Touren. Viele Museen und Theater bieten zudem Seniorenprogramme mit längeren Pausen, Sitzgelegenheiten und Audioguides. Ein Blick in den lokalen Veranstaltungskalender vor der Reise lohnt sich, denn Konzerte, Feste und Aufführungen sind oft schnell ausgebucht.
 
 So wird die Städtereise im Ruhestand zu dem, was sie sein soll: ein entspanntes Erlebnis im eigenen Tempo, voller Kultur und schöner Momente.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

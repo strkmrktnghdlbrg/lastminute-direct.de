@@ -22,9 +22,9 @@ Eine Städtereise muss nicht aus Museumsbesuchen und Sightseeing-Listen bestehen
 
 ## Warum lohnt sich eine Städtereise rund um Street Art?
 
-Street Art ist kostenlos zugänglich, ständig im Wandel und tief mit dem jeweiligen Stadtviertel verbunden. Anders als ein Museum zeigt sie dir nicht das polierte Selbstbild einer Stadt, sondern ihre Gegenwart: politische Debatten, lokale Geschichten und den Humor der Menschen vor Ort.
+Street Art ist kostenlos zugänglich, ständig im Wandel und tief mit dem jeweiligen Stadtviertel verbunden. Anders als ein Museum zeigt sie dir nicht das polierte Selbstbild einer Stadt, sondern ihre Gegenwart: politische Debatten, lokale Geschichten und den Humor der Menschen vor Ort. Wer beides verbinden möchte, kombiniert die Open-Air-Galerie unter freiem Himmel mit einem Besuch in den [klassischen Museen und Galerien der Metropole](/magazin/kultur-pur/).
 
-Wer einem Mural folgt, landet oft in Ecken abseits der Touristenpfade. Genau dort liegen die Cafés, kleinen Läden und Begegnungen, die eine Reise besonders machen.
+Wer einem Mural folgt, landet oft in Ecken abseits der Touristenpfade. Genau dort liegen die Cafés, kleinen Läden und Begegnungen, die eine Reise besonders machen. Wenn du gezielt nach solchen Vierteln suchst, findest du in unseren [Geheimtipps für Städtereisen](/magazin/geheimtipps-staedtereisen/) weitere Ideen, wie du eine Stadt wie ein Einheimischer entdeckst.
 
 - Du erlebst die Stadt zu Fuß und in deinem eigenen Tempo.
 - Du entdeckst Viertel, die in klassischen Reiseführern selten auftauchen.
@@ -46,18 +46,20 @@ Manche Städte haben sich zu echten Freilichtgalerien entwickelt. Diese Orte geh
 - **New York:** Die High Line und angrenzende Viertel verbinden Architektur, Natur und urbane Kunst.
 - **Bristol:** Die Heimatstadt von Banksy lebt ihre Street-Art-Kultur besonders intensiv.
 
-Vor Ort helfen geführte Touren, spezielle Karten-Apps und die Hashtags der jeweiligen Stadt, um aktuelle Werke aufzuspüren. Da viele Arbeiten vergänglich sind, lohnt es sich, gezielt nach neuen Murals zu fragen.
+Vor Ort helfen geführte Touren, spezielle Karten-Apps und die Hashtags der jeweiligen Stadt, um aktuelle Werke aufzuspüren. Eine [geführte Street-Art-Tour buchst du unkompliziert vorab](https://www.getyourguide.de/), oft sogar mit einem lokalen Künstler als Guide. Da viele Arbeiten vergänglich sind, lohnt es sich, gezielt nach neuen Murals zu fragen.
 
 ## Was solltest du beim Planen beachten?
 
 Street-Art-Viertel liegen häufig etwas außerhalb der Zentren, also plane genug Zeit fürs Laufen ein und trage bequeme Schuhe. Frühmorgens oder am späten Nachmittag ist das Licht für Fotos am schönsten und die Straßen sind ruhiger.
 
-Achte darauf, Werke respektvoll zu behandeln: Nicht jede Wand ist ein offizielles Kunstprojekt, und Privatgrund bleibt Privatgrund. Wer flexibel bucht, kann eine günstige Verbindung in eine Street-Art-Hochburg oft last minute ergattern und so spontan losziehen.
+Achte darauf, Werke respektvoll zu behandeln: Nicht jede Wand ist ein offizielles Kunstprojekt, und Privatgrund bleibt Privatgrund. Wer flexibel bucht, kann mit den richtigen [günstigen Flugtipps für Städtereisen](/magazin/guenstige-flugtipps/) eine preiswerte Verbindung in eine Street-Art-Hochburg oft last minute ergattern und so spontan losziehen.
 
 ## Festivals und neue Formate
 
-Die Szene hat sich längst von rein illegalem Sprühen zu anerkannter Kunst entwickelt. Festivals wie das Upfest in Bristol oder das MURAL Festival in Montreal bringen Künstler aus aller Welt zusammen und lassen ganze Straßenzüge in wenigen Tagen neu entstehen.
+Die Szene hat sich längst von rein illegalem Sprühen zu anerkannter Kunst entwickelt. Festivals wie das Upfest in Bristol oder das MURAL Festival in Montreal bringen Künstler aus aller Welt zusammen und lassen ganze Straßenzüge in wenigen Tagen neu entstehen. Wie sehr solche Events eine Reise prägen können, zeigt unser Überblick zu [Kunstfestivals als Herzstück moderner Städtereisen](/magazin/kunstfestivals-in-staedtereisen/).
 
 Dazu kommen digitale Formate: Augmented Reality, Lichtprojektionen auf Fassaden und interaktive Installationen erweitern die klassische Wandmalerei. Wer eine Reise um ein solches Festival herum plant, erlebt das Entstehen der Werke live mit, statt nur das fertige Ergebnis zu sehen.
 
 Am Ende zeigt eine Street-Art-Reise eine Seite der Stadt, die kein Standardprogramm einfängt: lebendig, eigensinnig und immer wieder neu.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

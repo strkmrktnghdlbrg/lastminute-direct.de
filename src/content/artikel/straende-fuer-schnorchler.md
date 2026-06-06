@@ -28,7 +28,7 @@ Wer farbenfrohe Riffe und große Artenvielfalt sucht, kommt an diesen Klassikern
 - **Rotes Meer, Ägypten:** Riffe beginnen oft schon wenige Meter vor dem Strand. Marsa Alam zählt zu den beliebtesten Spots für Schnorchler.
 - **Great Barrier Reef, Australien:** Das größte Korallenriff der Welt und UNESCO-Weltnaturerbe. Das Riff vor Port Douglas ist gut erreichbar.
 - **Raja Ampat, Indonesien:** Im Herzen des Korallendreiecks, mit ganzjährig rund 28 Grad Wassertemperatur und enormer Fischvielfalt.
-- **Bonaire, Karibik:** Bekannt für Shore-Diving, bei dem man fast überall direkt vom Land aus ins Wasser steigt.
+- **Bonaire, Karibik:** Bekannt für Shore-Diving, bei dem man fast überall direkt vom Land aus ins Wasser steigt. Auch viele andere [Strände in der Karibik](/magazin/straende-in-karibik/) punkten mit klarem Wasser und bunten Korallengärten.
 
 ## Wo lohnt sich Tauchen für Fortgeschrittene?
 
@@ -45,9 +45,9 @@ Vor Mexikos Küste bietet **Cozumel** über 25 Riffformationen und teils sehr gu
 Abseits der bekannten Namen gibt es Ziele, die mit unberührter Natur und wenig Andrang punkten.
 
 - **Galapagos-Inseln, Ecuador:** Begegnungen mit Meeresechsen, Seelöwen und Schildkröten. Insel-Hopping ist deutlich günstiger als eine Tauchkreuzfahrt.
-- **Similan-Inseln, Thailand:** Neun unbewohnte Granitinseln rund 70 Kilometer vor Khao Lak, erreichbar über mehrtägige Tauchsafaris. Mantas und Leopardenhaie sind hier keine Seltenheit.
+- **Similan-Inseln, Thailand:** Neun unbewohnte Granitinseln rund 70 Kilometer vor Khao Lak, erreichbar über mehrtägige Tauchsafaris. Mantas und Leopardenhaie sind hier keine Seltenheit. Wer Thailand mit weiteren Stränden verbinden will, findet im Überblick zum [Strandurlaub in Asien](/magazin/strandurlaub-in-asien/) passende Anschlussziele.
 
-Diese Orte erfordern etwas mehr Planung und Anreise, belohnen aber mit Erlebnissen, die man auf gut besuchten Hausriffen kaum findet.
+Diese Orte erfordern etwas mehr Planung und Anreise, belohnen aber mit Erlebnissen, die man auf gut besuchten Hausriffen kaum findet. Wer lieber in Europa bleibt, findet auch unter den [besten Stränden für Wassersport](/magazin/straende-fuer-wassersport/) einige Spots mit guter Sicht und Tauchgründen.
 
 ## Worauf solltest du beim Schnorcheln achten?
 
@@ -58,4 +58,8 @@ Schnorcheln ist sicher, solange du ein paar Grundregeln beherzigst. So bleibt de
 - Berühre weder Korallen noch Meerestiere, schon eine Berührung kann das empfindliche Riff schädigen.
 - Nutze riff-freundliche Sonnencreme und vermeide das Aufwirbeln von Sand.
 
+Dieser schonende Umgang mit dem Riff gehört für viele zu einem [nachhaltigen Strandurlaub](/magazin/nachhaltige-strandurlaube/) dazu, der Natur und Erholung in Einklang bringt. Wenn du dir bei Strömungen oder Orientierung unsicher bist, lohnt sich für die ersten Male eine [geführte Schnorchel- oder Tauchtour](https://www.getyourguide.de/), bei der ortskundige Guides die besten Stellen kennen.
+
 Wer diese Punkte beachtet, kann an nahezu jedem der genannten Ziele in eine faszinierende Unterwasserwelt eintauchen, ob als Anfänger an der Oberfläche oder als erfahrener Taucher in der Tiefe.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

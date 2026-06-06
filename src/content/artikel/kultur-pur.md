@@ -16,7 +16,7 @@ faq:
     a: "Ja, einige Häuser wie die Power Station of Art in Shanghai oder viele Museen in Washington D.C. sind kostenlos zugänglich."
 ---
 
-Eine Städtereise muss nicht nur aus Cafés und Sehenswürdigkeiten bestehen. Wer sich für Kunst und Geschichte begeistert, findet in den großen Metropolen der Welt Museen, die ganze Epochen unter einem Dach versammeln. Von europäischen Klassikern über die zeitgenössische Szene Asiens bis zu spannenden Häusern in Afrika gibt es für jeden Geschmack das passende Ziel.
+Eine Städtereise muss nicht nur aus Cafés und [bekannten Bauwerken](/magazin/architektonische-wunder/) bestehen. Wer sich für Kunst und Geschichte begeistert, findet in den großen Metropolen der Welt Museen, die ganze Epochen unter einem Dach versammeln. Von europäischen Klassikern über die zeitgenössische Szene Asiens bis zu spannenden Häusern in Afrika gibt es für jeden Geschmack das passende Ziel.
 
 ## Welche Museen in Europa sollte man gesehen haben?
 
@@ -32,7 +32,7 @@ Mein Tipp: Plane für jedes dieser Häuser einen halben bis ganzen Tag ein. Wer 
 
 Auf der anderen Seite des Atlantiks dreht sich vieles um Moderne und Gegenwart. Das Museum of Modern Art in New York ist die Heimat von Picasso, Van Gogh und Andy Warhol und bündelt Malerei, Fotografie, Film und Design unter einem Dach.
 
-Die Nationalgalerie in Washington D.C. punktet mit einer beeindruckenden Sammlung europäischer und amerikanischer Kunst, darunter Edward Hoppers Nighthawks und Werke von Rembrandt und Vermeer. Wer nach Südamerika reist, sollte das MASP in São Paulo besuchen. Die schwebenden Gemälde auf gläsernen Ständern sind eine Inszenierung, die du so kein zweites Mal sehen wirst.
+Die Nationalgalerie in Washington D.C. punktet mit einer beeindruckenden Sammlung europäischer und amerikanischer Kunst, darunter Werke von Rembrandt, Vermeer und das einzige Gemälde Leonardo da Vincis in Amerika. Wer nach Südamerika reist, sollte das MASP in São Paulo besuchen. Die schwebenden Gemälde auf gläsernen Ständern sind eine Inszenierung, die du so kein zweites Mal sehen wirst.
 
 ## Wie spannend ist die Kunstszene in Asien?
 
@@ -42,7 +42,7 @@ Asien verbindet jahrhundertealte Tradition mit mutiger Gegenwartskunst, und gena
 - **Die Nationalgalerie Singapur** zeigt die weltweit größte Sammlung südostasiatischer Kunst, untergebracht im ehemaligen Obersten Gericht und im alten Rathaus.
 - **Die Power Station of Art in Shanghai** residiert in einem umgebauten Kraftwerk, zeigt Installationen und Videokunst und ist sogar kostenlos.
 
-Wer Architektur mag, kommt hier doppelt auf seine Kosten, denn die Gebäude selbst sind oft schon ein Kunstwerk.
+Wer Architektur mag, kommt hier doppelt auf seine Kosten, denn die Gebäude selbst sind oft schon ein Kunstwerk. Wenn du Kunst lieber unter freiem Himmel erlebst, lohnt sich auch eine [Tour zu Murals und Open-Air-Galerien](/magazin/street-art-staedtereisen/) durch die kreativen Viertel der Stadt.
 
 ## Geheimtipps in Afrika
 
@@ -54,9 +54,11 @@ Das Ägyptische Museum in Kairo beherbergt die weltweit größte Sammlung pharao
 
 Damit aus dem Museumstag kein Stressmarathon wird, helfen ein paar einfache Regeln:
 
-- Tickets online im Voraus kaufen und Zeitfenster sichern.
+- [Tickets und geführte Touren online im Voraus buchen](https://www.getyourguide.de/) und so ein festes Zeitfenster sichern.
 - Audioguides oder geführte Touren nutzen, um die wichtigsten Werke nicht zu verpassen.
 - Früh morgens oder am späten Nachmittag kommen, wenn weniger los ist.
 - Vorab eine kleine Liste mit Lieblingswerken machen, statt alles sehen zu wollen.
 
-Mit etwas Vorbereitung wird der Museumsbesuch zum Höhepunkt deiner Städtereise und nicht zur Pflichtübung. Kombiniere die Kultur am besten mit einem entspannten Spaziergang durch das umliegende Viertel, dann hast du das Beste aus beiden Welten.
+Mit etwas Vorbereitung wird der Museumsbesuch zum Höhepunkt deiner Städtereise und nicht zur Pflichtübung. Kombiniere die Kultur am besten mit einem entspannten Spaziergang durch das umliegende Viertel und ein paar [Insider-Spots abseits der Touristenpfade](/magazin/geheimtipps-staedtereisen/), dann hast du das Beste aus beiden Welten. Wann sich die einzelnen Metropolen am meisten lohnen, verrät dir unser [Saison-Guide für Städtereisen](/magazin/besten-jahreszeiten-staedtereisen/).
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

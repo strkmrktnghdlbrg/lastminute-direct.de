@@ -26,17 +26,17 @@ Ohne die richtigen Papiere kommst du nicht weit, deshalb gehören sie ganz nach 
 
 - Personalausweis oder Reisepass, idealerweise zusätzlich als digitale Kopie
 - alle Buchungsbestätigungen für Flug, Bahn, Hotel oder Mietwagen
-- Eintrittskarten und reservierte Tickets für Sehenswürdigkeiten
+- Eintrittskarten und reservierte Tickets für Sehenswürdigkeiten, die du dir vorab zum Beispiel über [Touren und Aktivitäten bei GetYourGuide](https://www.getyourguide.de/) sichern kannst
 - Versicherungsunterlagen mit Notfallnummern
 - Bargeld und mindestens eine Kreditkarte
 
-Bargeld ist gerade in kleinen Geschäften, an Marktständen oder im Café oft praktischer als die Karte. Verteile Geld und Karten auf verschiedene Taschen, dann ist im Verlustfall nicht alles auf einmal weg. Ein kurzer Check der Auslandsgebühren deiner Bank vor der Abreise erspart böse Überraschungen.
+Bargeld ist gerade in kleinen Geschäften, an Marktständen oder im Café oft praktischer als die Karte. Verteile Geld und Karten auf verschiedene Taschen, dann ist im Verlustfall nicht alles auf einmal weg, was zugleich eine der wichtigsten [Sicherheitsregeln für Städtereisen](/magazin/sicherheitstipps/) ist. Ein kurzer Check der Auslandsgebühren deiner Bank vor der Abreise erspart böse Überraschungen.
 
 ## Welche Kleidung und Schuhe machen das Sightseeing leichter?
 
 Bei Städtereisen legst du an einem einzigen Tag schnell viele Kilometer zu Fuß zurück. Bequeme, bereits eingelaufene Schuhe sind deshalb wichtiger als jedes modische Highlight. Wähle atmungsaktive Modelle und packe ein zweites Paar Socken ein, falls die Füße zwischendurch eine Pause brauchen.
 
-Beim Rest der Garderobe gilt: lieber wenige Teile, die sich gut kombinieren lassen. Schau dir vor dem Packen die Wettervorhersage an und setze auf das Zwiebelprinzip mit mehreren Schichten. Eine leichte, wasserdichte Jacke oder ein faltbarer Regenschirm passen in jede Tasche und retten dir den Tag, wenn der Himmel plötzlich aufmacht. Sonnenbrille und Sonnencreme gehören auch im Frühling und Herbst dazu, denn auf Aussichtsplattformen und in offenen Cafés brennt die Sonne oft stärker als gedacht.
+Beim Rest der Garderobe gilt: lieber wenige Teile, die sich gut kombinieren lassen. Schau dir vor dem Packen die Wettervorhersage an, orientiere dich daran, welche [Jahreszeit am besten zu deinem Reiseziel passt](/magazin/besten-jahreszeiten-staedtereisen/), und setze auf das Zwiebelprinzip mit mehreren Schichten. Eine leichte, wasserdichte Jacke oder ein faltbarer Regenschirm passen in jede Tasche und retten dir den Tag, wenn der Himmel plötzlich aufmacht. Sonnenbrille und Sonnencreme gehören auch im Frühling und Herbst dazu, denn auf Aussichtsplattformen und in offenen Cafés brennt die Sonne oft stärker als gedacht.
 
 ## Welche Technik brauchst du wirklich?
 
@@ -62,4 +62,6 @@ Dazu gehört eine kleine Reiseapotheke mit Schmerzmitteln, Pflastern, etwas gege
 
 ## So bleibt die Packliste entspannt
 
-Am Ende zählt nicht, möglichst viel mitzunehmen, sondern das Richtige. Wenn Dokumente, eine wetterfeste Grundausstattung, die nötige Technik und ein kleines Hygiene-Set verstaut sind, kannst du dich voll auf die Stadt konzentrieren. Passe die Liste an dein Reiseziel an, denke an lokale Besonderheiten wie Kleiderordnungen in Kirchen oder das Klima vor Ort, und schon steht dem entspannten Städtetrip nichts mehr im Weg.
+Am Ende zählt nicht, möglichst viel mitzunehmen, sondern das Richtige. Wenn Dokumente, eine wetterfeste Grundausstattung, die nötige Technik und ein kleines Hygiene-Set verstaut sind, kannst du dich voll auf die Stadt konzentrieren. Passe die Liste an dein Reiseziel an, denke an lokale Besonderheiten wie Kleiderordnungen in Kirchen oder das Klima vor Ort, und schon steht dem entspannten Städtetrip nichts mehr im Weg. Mit leichtem Gepäck lässt sich ein solcher Kurztrip übrigens auch wunderbar als [Wochenend-Städtereise](/magazin/wochenend-staedtereisen/) planen.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

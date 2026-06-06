@@ -22,9 +22,9 @@ In unserer hektischen Welt sehnen sich viele nach einer kurzen Auszeit, am liebs
 
 ## Welche Strandziele eignen sich für eine spontane Reise?
 
-Für einen Last-Minute-Strandurlaub zählt vor allem, dass das Ziel gut erreichbar ist und ganzjährig Angebote bereithält. Klassiker wie die Türkei und Ägypten punkten mit niedrigen Preisen, viel Sonne und kurzen Flugzeiten. Wer es etwas näher mag, findet auf den Balearen, in Griechenland oder an den Küsten Spaniens und Portugals ebenfalls schnell ein freies Zimmer.
+Für einen Last-Minute-Strandurlaub zählt vor allem, dass das Ziel gut erreichbar ist und ganzjährig Angebote bereithält. Klassiker wie die Türkei und Ägypten punkten mit niedrigen Preisen, viel Sonne und kurzen Flugzeiten. Wer es etwas näher mag, findet auf den Balearen, in Griechenland oder an den [schönsten Stränden Europas](/magazin/straende-europas/) ebenfalls schnell ein freies Zimmer.
 
-Auch ein entspannter Strandurlaub muss nicht in die Ferne führen. Die deutschen und niederländischen Inseln bieten frische Nordseeluft, lange Sandstrände und eine ruhige Atmosphäre, ganz ohne Flug.
+Auch ein entspannter Strandurlaub muss nicht in die Ferne führen. Die deutschen und niederländischen Inseln bieten frische Nordseeluft, lange Sandstrände und eine ruhige Atmosphäre, ganz ohne Flug. Wer es noch ursprünglicher mag, stöbert in unseren [Geheimtipps für unentdeckte Strände in Europa](/magazin/unentdeckte-straende/) abseits der Massen.
 
 Bei der Wahl des Ziels hilft es, deinen Reisetyp zu kennen:
 
@@ -43,7 +43,7 @@ Der größte Vorteil beim spontanen Buchen ist der Preis. Veranstalter und Hotel
 - **Vergleiche mehrere Anbieter.** Ein kurzer Preisvergleich verhindert, dass du zu viel zahlst.
 - **Prüfe die Einreisebestimmungen.** Gerade bei Fernzielen lohnt der Blick auf Ausweis- und Gesundheitsvorgaben.
 
-Günstig heißt nicht automatisch besser. Lies vor der Buchung Bewertungen zum Hotel und achte auf die Lage, damit aus dem Schnäppchen kein Reinfall wird.
+Günstig heißt nicht automatisch besser. Lies vor der Buchung Bewertungen zum Hotel und achte auf die Lage, damit aus dem Schnäppchen kein Reinfall wird. Wenn du gezielt sparen willst, helfen dir unsere Tipps, wie du [Last-Minute-Schnäppchen findest und günstig kurzfristig buchst](/magazin/last-minute-schnaeppchen/). Freie Zimmer für die nächsten Tage findest du außerdem direkt über die [Hotelsuche bei Booking.com](https://www.booking.com/), wo du Preise und Lagen schnell vergleichst.
 
 ## Was solltest du für den Strandurlaub einpacken?
 
@@ -58,6 +58,8 @@ Packe lieber leicht und ergänze vor Ort, was fehlt. Das spart Zeit am Flughafen
 
 ## Last Minute heißt nicht nur Strand
 
-Spontan verreisen kannst du auf viele Arten. Wer lieber Metropolen erkundet, findet kurzfristig günstige Städtereisen nach Paris, Rom oder Barcelona. Aktivurlauber buchen Wander- oder Radregionen, und auch Kreuzfahrten lassen sich mit freien Restkabinen oft kurzfristig ergattern. Selbst eine spontane Wellness-Auszeit mit Sauna und Massage ist auf den letzten Drücker möglich.
+Spontan verreisen kannst du auf viele Arten. Wer lieber Metropolen erkundet, findet kurzfristig günstige [Städtereisen in die besten europäischen Städte](/magazin/besten-europaeischen-staedte/) wie Paris, Rom oder Barcelona. Aktivurlauber buchen Wander- oder Radregionen, und auch Kreuzfahrten lassen sich mit freien Restkabinen oft kurzfristig ergattern. Selbst eine spontane [Wellness-Auszeit am Meer mit Sauna und Massage](/magazin/strandurlaub-wellness/) ist auf den letzten Drücker möglich.
 
-Egal, wofür du dich entscheidest: Ein Last-Minute-Trip ist die perfekte Gelegenheit, dem Alltag zu entfliehen und neue Energie zu tanken. Mit etwas Flexibilität und einem wachen Blick auf die Angebote liegst du schneller am Strand, als du denkst.
+Egal, wofür du dich entscheidest: Ein Last-Minute-Trip ist die perfekte Gelegenheit, dem Alltag zu entfliehen und neue Energie zu tanken. Mit etwas Flexibilität und einem wachen Blick auf die Angebote liegst du schneller am Strand, als du denkst. Und falls du vor Ort mehr als nur Sonnenbaden möchtest, lassen sich Bootstouren, Ausflüge und Aktivitäten auch noch kurzfristig über Anbieter wie [GetYourGuide](https://www.getyourguide.de/) buchen.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

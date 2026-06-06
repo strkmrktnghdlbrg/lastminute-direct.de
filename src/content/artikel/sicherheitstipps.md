@@ -32,13 +32,13 @@ Genauso wichtig ist es, deine Dokumente abzusichern. Mache von allen wichtigen P
 - Führerschein
 - Flugtickets und Reiseplan
 
-Lege zusätzlich digitale Versionen in einer Cloud oder im E-Mail-Postfach ab. Recherchiere außerdem die örtlichen Notrufnummern. In vielen Ländern erreichst du den Notruf über die 112, in den USA über die 911. Notiere dir auch die Adresse der deutschen Botschaft oder des Konsulats am Reiseziel.
+Lege zusätzlich digitale Versionen in einer Cloud oder im E-Mail-Postfach ab. Genauso lohnt sich ein Blick auf eine durchdachte [Packliste für Städtereisen](/magazin/packliste-staedtereisen/), damit du Dokumente und Wertsachen von Anfang an gut organisiert verstaust. Recherchiere außerdem die örtlichen Notrufnummern. In vielen Ländern erreichst du den Notruf über die 112, in den USA über die 911. Notiere dir auch die Adresse der deutschen Botschaft oder des Konsulats am Reiseziel.
 
 ## Wie bleibe ich in der Stadt sicher unterwegs?
 
-In der Stadt selbst sind es oft die kleinen Gewohnheiten, die einen Unterschied machen. In öffentlichen Verkehrsmitteln solltest du dich vorab über Linien und Betriebszeiten informieren und Tickets nur an offiziellen Stellen kaufen. In vollen Bahnen lohnt es sich, die Tasche nach vorne zu tragen und nicht direkt an den Türen zu stehen.
+In der Stadt selbst sind es oft die kleinen Gewohnheiten, die einen Unterschied machen. Wer sich vorab mit [Bus, Bahn und Co. in der Metropole](/magazin/oeffentlicher-verkehr/) vertraut macht, ist auch sicherer unterwegs: In öffentlichen Verkehrsmitteln solltest du dich vorab über Linien und Betriebszeiten informieren und Tickets nur an offiziellen Stellen kaufen. In vollen Bahnen lohnt es sich, die Tasche nach vorne zu tragen und nicht direkt an den Türen zu stehen.
 
-In Menschenmengen gilt: bleib aufmerksam und lass dich nicht durch das Smartphone ablenken. Bewege dich eher am Rand der Menge und trage Wertsachen nicht in leicht zugänglichen Außentaschen. Nachts wählst du am besten belebte, gut beleuchtete Wege und vertraust auf geprüfte Karten-Apps. Für späte Heimwege sind offizielle Taxis oder verifizierte Fahrdienste die sicherste Wahl. Teile deine Route mit jemandem zu Hause, damit im Zweifel jemand Bescheid weiß.
+In Menschenmengen gilt: bleib aufmerksam und lass dich nicht durch das Smartphone ablenken. Bewege dich eher am Rand der Menge und trage Wertsachen nicht in leicht zugänglichen Außentaschen. Nachts wählst du am besten belebte, gut beleuchtete Wege und vertraust auf geprüfte Karten-Apps. Für späte Heimwege sind offizielle Taxis oder verifizierte Fahrdienste die sicherste Wahl. Teile deine Route mit jemandem zu Hause, damit im Zweifel jemand Bescheid weiß. Wenn du allein unterwegs bist, findest du im Leitfaden für [Solo-Städtereisen](/magazin/solo-staedtereisen/) noch weitere Tipps, um entspannt und sicher durch die Stadt zu kommen.
 
 ## Wie schütze ich Geld und Wertsachen vor Diebstahl?
 
@@ -62,6 +62,6 @@ An heißen Reisezielen schützt du dich mit Sonnencreme, Kopfbedeckung und ausre
 
 ## Wie verhalte ich mich respektvoll vor Ort?
 
-Kulturelle Rücksichtnahme macht die Reise nicht nur sicherer, sondern auch schöner. Informiere dich vorab über Kleidungs- und Verhaltensregeln, besonders an religiösen oder historischen Stätten. Ein paar Wörter in der Landessprache wie Hallo, Bitte und Danke öffnen Türen und sorgen für freundliche Begegnungen.
+Kulturelle Rücksichtnahme macht die Reise nicht nur sicherer, sondern auch schöner. Wer ohnehin Wert auf bewussten Umgang mit Mensch und Umwelt legt, findet im Ratgeber zu [nachhaltigen Städtereisen](/magazin/nachhaltige-staedtereisen/) viele passende Anregungen. Informiere dich vorab über Kleidungs- und Verhaltensregeln, besonders an religiösen oder historischen Stätten. Ein paar Wörter in der Landessprache wie Hallo, Bitte und Danke öffnen Türen und sorgen für freundliche Begegnungen.
 
 Beim Fotografieren gilt Zurückhaltung: Frage, bevor du Menschen ablichtest, und beachte Verbote an heiligen oder militärischen Orten. Wer offen, freundlich und respektvoll auftritt, erlebt Städtereisen fast immer von ihrer besten Seite und kehrt mit guten Erinnerungen statt mit Ärger zurück.

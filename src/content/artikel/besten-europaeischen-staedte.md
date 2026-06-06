@@ -18,11 +18,11 @@ faq:
     a: "Die original Pastéis de Belém, cremige Blätterteigtörtchen mit Zimt und Puderzucker, die es dort seit 1837 gibt. Dazu eine Fahrt mit der historischen Tram 28."
 ---
 
-Europa lässt sich wunderbar spontan entdecken. Auf engem Raum reihen sich Metropolen aneinander, die Geschichte, Kultur, gutes Essen und Lebensgefühl auf jeweils ganz eigene Art verbinden. Wer kurzfristig weg möchte, findet hier vier Städte, die sich für einen Last-Minute-Trip besonders lohnen.
+Europa lässt sich wunderbar spontan entdecken. Auf engem Raum reihen sich Metropolen aneinander, die Geschichte, Kultur, gutes Essen und Lebensgefühl auf jeweils ganz eigene Art verbinden. Wer kurzfristig weg möchte, findet hier vier Städte, die sich für einen Last-Minute-Trip besonders lohnen. Wenn du ohnehin nur ein paar Tage Zeit hast, helfen dir unsere Tipps für eine gut geplante [Wochenend-Städtereise](/magazin/wochenend-staedtereisen/), das Beste aus der kurzen Auszeit herauszuholen.
 
 ## Warum eignet sich Barcelona für einen Kurztrip?
 
-Barcelona vereint Strand, Architektur und mediterrane Lebensfreude in einer einzigen Stadt. Das Wahrzeichen ist zweifellos die Handschrift von Antoni Gaudí, dessen verspielte Bauten die Stadt prägen wie kaum etwas anderes.
+Barcelona vereint Strand, Architektur und mediterrane Lebensfreude in einer einzigen Stadt. Das Wahrzeichen ist zweifellos die Handschrift von Antoni Gaudí, dessen verspielte Bauten zu den [eindrucksvollsten architektonischen Wundern Europas](/magazin/architektonische-wunder/) zählen und die Stadt prägen wie kaum etwas anderes. Wenn du die Sagrada Família von innen sehen willst, lohnt sich ein [Ticket mit fester Einlasszeit](https://www.getyourguide.de/) vorab, denn vor Ort bilden sich oft lange Schlangen.
 
 Wenn du nur wenig Zeit hast, lohnen sich diese Höhepunkte besonders:
 
@@ -30,7 +30,7 @@ Wenn du nur wenig Zeit hast, lohnen sich diese Höhepunkte besonders:
 - Park Güell mit den bunten Mosaiken
 - Casa Batlló und La Pedrera am Passeig de Gràcia
 
-Abends gehört die Stadt den Tapas-Bars. Patatas Bravas, Pimientos de Padrón, Jamón Ibérico oder Garnelen in Knoblauch teilst du dir am besten in geselliger Runde. Wer danach noch Energie hat, lässt den Tag am Stadtstrand ausklingen, oft mit einem kühlen Getränk und Blick aufs Meer.
+Abends gehört die Stadt den Tapas-Bars. Patatas Bravas, Pimientos de Padrón, Jamón Ibérico oder Garnelen in Knoblauch teilst du dir am besten in geselliger Runde, ganz so, wie es sich für eine [kulinarische Entdeckungstour durch die Stadt](/magazin/kulinarische-entdeckungen/) gehört. Wer danach noch Energie hat, lässt den Tag am Stadtstrand ausklingen, oft mit einem kühlen Getränk und Blick aufs Meer.
 
 ## Was macht Prag und Amsterdam besonders?
 
@@ -38,7 +38,7 @@ Prag, die goldene Stadt an der Moldau, wirkt wie ein begehbares Bilderbuch. Im Z
 
 Zur tschechischen Kultur gehört das Bier. In den traditionsreichen Lokalen kommen Pilsner Urquell, Budweiser Budvar oder Kozel frisch gezapft auf den Tisch, am liebsten begleitet von herzhafter Küche und gemütlicher Kaffeehausatmosphäre.
 
-Amsterdam wiederum lebt von seinen Grachten und der Kunst. Eine Bootsfahrt durch die Kanäle ist der schönste Einstieg, vorbei am Anne-Frank-Haus und den schmalen Giebelhäusern. Im Rijksmuseum hängen Meisterwerke wie Rembrandts Nachtwache und Vermeers Milchmagd. Wer es ruhiger mag, schlendert durch das charmante Viertel Jordaan mit seinen versteckten Hofjes.
+Amsterdam wiederum lebt von seinen Grachten und der Kunst. Eine Bootsfahrt durch die Kanäle ist der schönste Einstieg, vorbei am Anne-Frank-Haus und den schmalen Giebelhäusern. Im Rijksmuseum hängen Meisterwerke wie Rembrandts Nachtwache und Vermeers Milchmagd, ein Pflichtbesuch für alle, die [Museen und Galerien auf Städtereisen](/magazin/kultur-pur/) lieben. Wer es ruhiger mag, schlendert durch das charmante Viertel Jordaan mit seinen versteckten Hofjes.
 
 ## Welche Stadt passt zu welchem Reisetyp?
 
@@ -55,4 +55,6 @@ Lissabon ist auf sieben Hügeln gebaut, und genau das macht seinen Charme aus. V
 
 Statt zu Fuß alle Hügel zu erklimmen, nimmst du am besten die historische Tram 28. Sie rumpelt vom Martim Moniz durch die engen Gassen von Alfama und Graça und zeigt dir nebenbei die schönsten Ecken der Stadt.
 
-Zum Abschluss gehört ein Stopp in Belém. Dort gibt es seit 1837 die original Pastéis de Belém, warme Blätterteigtörtchen, die mit etwas Zimt und Puderzucker einfach perfekt schmecken. Welche Stadt am Ende deine Favoritin wird, entscheidest du am besten selbst, schön sind sie alle vier.
+Zum Abschluss gehört ein Stopp in Belém. Dort gibt es seit 1837 die original Pastéis de Belém, warme Blätterteigtörtchen, die mit etwas Zimt und Puderzucker einfach perfekt schmecken. Welche Stadt am Ende deine Favoritin wird, entscheidest du am besten selbst, schön sind sie alle vier. Hast du dich entschieden, findest du für jede der vier Metropolen schnell eine [passende Unterkunft mit zentraler Lage](https://www.booking.com/).
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

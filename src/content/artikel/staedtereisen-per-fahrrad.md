@@ -22,7 +22,7 @@ Eine Stadt vom Fahrradsattel aus zu erleben verändert die ganze Perspektive. St
 
 Der Schlüssel zu einer entspannten Tour liegt in der Vorbereitung. Du musst kein Profi sein, aber ein paar Dinge solltest du im Voraus klären, damit unterwegs nichts schiefläuft.
 
-Plane deine Route grob, bevor du losfährst. Apps wie Komoot oder Google Maps zeigen dir radfreundliche Wege und helfen dir, stark befahrene Hauptstraßen zu umgehen. Achte außerdem darauf, dass deine Unterkunft fahrradfreundlich ist, also einen sicheren Abstellplatz oder Verleih anbietet.
+Plane deine Route grob, bevor du losfährst. Apps wie Komoot oder Google Maps zeigen dir radfreundliche Wege und helfen dir, stark befahrene Hauptstraßen zu umgehen. Achte außerdem darauf, dass deine Unterkunft fahrradfreundlich ist, also einen sicheren Abstellplatz oder Verleih anbietet. Eine [fahrradfreundliche Unterkunft findest du zum Beispiel über Booking.com](https://www.booking.com/), wo du gezielt nach Häusern mit Stellplatz filtern kannst. Wer es gern besonders mag, wird auch bei den [außergewöhnlichen und nachhaltigen Unterkünften für Städtereisen](/magazin/innovative-unterkuenfte/) fündig.
 
 Diese Ausrüstung gehört in jedes Gepäck:
 
@@ -44,7 +44,7 @@ Manche Städte sind regelrecht für Radfahrer gemacht. Drei Klassiker stechen he
 
 **Berlin** bietet eine ganz andere Mischung: viel Geschichte, viel Kultur und überraschend grüne Routen. Der Berliner Mauerweg, der Spree-Radweg und der Tiergarten lassen sich wunderbar mit dem Rad verbinden, und zwischendurch findest du immer wieder Cafés zum Pausieren.
 
-Natürlich eignen sich auch viele andere Ziele, von München bis Wien. Wichtig ist vor allem, dass die Stadt durchgehende Radwege und ein überschaubares Tempo im Stadtverkehr bietet.
+Natürlich eignen sich auch viele andere Ziele, von München bis Wien. Wichtig ist vor allem, dass die Stadt durchgehende Radwege und ein überschaubares Tempo im Stadtverkehr bietet. Wenn du noch unentschlossen bist, hilft dir vielleicht unsere Auswahl der [besten europäischen Städte für einen spontanen Trip](/magazin/besten-europaeischen-staedte/) bei der Zielwahl. Wie gut sich Rad, Bahn und Bus vor Ort ergänzen, zeigt außerdem unser Überblick zum [öffentlichen Verkehr in Metropolen](/magazin/oeffentlicher-verkehr/).
 
 ## Worauf sollte ich beim Thema Sicherheit achten?
 
@@ -57,12 +57,14 @@ Ein paar Grundregeln machen den Unterschied:
 - Trage bei Dämmerung reflektierende Kleidung und schalte das Licht früh ein
 - Halte in fremden Städten lieber etwas mehr Abstand zu Fußgängern und Tram-Schienen
 
-Diebstahl ist in vielen Metropolen ein reales Thema. Ein hochwertiges Schloss und ein guter Abstellplatz sind die beste Versicherung gegen unangenehme Überraschungen.
+Diebstahl ist in vielen Metropolen ein reales Thema. Ein hochwertiges Schloss und ein guter Abstellplatz sind die beste Versicherung gegen unangenehme Überraschungen. Wer darüber hinaus entspannt unterwegs sein möchte, findet in unseren allgemeinen [Sicherheitstipps für Städtereisen](/magazin/sicherheitstipps/) weitere praktische Hinweise.
 
 ## Ist Radfahren wirklich die nachhaltigere Art zu reisen?
 
 Ja, und das ist einer der schönsten Nebeneffekte. Wer eine Stadt mit dem Rad erkundet, verursacht keine zusätzlichen Emissionen, vermeidet Staus und entlastet den öffentlichen Nahverkehr.
 
-Gleichzeitig unterstützt du die lokale Wirtschaft auf eine angenehme Art. Du hältst spontan an kleinen Läden, Märkten und Cafés, die du im Auto oder Bus glatt übersehen hättest. Dieser langsamere, bewusstere Reisestil bringt dich näher an den Alltag der Menschen vor Ort.
+Gleichzeitig unterstützt du die lokale Wirtschaft auf eine angenehme Art. Du hältst spontan an kleinen Läden, Märkten und Cafés, die du im Auto oder Bus glatt übersehen hättest. Dieser langsamere, bewusstere Reisestil bringt dich näher an den Alltag der Menschen vor Ort und passt gut zu den Ideen aus unserem Ratgeber zu [nachhaltigen Städtereisen](/magazin/nachhaltige-staedtereisen/).
 
 Wenn du Lust bekommen hast, dein nächstes Städteziel auf zwei Rädern zu entdecken: Such dir eine fahrradfreundliche Stadt aus, pack das Nötigste ein und lass dich treiben. Oft sind es genau die ungeplanten Abzweigungen, die eine Reise unvergesslich machen.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

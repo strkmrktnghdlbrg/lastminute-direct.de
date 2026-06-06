@@ -18,7 +18,7 @@ faq:
     a: "Sonnencreme mit hohem Lichtschutzfaktor, Wasser, Kopfbedeckung, ein kleines Erste-Hilfe-Set, Essig gegen Quallenkontakt und genug zu trinken decken die wichtigsten Notfälle ab."
 ---
 
-Ein Tag am Meer gehört für viele zum schönsten Teil des Urlaubs. Damit Sonne, Sand und Wellen wirklich entspannend bleiben, lohnt sich ein wenig Vorbereitung. Wer die typischen Gefahren kennt und ein paar einfache Regeln beachtet, kann den Strandtag deutlich sorgenfreier genießen.
+Ein Tag am Meer gehört für viele zum schönsten Teil des Urlaubs. Damit Sonne, Sand und Wellen wirklich entspannend bleiben, lohnt sich ein wenig Vorbereitung. Wer die typischen Gefahren kennt und ein paar einfache Regeln beachtet, kann den Strandtag deutlich sorgenfreier genießen. Das gilt am Hausstrand genauso wie auf einer Tour zu [versteckten Buchten abseits der Massen](/magazin/unentdeckte-straende/), wo oft kein Rettungsschwimmer in der Nähe ist.
 
 ## Welche Gefahren lauern am Strand wirklich?
 
@@ -35,7 +35,7 @@ Wer diese Risiken im Hinterkopf behält, reagiert im Ernstfall ruhiger und schne
 
 Sicheres Baden beginnt mit der Wahl des richtigen Ortes. Bewachte Strandabschnitte mit Rettungsschwimmern sind immer die bessere Wahl, denn dort wird die Wasserlage laufend beobachtet.
 
-Achte auf die Flaggen am Strand: Grün bedeutet sicheres Baden, Gelb mahnt zur Vorsicht und Rot signalisiert ein Badeverbot. Schwarz-weiße Flaggen markieren häufig Bereiche für Surfer, in denen Schwimmen nicht ratsam ist.
+Achte auf die Flaggen am Strand: Grün bedeutet sicheres Baden, Gelb mahnt zur Vorsicht und Rot signalisiert ein Badeverbot. Schwarz-weiße Flaggen markieren häufig Bereiche für Surfer, in denen Schwimmen nicht ratsam ist. Gerade an [Stränden, die auf Wassersport ausgelegt sind](/magazin/straende-fuer-wassersport/), gilt es, sich an diese Aufteilung zu halten und Schwimm- und Surfzonen nicht zu vermischen.
 
 Gehe nie allein und nicht direkt nach einer üppigen Mahlzeit oder Alkohol ins Wasser. Bleibe in einer Tiefe, in der du jederzeit sicher stehen kannst, und behalte das Ufer im Blick. Gerätst du in eine Strömung, bewahre Ruhe und schwimme seitlich heraus, statt dich gegen die Kraft des Wassers zu erschöpfen.
 
@@ -43,7 +43,7 @@ Gehe nie allein und nicht direkt nach einer üppigen Mahlzeit oder Alkohol ins W
 
 Mit Kindern verlangt der Strandtag besondere Aufmerksamkeit, denn schon flaches Wasser kann für die Kleinsten gefährlich werden. Eine durchgehende Beaufsichtigung ist hier das A und O.
 
-Babys und Kleinkinder brauchen Schatten, leichte UV-Kleidung und regelmäßige Trinkpausen. Für ältere Kinder helfen klare Absprachen: ein fester Treffpunkt, sichtbare Markierungen und die Regel, nie ohne Bescheid ins Wasser zu gehen. Schwimmhilfen ersetzen niemals die Aufsicht, sondern ergänzen sie nur.
+Babys und Kleinkinder brauchen Schatten, leichte UV-Kleidung und regelmäßige Trinkpausen. Für ältere Kinder helfen klare Absprachen: ein fester Treffpunkt, sichtbare Markierungen und die Regel, nie ohne Bescheid ins Wasser zu gehen. Schwimmhilfen ersetzen niemals die Aufsicht, sondern ergänzen sie nur. Wenn du den gesamten [Strandurlaub mit der Familie](/magazin/strandurlaub-der-familie/) planst, lohnt es sich, schon bei der Wahl von Ziel und Unterkunft auf flach abfallende, bewachte Strände zu achten.
 
 Es hilft, Kindern altersgerecht zu erklären, warum bestimmte Regeln wichtig sind. Wer versteht, warum er nicht zu weit hinausschwimmen soll, hält sich eher daran.
 
@@ -57,7 +57,7 @@ Eine gut gepackte Strandtasche nimmt vielen kleinen Problemen den Schrecken. Mit
 - Ein kleines Erste-Hilfe-Set für Schürfwunden und Stiche
 - Essig zur Linderung bei Quallenkontakt
 
-Plane außerdem genug Pausen im Schatten ein, gerade in der Mittagshitze. So bleibt die Energie erhalten und der Körper kommt nicht aus dem Gleichgewicht.
+Plane außerdem genug Pausen im Schatten ein, gerade in der Mittagshitze. So bleibt die Energie erhalten und der Körper kommt nicht aus dem Gleichgewicht. Wer beim Sonnenschutz auch an die passende Ausstattung denkt, findet in unserem Überblick zur [Strandmode und den wichtigsten Must-haves](/magazin/strandmode/) Anregungen für UV-Kleidung, Hüte und Sonnenbrillen.
 
 ## Warum sich die Vorsorge lohnt
 

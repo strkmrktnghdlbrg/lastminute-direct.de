@@ -33,9 +33,9 @@ Grob lassen sich Europas Strände in ein paar Stimmungen einteilen:
 
 ## Wo liegen die schönsten Buchten im Mittelmeer?
 
-Die italienische Insel **Sardinien** ist ein echter Geheimtipp für Buchtenliebhaber. Die **Cala Goloritzé** an der Ostküste besticht mit schneeweißen Kieseln und unglaublich klarem, türkisem Wasser. Sie ist nur per Boot oder über einen Wanderweg zu erreichen, was sie angenehm ruhig hält. Wer es familienfreundlicher mag, ist an der **Spiaggia di Tuerredda** im Süden gut aufgehoben: feiner weißer Sand, flaches Wasser und grüne Hügel ringsum. Die **Cala Luna** wiederum lockt mit beeindruckenden Höhlen und ist ein Traum zum Schnorcheln.
+Die italienische Insel **Sardinien** ist ein echter Geheimtipp für Buchtenliebhaber. Die **Cala Goloritzé** an der Ostküste besticht mit schneeweißen Kieseln und unglaublich klarem, türkisem Wasser. Sie ist nur per Boot oder über einen Wanderweg zu erreichen, was sie angenehm ruhig hält. Wer es familienfreundlicher mag, ist an der **Spiaggia di Tuerredda** im Süden gut aufgehoben: feiner weißer Sand, flaches Wasser und grüne Hügel ringsum. Die **Cala Luna** wiederum lockt mit beeindruckenden Höhlen und ist ein Traum [zum Schnorcheln](/magazin/straende-fuer-schnorchler/).
 
-Auch **Griechenland** verzaubert mit malerischen Küsten. Der berühmte **Navagio Beach** auf Zakynthos mit seinem gestrandeten Schiffswrack ist nur per Boot erreichbar und bietet von oben einen spektakulären Ausblick über die Klippen. Auf Kreta überrascht der **Elafonissi Beach** mit rosafarbenem Sand, der durch zerriebene Muscheln entsteht, während der **Myrtos Beach** auf Kefalonia mit dramatischen Klippen und leuchtend blauem Wasser beeindruckt.
+Auch **Griechenland** verzaubert mit malerischen Küsten. Der berühmte **Navagio Beach** auf Zakynthos mit seinem gestrandeten Schiffswrack ist nur per Boot erreichbar und bietet von oben einen spektakulären Ausblick über die Klippen. Für die Anfahrt findest du vor Ort viele [Bootstouren zu den Buchten](https://www.getyourguide.de/), die sich vorab buchen lassen. Auf Kreta überrascht der **Elafonissi Beach** mit rosafarbenem Sand, der durch zerriebene Muscheln entsteht, während der **Myrtos Beach** auf Kefalonia mit dramatischen Klippen und leuchtend blauem Wasser beeindruckt.
 
 Italien hat noch mehr zu bieten: Die **Spiaggia dei Conigli** auf Lampedusa gilt als kleines Paradies, die **Cala Rossa** auf Favignana fasziniert mit Felsformationen, und die **Marina Piccola** auf Capri bietet einen einmaligen Blick auf die Faraglioni-Felsen.
 
@@ -43,15 +43,17 @@ Italien hat noch mehr zu bieten: Die **Spiaggia dei Conigli** auf Lampedusa gilt
 
 Nicht nur das Mittelmeer hat Traumstrände. **Portugal** punktet mit über 800 Kilometern Küste, von den dramatischen Felsbuchten der Algarve bis zu weiten Surferstränden im Norden. **Frankreich** bietet alles von türkisfarbenem Wasser an der Côte d'Azur bis zu den weiten Sandstränden der Atlantikküste.
 
-**Kroatien** ist bekannt für seine unberührten Küsten und sein kristallklares Wasser, etwa am ruhigen Sakarun-Strand auf Dugi Otok. Und selbst **Skandinavien** hält Überraschungen bereit: Der Sønderstrand in Dänemark und der weitläufige Yyteri Beach in Finnland zeigen, dass schöne Strände nicht immer mediterran sein müssen.
+**Kroatien** ist bekannt für seine unberührten Küsten und sein kristallklares Wasser, etwa am ruhigen Sakarun-Strand auf Dugi Otok, einem der vielen [unentdeckten Strände in Europa](/magazin/unentdeckte-straende/) abseits der Massen. Und selbst **Skandinavien** hält Überraschungen bereit: Der Sønderstrand in Dänemark und der weitläufige Yyteri Beach in Finnland zeigen, dass schöne Strände nicht immer mediterran sein müssen.
 
 ## Wie findest du den passenden Strand für dich?
 
-Bevor du buchst, lohnt es sich kurz zu überlegen, was dir am Strand am wichtigsten ist:
+Bevor du eine [Unterkunft in Strandnähe buchst](https://www.booking.com/), lohnt es sich kurz zu überlegen, was dir am Strand am wichtigsten ist:
 
-- **Familien** sollten auf flach abfallendes Wasser und Infrastruktur achten, etwa auf Mallorca oder an der Algarve.
+- **Familien** sollten auf flach abfallendes Wasser und Infrastruktur achten, etwa auf Mallorca oder an der Algarve, wie wir sie im [Strandurlaub mit der Familie](/magazin/strandurlaub-der-familie/) genauer vorstellen.
 - **Ruhesuchende** finden an schwer erreichbaren Buchten wie der Cala Goloritzé oder am Sakarun mehr Privatsphäre.
 - **Aktivurlauber** sind an Surf- und Schnorchelspots wie Elafonissi oder Myrtos bestens aufgehoben.
-- **Sparfüchse** reisen in der Nebensaison im Juni oder September und sichern sich oft deutlich günstigere Last-Minute-Angebote.
+- **Sparfüchse** reisen in der [Nebensaison im Juni oder September](/magazin/strandurlaube-nebensaison/) und sichern sich oft deutlich günstigere Last-Minute-Angebote.
 
 Europa hat noch hunderte weiterer sehenswerter Strände und Buchten zu bieten. Egal ob du Trubel oder Einsamkeit, Wellen oder spiegelglattes Wasser suchst, der passende Strand wartet schon auf dich. Pack die Badesachen ein und finde deinen ganz persönlichen Lieblingsplatz am Meer.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

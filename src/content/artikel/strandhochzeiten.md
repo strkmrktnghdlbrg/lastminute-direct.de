@@ -25,7 +25,7 @@ Sand unter den Füßen, das Rauschen der Wellen und ein Sonnenuntergang als Kuli
 Du musst für eine Strandhochzeit nicht in die Karibik fliegen. Nord- und Ostsee bieten stimmungsvolle Kulissen mit weiten Sandstränden und Dünen. Besonders beliebt sind die Inseln, weil sie eine eigene Atmosphäre und oft passende Hochzeitsangebote mitbringen.
 
 - **Ostsee:** Strände von Usedom, Rügen oder Fehmarn mit feinem Sand und ruhigem Wasser.
-- **Nordsee:** Inseln wie Borkum, Sylt oder das niederländische Texel ganz in der Nähe.
+- **Nordsee:** Inseln wie Borkum, Sylt oder das niederländische Texel ganz in der Nähe. Welche Insel zu euch passt, zeigt dir unsere Übersicht der [schönsten Inseln für den Strandurlaub](/magazin/besten-inseln/).
 - **Private Strandabschnitte:** Viele Hotels und Strandhäuser vermieten geschützte Bereiche samt Komplettpaket für die Feier.
 
 Strandhotels mit Hochzeitspaketen nehmen dir viel Organisation ab, von der Deko bis zum Catering. Wenn du es persönlicher magst, kannst du einen Strandabschnitt mieten und alles selbst gestalten.
@@ -36,7 +36,7 @@ Der größte Unterschied zur klassischen Hochzeit ist das Wetter. Am Meer kann s
 
 - Behalte die Wettervorhersage in den Tagen davor im Blick und plane eine überdachte Alternative ein.
 - Denke an die Gäste: Sandige Wege, Wind und Sonne sind für ältere oder kleine Besucher anstrengend, also halte Sitzgelegenheiten und Schatten bereit.
-- Kläre Unterkünfte frühzeitig, gerade auf Inseln sind Zimmer in der Saison schnell ausgebucht.
+- Kläre Unterkünfte frühzeitig, gerade auf Inseln sind Zimmer in der Saison schnell ausgebucht. Für eure Gäste lohnt sich ein früher Blick auf [Hotels an Nord- und Ostsee](https://www.booking.com/), bevor die schönen Zimmer weg sind.
 - Wähle Deko, die dem Wind standhält, etwa beschwerte Tischläufer, Laternen statt offener Kerzen und robuste Blumengestecke.
 
 Eine freie Trauung gibt dir am Strand die meiste Gestaltungsfreiheit. Die rechtsgültige Eheschließung erledigst du dann im Vorfeld oder parallel im Standesamt.
@@ -45,7 +45,7 @@ Eine freie Trauung gibt dir am Strand die meiste Gestaltungsfreiheit. Die rechts
 
 Im Sand und bei Meeresbrise zählt Bequemlichkeit. Schwere Roben mit langer Schleppe sind hier eher unpraktisch, leichte Stoffe dagegen perfekt.
 
-- Fließende Materialien wie Chiffon, Seide oder Leinen halten kühl und bewegen sich schön im Wind.
+- Fließende Materialien wie Chiffon, Seide oder Leinen halten kühl und bewegen sich schön im Wind. Auch sonst gilt am Meer leicht und luftig, wie du es in unseren Tipps zur [passenden Strandmode](/magazin/strandmode/) findest.
 - Flache Brautsandalen oder barfuß im warmen Sand erleichtern das Laufen.
 - Wasserfestes Make-up und eine windtaugliche Frisur, etwa ein lockerer Zopf, sorgen für gute Fotos ohne Stress.
 
@@ -59,8 +59,10 @@ Plane die Trauung nicht zu knapp vor Sonnenuntergang, damit ihr genug Zeit für 
 
 ## Wie lässt sich am Strand oder auf dem Schiff feiern?
 
-Nach der Trauung sind dir bei der Feier kaum Grenzen gesetzt. Vom lockeren Barbecue über ein festliches Dinner bis zur Strandparty mit Lagerfeuer ist alles möglich. Achte vor allem darauf, dass es den Gästen bequem bleibt, mit ausreichend Sitzplätzen, Decken für kühlere Abendstunden und Getränken in Reichweite.
+Nach der Trauung sind dir bei der Feier kaum Grenzen gesetzt. Vom lockeren Barbecue über ein festliches Dinner bis zur Strandparty mit Lagerfeuer ist alles möglich. Wer mit Meerblick speisen möchte, findet in einem der schönen [Strandrestaurants mit Panorama](/magazin/strandrestaurants/) eine stimmungsvolle Kulisse für das Hochzeitsessen. Achte vor allem darauf, dass es den Gästen bequem bleibt, mit ausreichend Sitzplätzen, Decken für kühlere Abendstunden und Getränken in Reichweite.
 
 Eine besondere Variante ist die Hochzeit auf dem Schiff. Viele Reedereien bieten Pakete für Trauungen an Bord an, etwa auf der Elbe in Hamburg, auf dem Rhein oder direkt auf Nord- und Ostsee. So verbindet ihr die Romantik des Wassers mit der Feier an einem Ort.
 
-Egal ob im Sand oder an Deck: Mit etwas Vorausplanung und einem entspannten Plan B wird die Hochzeit am Meer zu einem Tag, an den sich alle gern erinnern.
+Egal ob im Sand oder an Deck: Mit etwas Vorausplanung und einem entspannten Plan B wird die Hochzeit am Meer zu einem Tag, an den sich alle gern erinnern. Und für die Flitterwochen danach liefern unsere [romantischen Strandurlaube für Paare](/magazin/romantische-strandurlaube/) gleich die nächste Idee.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

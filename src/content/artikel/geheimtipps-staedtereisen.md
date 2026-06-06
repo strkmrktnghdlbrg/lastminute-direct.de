@@ -31,7 +31,7 @@ So kommst du an die guten Adressen:
 - Plane bewusst freie Zeit zum Schlendern ein, denn die besten Funde sind oft spontan.
 - Achte auf Aushänge zu Stadtteilfesten, Flohmärkten oder kleinen Konzerten.
 
-Auch lokale Märkte lohnen fast immer einen Besuch. Hier gibt es frische Produkte, handgemachte Waren und einen direkten Draht zu den Menschen vor Ort. Informiere dich vorher über die Öffnungszeiten, probier regionale Spezialitäten und nimm etwas Bargeld mit, da kleine Stände selten Karten akzeptieren.
+Auch lokale Märkte lohnen fast immer einen Besuch. Hier gibt es frische Produkte, handgemachte Waren und einen direkten Draht zu den Menschen vor Ort. Informiere dich vorher über die Öffnungszeiten, probier regionale Spezialitäten und nimm etwas Bargeld mit, da kleine Stände selten Karten akzeptieren. Wenn du noch mehr aus deinem kleinen Reisebudget herausholen willst, helfen dir unsere Tipps für [budgetfreundliche Städtereisen](/magazin/budgetfreundliche-staedtereisen/) weiter.
 
 ## Wie isst du authentisch statt in der Touristenfalle?
 
@@ -43,7 +43,7 @@ Ein paar einfache Regeln helfen weiter:
 - Sei skeptisch bei Speisekarten in fünf Sprachen direkt an der Hauptattraktion.
 - Frag Servicekräfte oder Ladenbesitzer, wo sie selbst essen gehen.
 
-Versteckte Cafés und Bars verstecken sich gern in schmalen Gassen oder Hinterhöfen. Wer dem Tipp eines Einheimischen folgt, landet oft an einem Ort, den keine App auf der ersten Seite zeigt. Auch Streetfood-Stände und Markthallen sind eine günstige und sehr authentische Variante, besonders am frühen Morgen, wenn alles frisch ist.
+Versteckte Cafés und Bars verstecken sich gern in schmalen Gassen oder Hinterhöfen. Wer dem Tipp eines Einheimischen folgt, landet oft an einem Ort, den keine App auf der ersten Seite zeigt. Auch Streetfood-Stände und Markthallen sind eine günstige und sehr authentische Variante, besonders am frühen Morgen, wenn alles frisch ist. Wer die Stadt am liebsten mit Messer und Gabel entdeckt, findet in unseren [kulinarischen Entdeckungen auf Städtereisen](/magazin/kulinarische-entdeckungen/) noch konkretere Routen für echten Genuss.
 
 ## Welche kulturellen Entdeckungen lohnen abseits der Highlights?
 
@@ -51,14 +51,18 @@ Neben den großen Museen gibt es in fast jeder Stadt eine lebendige, unabhängig
 
 Spannend sind außerdem historische Orte, die in keinem Standardführer auftauchen: alte Klöster, vergessene Befestigungen oder ganze Wohnviertel mit eigener Geschichte. Solche Stätten sind häufig kostenlos oder kosten nur wenig Eintritt und erzählen die Vergangenheit einer Stadt aus einer ungewohnten Perspektive.
 
-Wenn du gern aktiv bist, sind nächtliche Spaziergänge zu beleuchteten Aussichtspunkten oder ein Escape Room mit lokalem Thema eine schöne Abwechslung. So erlebst du die Stadt auch von ihrer verspielten und überraschenden Seite.
+Wenn du dem Trubel zwischendurch entkommen willst, lohnt sich ein Abstecher zu den ruhigen [Rückzugsorten mitten in der Großstadt](/magazin/entspannende-rueckzugsorte/), etwa versteckten Innenhöfen oder kleinen Parks. Wenn du gern aktiv bist, sind nächtliche Spaziergänge zu beleuchteten Aussichtspunkten oder ein Escape Room mit lokalem Thema eine schöne Abwechslung. Geführte Touren abseits der Standardrouten lassen sich unkompliziert vorab über [Anbieter für lokale Aktivitäten und Stadttouren](https://www.getyourguide.de/) buchen. So erlebst du die Stadt auch von ihrer verspielten und überraschenden Seite.
 
 ## So planst du deine Geheimtipp-Reise richtig
 
 Mit ein wenig Vorbereitung holst du deutlich mehr aus deiner Städtereise heraus. Drei Dinge machen den größten Unterschied:
 
-- Wähle die richtige Zeit. Frühling und Herbst sind angenehm ruhig, während die Wintermonate oft besondere Märkte und Veranstaltungen bieten.
+- Wähle die richtige Zeit. Frühling und Herbst sind angenehm ruhig, während die Wintermonate oft besondere Märkte und Veranstaltungen bieten. Welcher Monat zu welcher Stadt passt, zeigt dir unser [Saison-Guide für die beste Jahreszeit](/magazin/besten-jahreszeiten-staedtereisen/).
 - Nutze öffentliche Verkehrsmittel, Leihräder oder gehe zu Fuß. Das ist günstiger, umweltfreundlicher und du siehst deutlich mehr.
 - Kombiniere digitale Helfer mit echtem Austausch. Apps liefern eine erste Idee, doch die besten Tipps bekommst du im Gespräch vor Ort.
 
+Damit du wirklich im echten Viertel landest und nicht in der Touristenmeile, lohnt sich auch bei der Übernachtung ein Blick in Wohngegenden statt nur ins Zentrum. Eine [Unterkunft im richtigen Stadtteil](https://www.booking.com/) bringt dich automatisch näher an Bäckereien, Stammlokale und das Alltagsleben der Einheimischen.
+
 Am Ende lebt eine gelungene Städtereise von der Neugier, einfach mal abzubiegen. Lass dich treiben, sprich Menschen an und plane bewusst Lücken in deinen Tag. Genau in diesen Momenten entdeckst du die Geschichten, die deine Reise unvergesslich machen.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

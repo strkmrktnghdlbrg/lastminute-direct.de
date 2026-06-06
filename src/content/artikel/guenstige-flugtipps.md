@@ -24,11 +24,11 @@ Eine Städtereise muss kein Vermögen kosten. Der Flug ist dabei oft der größt
 
 Die ewige Frage lautet: früh buchen oder auf Last-Minute warten? Beide Wege funktionieren, sie passen nur zu unterschiedlichen Reisetypen.
 
-Wer Planungssicherheit mag, bucht etwa zwei bis drei Monate vor Abflug. Die Auswahl ist dann größer und die Preise oft noch moderat. Wer dagegen spontan und flexibel ist, kann mit echten Last-Minute-Angeboten wenige Wochen vorher punkten, geht aber das Risiko ein, dass kein passender Flug mehr frei ist.
+Wer Planungssicherheit mag, bucht etwa zwei bis drei Monate vor Abflug. Die Auswahl ist dann größer und die Preise oft noch moderat. Wer dagegen spontan und flexibel ist, kann mit echten [Last-Minute-Schnäppchen für Flug und Hotel](/magazin/last-minute-schnaeppchen/) wenige Wochen vorher punkten, geht aber das Risiko ein, dass kein passender Flug mehr frei ist.
 
 Ein paar Faustregeln helfen bei der Entscheidung:
 
-- Reise möglichst außerhalb der Hochsaison, also eher im Frühling oder Herbst statt in den Sommerferien.
+- Reise möglichst außerhalb der Hochsaison, also eher im Frühling oder Herbst statt in den Sommerferien. Welche Stadt zu welcher Saison passt, zeigt dir unser Überblick zur [besten Jahreszeit für deine Städtereise](/magazin/besten-jahreszeiten-staedtereisen/).
 - Meide Feiertage und Schulferien, weil die Preise dann verlässlich steigen.
 - Flüge mitten in der Woche, besonders dienstags und mittwochs, sind häufig günstiger als am Wochenende.
 
@@ -48,7 +48,7 @@ Ein Sonderfall sind sogenannte Error Fares, also fehlerhaft ausgepreiste Tarife.
 
 Gerade bei kurzen Städtetrips lohnt sich Reisen mit Handgepäck. Viele Airlines bieten günstigere Tarife ohne Aufgabegepäck, und du sparst dir das Warten am Gepäckband.
 
-Damit das klappt, hilft cleveres Packen:
+Damit das klappt, hilft cleveres Packen und eine durchdachte [Packliste für Städtereisen](/magazin/packliste-staedtereisen/):
 
 - Rolle Kleidung statt sie zu falten, das spart Platz und vermeidet Falten.
 - Nutze Packwürfel, um Ordnung zu halten.
@@ -60,10 +60,12 @@ Auch bei der Flughafenwahl steckt Sparpotenzial. Sekundärflughäfen sind oft de
 
 ## Welche Spartipps gibt es noch vor Ort?
 
-Sparen hört nicht beim Flug auf. Kombi-Angebote aus Flug und Hotel sind häufig günstiger als getrennte Buchungen und vereinfachen die Planung. Vergleiche trotzdem mit den Einzelpreisen und achte auf versteckte Kosten.
+Sparen hört nicht beim Flug auf. Kombi-Angebote aus Flug und Hotel sind häufig günstiger als getrennte Buchungen und vereinfachen die Planung. Vergleiche trotzdem mit den Einzelpreisen und achte auf versteckte Kosten. Für die Unterkunft lohnt sich ein Blick auf zentral gelegene [Hotels und Apartments auf Booking.com](https://www.booking.com/), wo du Lage, Preis und Bewertungen direkt nebeneinander siehst. Wie du darüber hinaus an jeder Ecke sparst, liest du in unserem Ratgeber zu [budgetfreundlichen Städtereisen](/magazin/budgetfreundliche-staedtereisen/).
 
-In der Stadt selbst helfen Städtepässe und Touristenkarten. Sie bündeln ermäßigten Eintritt zu Sehenswürdigkeiten und oft auch den Nahverkehr. Prüfe vor dem Kauf, ob sich der Pass für dein Programm wirklich rechnet und wie lange er gilt.
+In der Stadt selbst helfen Städtepässe und Touristenkarten. Sie bündeln ermäßigten Eintritt zu Sehenswürdigkeiten und oft auch den Nahverkehr. Prüfe vor dem Kauf, ob sich der Pass für dein Programm wirklich rechnet und wie lange er gilt. Einzelne Touren und Tickets lassen sich vorab oft günstiger über Plattformen wie [GetYourGuide](https://www.getyourguide.de/) sichern, wo du auch Bewertungen und Verfügbarkeit auf einen Blick hast.
 
 Und das Beste kostet manchmal gar nichts: Parks, Gärten, historische Plätze, kostenlose Stadtführungen und Museen mit freiem Eintritt machen jede Stadt erlebbar, ohne das Budget zu belasten. Ein kurzer Blick bei der örtlichen Touristeninformation verrät dir, welche kostenlosen Events gerade laufen.
 
 Mit etwas Planung und Flexibilität erkundest du so die schönsten Städte, ohne deine Finanzen zu strapazieren.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

@@ -41,11 +41,11 @@ Viele renommierte Spa-Hotels sind im 4- oder 5-Sterne-Bereich angesiedelt und tr
 Du musst nicht weit reisen, um Meer und Wellness zu verbinden. An der deutschen Küste liegen klassische Bade- und Kurorte mit langer Tradition.
 
 - **Nordsee und Inseln:** Häuser auf Sylt und an der Nordseeküste setzen stark auf Thalasso und das raue, klare Reizklima.
-- **Ostseeküste:** Resorts an der Ostsee verbinden breite Sandstrände mit Thalasso-Therapie und entspannten Strandspaziergängen.
+- **Ostseeküste:** Resorts an der Ostsee verbinden breite Sandstrände mit Thalasso-Therapie und [entspannten Strandspaziergängen](/magazin/strandurlaube-nebensaison/).
 - **Alpen und Südtirol:** In den Bergen findest du großzügige Spa-Landschaften mit Rooftop-Pools und weitem Bergpanorama.
 - **Mittelgebirge:** Schwarzwald und Bayerischer Wald punkten mit Ruhe, Natur und umfangreichen Spa-Bereichen.
 
-Wenn dir warmes Meerwasser wichtiger ist als Heimatnähe, lohnt sich der Blick ans Mittelmeer oder auf die Kanaren, wo Strandhotels ebenfalls mit Spa-Bereichen ausgestattet sind.
+Wenn dir warmes Meerwasser wichtiger ist als Heimatnähe, lohnt sich der Blick ans Mittelmeer oder auf die Kanaren, wo Strandhotels ebenfalls mit Spa-Bereichen ausgestattet sind. Magst du Achtsamkeit und sanfte Bewegung mit deiner Auszeit verbinden, sind auch [Yoga-Retreats am Meer](/magazin/strandurlaub-und-yoga/) eine schöne Alternative zum klassischen Spa-Hotel. Wer einen guten Platz zum Übernachten sucht, wird zudem schnell bei [Booking.com](https://www.booking.com/) fündig.
 
 ## Wie buchst du einen Wellness-Urlaub günstig?
 
@@ -56,13 +56,15 @@ So holst du mehr aus deinem Budget:
 - Reise unter der Woche statt am Wochenende
 - Nutze Nebensaison im Frühjahr und Herbst
 - Vergleiche Pauschalpakete mit Einzelpreisen
-- Halte Augen offen für Last-Minute-Angebote bei kurzfristiger Reisezeit
+- Halte Augen offen für [Last-Minute-Angebote](/magazin/last-minute-strandurlaube/) bei kurzfristiger Reisezeit
 - Prüfe, ob Gutscheine eine flexible Alternative zur festen Buchung sind
 
 Ein Gutschein ist übrigens eine schöne Geschenkidee, wenn du jemandem eine Auszeit schenken möchtest, ohne den Termin schon festzulegen.
 
 ## Für wen lohnt sich ein Spa-Resort am Meer?
 
-Wellness am Strand spricht viele Reisetypen an. Paare suchen Romantik und Ruhe, Alleinreisende eine echte Auszeit, und Familien profitieren von Häusern mit Kinderbereich. Auch wer mit Hund verreist, findet inzwischen Hotels, die Vierbeiner willkommen heißen.
+Wellness am Strand spricht viele Reisetypen an. Paare suchen Romantik und Ruhe, Alleinreisende eine echte Auszeit, und Familien profitieren von Häusern mit Kinderbereich. Gerade für eine entspannte Auszeit im Alter eignen sich Häuser, die auf einen [ruhigen Strandurlaub für Senioren](/magazin/strandurlaub-senioren/) ausgelegt sind. Auch wer mit Hund verreist, findet inzwischen Hotels in der Nähe schöner [Hundestrände](/magazin/hundestraende/), die Vierbeiner willkommen heißen.
 
 Am Ende zählt das Zusammenspiel aus Lage, Ausstattung und Stimmung. Überlege dir vorab, ob du eher aktiv sein möchtest, mit Wandern, Radfahren oder Golf, oder ob reines Abschalten im Vordergrund steht. Mit dieser Klarheit fällt die Wahl des passenden Resorts deutlich leichter.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

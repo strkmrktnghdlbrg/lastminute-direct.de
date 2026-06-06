@@ -40,7 +40,7 @@ Ein guter erster Anhaltspunkt ist die Blaue Flagge. Dieses internationale Siegel
 
 Dänemark und Schweden bieten zahlreiche sandige Küstenabschnitte, die diese Auszeichnung tragen. Der dänische Strand Tisvildeleje gilt als schönes Beispiel für eine saubere Umgebung und nachhaltige Praktiken. Schweden setzt seit Jahren konsequent auf erneuerbare Energien und hat sich Klimaneutralität als langfristiges Ziel gesetzt, was sich auch im touristischen Angebot widerspiegelt.
 
-Wer es naturnah und unkompliziert mag, findet vor allem in Ostdänemark viele Campingplätze mit Meerblick und umweltbewusstem Konzept. Camping ist ohnehin eine der ressourcenschonendsten Urlaubsformen, solange du Müll vermeidest und sparsam mit Wasser umgehst.
+Wer es naturnah und unkompliziert mag, findet vor allem in Ostdänemark viele Campingplätze mit Meerblick und umweltbewusstem Konzept. Camping ist ohnehin eine der ressourcenschonendsten Urlaubsformen, solange du Müll vermeidest und sparsam mit Wasser umgehst. Auch an der deutschen Küste gibt es schöne Plätze: In unserem Überblick zum [Strandcamping an Nord- und Ostsee](/magazin/strandcamping/) findest du naturnahe Optionen mit kurzer Anreise. Noch flexibler bist du, wenn du den [Strandurlaub mit dem Wohnmobil](/magazin/strandurlaub-wohnmobil/) verbindest und Stellplätze direkt am Wasser ansteuerst.
 
 ## Wie erkenne ich eine nachhaltige Unterkunft?
 
@@ -54,7 +54,7 @@ Darauf solltest du bei der Buchung achten:
 - Ökostrom sowie Verzicht auf wasserintensive Extras wie Pools und Golfplätze
 - kein täglicher Handtuchwechsel und sparsamer Umgang mit Ressourcen
 
-Lokal geführte Pensionen und kleine Hotels sind oft die bessere Wahl als große All-Inclusive-Anlagen. Das Geld bleibt in der Region, und die Wege für Lebensmittel sind meist kürzer. Frag vor der Buchung ruhig direkt nach, welche nachhaltigen Praktiken gelebt werden.
+Lokal geführte Pensionen und kleine Hotels sind oft die bessere Wahl als große All-Inclusive-Anlagen. Das Geld bleibt in der Region, und die Wege für Lebensmittel sind meist kürzer. Frag vor der Buchung ruhig direkt nach, welche nachhaltigen Praktiken gelebt werden. Bei der Suche nach kleinen, familiengeführten Häusern hilft es, gezielt nach umweltfreundlichen Unterkünften am Zielort zu filtern, etwa über [nachhaltige Unterkünfte in Dänemark](https://www.booking.com/searchresults.html?ss=Dänemark).
 
 ## Welche Aktivitäten passen zum grünen Strandurlaub?
 
@@ -67,12 +67,14 @@ Beliebt und naturverträglich sind:
 - Schnorcheln und Tauchen mit Rücksicht auf Riffe und Tierwelt
 - geführte Naturtouren mit ortskundigen Anbietern
 
-Solche Aktivitäten tun nicht nur der Umwelt gut, sondern auch dir. Bewegung an der frischen Luft baut Stress ab und macht den Urlaub spürbar erholsamer.
+Solche Aktivitäten tun nicht nur der Umwelt gut, sondern auch dir. Bewegung an der frischen Luft baut Stress ab und macht den Urlaub spürbar erholsamer. Wer beim Schnorcheln besonders rücksichtsvolle Spots sucht, wird in unserem Guide zu den [besten Stränden für Schnorchler und Taucher](/magazin/straende-fuer-schnorchler/) fündig. Geführte Naturtouren mit ortskundigen Anbietern lassen sich unkompliziert vorab buchen, etwa über Plattformen wie [GetYourGuide](https://www.getyourguide.de/), wo du Touren mit kleinen lokalen Veranstaltern findest.
 
 ## Bewusst genießen: nachhaltige Ernährung im Urlaub
 
 Was auf dem Teller landet, hat ebenfalls einen großen Einfluss. Wer regionale, saisonale und faire Produkte wählt, reduziert lange Transportwege und unterstützt zugleich die lokale Landwirtschaft. Lokale Wochenmärkte sind dafür ideal und nebenbei ein echtes kulinarisches Erlebnis.
 
-Vegetarische und vegane Gerichte schonen Ressourcen besonders effektiv. Der Restaurantführer HappyCow hilft dir, vor Ort passende Lokale zu finden. Und ganz praktisch: Iss lieber in kleinen, familiengeführten Restaurants als in austauschbaren Ketten. So schmeckt der Urlaub authentischer und das Geld kommt direkt bei den Menschen vor Ort an.
+Vegetarische und vegane Gerichte schonen Ressourcen besonders effektiv. Der Restaurantführer HappyCow hilft dir, vor Ort passende Lokale zu finden. Und ganz praktisch: Iss lieber in kleinen, familiengeführten Restaurants als in austauschbaren Ketten. So schmeckt der Urlaub authentischer und das Geld kommt direkt bei den Menschen vor Ort an. Wer den Genuss mit Meerblick verbinden möchte, findet in unserem Überblick zu [Strandrestaurants direkt am Wasser](/magazin/strandrestaurants/) Inspiration für entspannte Abende am Meer.
 
-Nachhaltiger Strandurlaub ist letztlich kein Verzicht, sondern eine andere, oft intensivere Art zu reisen. Mit jeder bewussten Entscheidung trägst du dazu bei, dass auch künftige Generationen unberührte Küsten und saubere Meere erleben können.
+Nachhaltiger Strandurlaub ist letztlich kein Verzicht, sondern eine andere, oft intensivere Art zu reisen. Mit jeder bewussten Entscheidung trägst du dazu bei, dass auch künftige Generationen unberührte Küsten und saubere Meere erleben können. Wenn dich das Thema bewusstes Reisen über den Strand hinaus interessiert, lohnt sich auch ein Blick auf [nachhaltige Städtereisen](/magazin/nachhaltige-staedtereisen/).
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

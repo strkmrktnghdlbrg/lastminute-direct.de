@@ -24,7 +24,7 @@ Große Städte sind aufregend, aber sie können auch anstrengend sein. Zwischen 
 
 Die naheliegendste Flucht aus dem Trubel ist das Grün. Botanische Gärten sind dafür ideal, weil sie Ruhe mit etwas zum Entdecken verbinden. Du spazierst zwischen exotischen Pflanzen, setzt dich auf eine Bank im Schatten und merkst kaum noch, dass die Großstadt direkt vor dem Tor weitergeht.
 
-Stadtparks funktionieren als grüne Lunge und sind meist kostenlos zugänglich. Sie eignen sich für ein Picknick, eine Runde Joggen am Morgen oder einfach zum Lesen auf der Wiese. Wer es noch stiller mag, sucht gezielt nach versteckten Innenhöfen, die oft nur Einheimische kennen.
+Stadtparks funktionieren als grüne Lunge und sind meist kostenlos zugänglich. Sie eignen sich für ein Picknick, eine Runde Joggen am Morgen oder einfach zum Lesen auf der Wiese. Wer es noch stiller mag, sucht gezielt nach versteckten Innenhöfen, die oft nur Einheimische kennen. Wie du solche Orte abseits der Touristenpfade aufstöberst, zeigen wir dir in unseren [Geheimtipps für Städtereisen](/magazin/geheimtipps-staedtereisen/).
 
 - Botanische Gärten mit Themenbereichen und Gewächshäusern
 - Klassische Stadtparks zum Spazieren, Joggen und Picknicken
@@ -33,7 +33,7 @@ Stadtparks funktionieren als grüne Lunge und sind meist kostenlos zugänglich. 
 
 ## Wie entspannt man sich kulturell in einer Großstadt?
 
-Ruhe muss nicht draußen sein. Museen und kleinere Galerien sind tagsüber oft angenehm leer und laden zum langsamen Schlendern ein. Du tankst Kultur und gönnst dir gleichzeitig eine Auszeit vom Gewusel auf der Straße.
+Ruhe muss nicht draußen sein. Museen und kleinere Galerien sind tagsüber oft angenehm leer und laden zum langsamen Schlendern ein. Du tankst Kultur und gönnst dir gleichzeitig eine Auszeit vom Gewusel auf der Straße. Welche Häuser sich wirklich lohnen und wie du den Besuch clever planst, erfährst du in unserem Überblick zu den [schönsten Museen und Galerien der Metropolen](/magazin/kultur-pur/).
 
 Kleine Theater bieten eine intime Atmosphäre, in der du den Darstellern ganz nah bist. Und unterschätze nicht historische Bibliotheken: Diese stillen, oft prachtvollen Räume sind perfekt, um ein paar Seiten zu lesen oder einfach die Architektur auf dich wirken zu lassen.
 
@@ -41,7 +41,7 @@ Kleine Theater bieten eine intime Atmosphäre, in der du den Darstellern ganz na
 
 Wasser hat eine beruhigende Wirkung, und viele Städte liegen an einem Fluss, See oder Kanal. Stadtstrände bringen ein Stück Urlaubsgefühl mitten in die Metropole, mit Sand, Sonne und manchmal Live-Musik. Flussuferpromenaden laden zum Bummeln bei Sonnenuntergang oder zum Joggen am frühen Morgen ein.
 
-Eine besonders schöne Variante ist die Bootsfahrt. Vom Wasser aus siehst du die Stadt aus einer ganz neuen Perspektive und kannst dich gleichzeitig zurücklehnen. Romantische Abendfahrten oder thematische Touren machen daraus ein kleines Erlebnis.
+Eine besonders schöne Variante ist die Bootsfahrt. Vom Wasser aus siehst du die Stadt aus einer ganz neuen Perspektive und kannst dich gleichzeitig zurücklehnen. Romantische Abendfahrten oder thematische Touren machen daraus ein kleines Erlebnis, das du dir vorab bei einem Anbieter wie [GetYourGuide](https://www.getyourguide.de/) sichern kannst.
 
 ## Was machen geheime Gärten und Dachterrassen so besonders?
 
@@ -51,7 +51,7 @@ Auch private oder halböffentliche Gartenanlagen lohnen die Suche. Sie sind selt
 
 ## So baust du Pausen klug in deine Städtereise ein
 
-Du musst nicht zwischen Sightseeing und Erholung wählen. Plane einfach bewusst kleine Pausen ein, dann hältst du das Tempo der Stadt viel länger durch. Ein paar einfache Tipps:
+Du musst nicht zwischen Sightseeing und Erholung wählen. Plane einfach bewusst kleine Pausen ein, dann hältst du das Tempo der Stadt viel länger durch. Wer Ruhe sogar zum festen Bestandteil der Reise machen möchte, findet in unserem Beitrag zur [Verbindung von Städtereise und Yoga](/magazin/staedtereisen-yoga-kombination/) weitere Anregungen. Ein paar einfache Tipps:
 
 - Lege nach zwei bis drei Sehenswürdigkeiten eine bewusste Pause ein.
 - Wähle einen Rückzugsort, der nah an deiner nächsten Station liegt.
@@ -59,3 +59,5 @@ Du musst nicht zwischen Sightseeing und Erholung wählen. Plane einfach bewusst 
 - Pack eine Wasserflasche und etwas zum Lesen oder Notieren ein.
 
 Am Ende sind es oft genau diese ruhigen Momente, an die man sich nach einer Städtereise am liebsten erinnert. Sie geben dir die Energie zurück, die du brauchst, um die nächste Metropole wieder mit voller Neugier zu erkunden.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

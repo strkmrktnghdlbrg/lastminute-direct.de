@@ -26,7 +26,7 @@ Deutschland ist reich an Orten, die das Mittelalter bis heute bewahrt haben. **R
 
 **Heidelberg** verbindet eine malerische Altstadt am Neckar mit seiner romantischen Schlossruine. Von oben fällt der Blick weit über Stadt und Fluss. Die Universität wurde bereits 1386 gegründet und prägt das Stadtleben bis heute.
 
-Etwas ruhiger geht es in **Quedlinburg** zu. Mit über 2000 Fachwerkhäusern aus sechs Jahrhunderten gehört die Altstadt zum UNESCO-Weltkulturerbe.
+Etwas ruhiger geht es in **Quedlinburg** zu. Mit über 1300 Fachwerkhäusern aus sechs Jahrhunderten gehört die Altstadt zum UNESCO-Weltkulturerbe. Wenn du gleich mehrere dieser Orte verbinden möchtest, helfen dir unsere [Tipps für günstige Städtereisen](/magazin/budgetfreundliche-staedtereisen/) beim cleveren Planen.
 
 - Rothenburg ob der Tauber: Stadtmauer, Plönlein, Weihnachtsmarkt
 - Heidelberg: Schlossruine, Alte Brücke, Philosophenweg
@@ -34,17 +34,17 @@ Etwas ruhiger geht es in **Quedlinburg** zu. Mit über 2000 Fachwerkhäusern aus
 
 ## Wo finde ich Italiens unterschätzte historische Städte?
 
-Neben Rom, Florenz und Venedig hat Italien viele kleinere Schätze. **Lucca** in der Toskana ist vollständig von einer intakten Renaissance-Mauer umgeben, auf der man heute spazieren und Rad fahren kann. Die Piazza dell'Anfiteatro folgt noch dem Grundriss eines römischen Amphitheaters.
+Neben Rom, Florenz und Venedig hat Italien viele kleinere Schätze. **Lucca** in der Toskana ist vollständig von einer intakten Renaissance-Mauer umgeben, auf der du heute spazieren und Rad fahren kannst. Die Piazza dell'Anfiteatro folgt noch dem Grundriss eines römischen Amphitheaters.
 
 **Siena** zählt zu den schönsten gotischen Städten Italiens. Die muschelförmige Piazza del Campo ist zweimal im Jahr Schauplatz des berühmten Pferderennens Palio. Die Kathedrale und die Fresken der Biblioteca Piccolomini gehören zu den Höhepunkten.
 
-**Bergamo** in der Lombardei teilt sich in die hochgelegene Città Alta und die moderne Città Bassa im Tal. Die venezianischen Mauern der Oberstadt sind ebenfalls UNESCO-Welterbe und über Treppen oder Seilbahn erreichbar.
+**Bergamo** in der Lombardei teilt sich in die hochgelegene Città Alta und die moderne Città Bassa im Tal. Die venezianischen Mauern der Oberstadt sind ebenfalls UNESCO-Welterbe und über Treppen oder Seilbahn erreichbar. Wer es lieber bequem mag, findet in unserem Überblick zum [öffentlichen Verkehr in Metropolen](/magazin/oeffentlicher-verkehr/) viele Anregungen für die Mobilität vor Ort.
 
 ## Was macht Frankreichs historische Städte besonders?
 
 Frankreich überzeugt mit einer Mischung aus Festungsromantik und idyllischer Stadtkulisse. **Carcassonne** im Süden des Landes ist mit doppelten Verteidigungsmauern und 52 Türmen eine der eindrucksvollsten Festungsstädte Europas und ebenfalls Welterbe.
 
-Im Elsass lockt **Colmar**, oft das Venedig des Elsass genannt. Farbenfrohe Fachwerkhäuser säumen die kleinen Kanäle im Viertel Petite Venise. Das Unterlinden-Museum beherbergt den weltberühmten Isenheimer Altar.
+Im Elsass lockt **Colmar**, oft das Venedig des Elsass genannt. Farbenfrohe Fachwerkhäuser säumen die kleinen Kanäle im Viertel Petite Venise. Das Unterlinden-Museum beherbergt den weltberühmten Isenheimer Altar und ist ein lohnender Stopp, wenn du dich für [Museen und Galerien auf Städtereisen](/magazin/kultur-pur/) begeisterst.
 
 **Annecy** am gleichnamigen See am Fuß der Alpen verbindet Altstadtcharme mit kristallklarem Wasser. Brücken, Kanäle und Alpenpanorama machen den Ort zu einem Liebling von Natur- und Kulturfreunden gleichermaßen.
 
@@ -60,10 +60,13 @@ In **Córdoba** steht die Mezquita als Meisterwerk islamischer Baukunst im Mitte
 
 Eine gute Vorbereitung macht den Unterschied zwischen Sightseeing im Stress und echtem Genuss.
 
-- Reise in der Nebensaison, um lange Schlangen und Hitze zu vermeiden
+- Reise in der Nebensaison, um lange Schlangen und Hitze zu vermeiden. Welcher Monat sich für welches Ziel eignet, zeigt dir unser [Saison-Guide für Städtereisen](/magazin/besten-jahreszeiten-staedtereisen/)
 - Plane pro Stadt mindestens zwei Tage ein, damit du auch abseits der Hauptattraktionen Zeit zum Bummeln hast
-- Buche Tickets für Kathedralen und Museen vorab online
+- Buche Tickets für Kathedralen und Museen vorab online, zum Beispiel als [Führungen und Eintrittstickets bei GetYourGuide](https://www.getyourguide.de/), und spare dir das Anstehen vor Ort
+- Sichere dir frühzeitig eine zentrale Bleibe in der Altstadt, etwa über [Unterkünfte bei Booking.com](https://www.booking.com/), damit du abends zu Fuß durch die historischen Gassen schlendern kannst
 - Trage bequeme Schuhe, denn Kopfsteinpflaster und Stadtmauern fordern die Füße
 - Kombiniere nahe gelegene Städte zu einer Rundreise, etwa Toledo mit Madrid oder Colmar mit Straßburg
 
 Ob mittelalterliche Festung, gotische Kathedrale oder verträumter Kanal: Europas historische Städte bieten für jeden Geschmack ein passendes Ziel. Wer sich Zeit nimmt, entdeckt hinter jeder Mauer ein Stück gemeinsamer europäischer Geschichte.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

@@ -33,13 +33,13 @@ Für Naturliebhaber lohnt sich die Phang-Nga-Bucht besonders, weil die vorgelage
 
 ## Welche Strandziele gibt es außerhalb Thailands?
 
-Auch jenseits Thailands findest du in Asien echte Traumstrände. **Bali**, die indonesische "Insel der Götter", begeistert mit Reisterrassen, Vulkanlandschaften und einigen der besten Surfspots Südostasiens. Auf den Philippinen gilt **Palawan** als Geheimtipp: Die Region rund um Puerto Princesa und die Tubbataha-Riffe steht teilweise unter UNESCO-Schutz und ist ein Paradies fürs Inselhüpfen.
+Auch jenseits Thailands findest du in Asien echte Traumstrände. **Bali**, die indonesische "Insel der Götter", begeistert mit Reisterrassen, Vulkanlandschaften und einigen der besten Surfspots Südostasiens. Wenn du Strandtage mit Yoga und Meditation verbinden möchtest, ist die Insel ein idealer Ausgangspunkt für ein [Retreat am Meer](/magazin/strandurlaub-und-yoga/). Auf den Philippinen gilt **Palawan** als Geheimtipp: Rund um El Nido und Coron erwartet dich ein Paradies fürs Inselhüpfen, und das abgelegene Tubbataha-Riff im Sulusee steht als UNESCO-Welterbe sogar unter besonderem Schutz. Wer am liebsten mit Maske und Schnorchel unterwegs ist, findet hier wie auch an vielen [Stränden für Schnorchler und Taucher](/magazin/straende-fuer-schnorchler/) eine spektakuläre Unterwasserwelt.
 
 Wer Abgeschiedenheit sucht, sollte **Koh Rong** vor der Küste Kambodschas ins Auge fassen. Die Insel ist noch wenig bebaut und punktet mit Ruhe, klarem Wasser und langen Sandstränden zum Schwimmen und Schnorcheln.
 
 ## Lohnen sich die Malediven und Sri Lanka?
 
-Die **Malediven** stehen für puren Inseltraum. Der Archipel besteht aus rund 1.192 Inseln, von denen über 100 als reine Resortinseln dienen. Die Anreise dauert ab etwa zehn Stunden Flug, dafür erwartet dich eine der eindrucksvollsten Unterwasserwelten der Welt. Englisch ist überall verbreitet, gezahlt wird in Rufiyaa.
+Die **Malediven** stehen für puren Inseltraum. Der Archipel besteht aus rund 1.190 Inseln, von denen über 100 als reine Resortinseln dienen. Die Anreise dauert ab etwa zehn Stunden Flug, dafür erwartet dich eine der eindrucksvollsten Unterwasserwelten der Welt. Englisch ist überall verbreitet, gezahlt wird in Rufiyaa. Wenn du es besonders komfortabel magst, lohnt sich ein Blick auf die schönsten [Luxus-Strandresorts](/magazin/luxus-strandresorts/), die hier neue Maßstäbe setzen.
 
 **Sri Lanka** kombiniert über 1.300 Kilometer Küste mit grünen Nationalparks und kulturellen Highlights. Je nach Region unterscheidet sich die ideale Reisezeit, was den Inselstaat fast ganzjährig attraktiv macht. Wer Strandtage mit Tierbeobachtung oder Teeplantagen verbinden will, ist hier goldrichtig.
 
@@ -48,8 +48,10 @@ Die **Malediven** stehen für puren Inseltraum. Der Archipel besteht aus rund 1.
 Ein Strandurlaub in Asien muss nicht teuer sein, gerade Thailand, Kambodscha und Sri Lanka bieten ein gutes Preis-Leistungs-Verhältnis. Diese Tipps helfen beim Sparen:
 
 - Reise außerhalb der Hauptsaison und an Wochentagen buchen
-- Last-Minute-Angebote vergleichen, statt zu früh festzulegen
+- [Last-Minute-Angebote](/magazin/last-minute-strandurlaube/) vergleichen, statt zu früh festzulegen
 - Flexibel beim Ziel bleiben, oft entscheidet ein Schnäppchen über die Wahl
 - Längere Aufenthalte planen, um den langen Flugweg auszunutzen
 
-Mit etwas Flexibilität lassen sich auch hochwertige Resorts zu fairen Preisen finden. So wird aus dem Traum vom asiatischen Strandurlaub schnell ein konkreter, bezahlbarer Plan.
+Mit etwas Flexibilität lassen sich auch hochwertige Resorts zu fairen Preisen finden. Es lohnt sich, frühzeitig die [Unterkünfte in Phuket auf Booking.com](https://www.booking.com/searchresults.html?ss=Phuket) zu vergleichen, und wer vor Ort Inselhopping oder Schnorcheltouren erleben möchte, bucht beliebte [Touren und Aktivitäten bei GetYourGuide](https://www.getyourguide.de/) am besten schon vorab. So wird aus dem Traum vom asiatischen Strandurlaub schnell ein konkreter, bezahlbarer Plan.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

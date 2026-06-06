@@ -22,7 +22,7 @@ faq:
 
 Strandhopping bedeutet, in einem einzigen Urlaub mehrere Strände einer Region zu erkunden, statt jeden Tag am selben Fleck zu liegen. Du erlebst in kurzer Zeit ganz unterschiedliche Küsten: mal eine weite Sandbucht zum Schwimmen, mal eine versteckte Felsbucht für ruhige Stunden, mal einen lebhaften Strand mit Wassersport und Strandbars.
 
-Der Reiz liegt in der Abwechslung. An einem Tag bist du an einer karibisch anmutenden Lagune, am nächsten in einer einsamen Bucht, die nur über einen schmalen Pfad erreichbar ist. So bekommst du ein viel vollständigeres Bild einer Küstenregion, als wenn du nur einen Strand kennenlernst.
+Der Reiz liegt in der Abwechslung. An einem Tag bist du an einer karibisch anmutenden Lagune, am nächsten in einer einsamen Bucht, die nur über einen schmalen Pfad erreichbar ist. So bekommst du ein viel vollständigeres Bild einer Küstenregion, als wenn du nur einen Strand kennenlernst. Wenn du noch unschlüssig bist, wohin es gehen soll, helfen dir die [schönsten Strände Europas](/magazin/straende-europas/) bei der Auswahl.
 
 ## Welche Regionen eignen sich am besten?
 
@@ -36,23 +36,27 @@ Gemeinsam ist diesen Regionen, dass sich mehrere Strände an einem Tag oder übe
 
 ## Strandhopping mit der Familie
 
-Mit Kindern lohnt es sich, gezielt familienfreundliche Strände einzuplanen. Wichtig sind flach abfallendes Wasser, sauberer Sand und eine gute Infrastruktur mit Toiletten, Schatten und etwas Gastronomie in der Nähe.
+Mit Kindern lohnt es sich, gezielt familienfreundliche Strände einzuplanen. Wichtig sind flach abfallendes Wasser, sauberer Sand und eine gute Infrastruktur mit Toiletten, Schatten und etwas Gastronomie in der Nähe. Wie du einen entspannten [Strandurlaub mit der Familie](/magazin/strandurlaub-der-familie/) planst, liest du in unserem ausführlichen Ratgeber.
 
 Strände wie Praia da Bordeira an der Algarve, Playa de Muro auf Mallorca oder die geschützte Playa de la Concha im baskischen San Sebastián bieten genau diese ruhige, sichere Umgebung. Wer lieber etwas mehr Trubel mag, findet an Stränden wie Praia de Carcavelos bei Lissabon Beachvolleyball, Tretboote und Strandcafés.
 
 ## Worauf solltest du beim Strandhopping achten?
 
-Damit der Strandtag entspannt bleibt, helfen ein paar einfache Grundregeln. Vor allem die Sicherheit im Wasser solltest du nicht unterschätzen:
+Damit der Strandtag entspannt bleibt, helfen ein paar einfache Grundregeln. Vor allem die [Sicherheit am Strand](/magazin/strandsicherheit/) und im Wasser solltest du nicht unterschätzen:
 
 - Achte immer auf die Flaggen am Strand und schwimme nicht zu weit hinaus.
 - Plane Schatten ein, gerade an Stränden ohne Bäume oder Liegen.
 - Nimm genug Wasser mit, da abgelegene Buchten oft keine Versorgung haben.
 - Trage festes Schuhwerk für steile oder steinige Zugänge.
 
-Naturliebhaber kommen bei Stränden wie Praia da Ursa in Portugal, der abgelegenen Cala Goloritzé auf Sardinien oder dem ungewöhnlichen Binnenstrand Playa de Gulpiyuri in Asturien auf ihre Kosten. Solche Orte erfordern manchmal etwas Fußmarsch, belohnen dich dafür aber mit Ruhe und beeindruckender Landschaft.
+Naturliebhaber kommen bei Stränden wie Praia da Ursa in Portugal, der abgelegenen Cala Goloritzé auf Sardinien oder dem ungewöhnlichen Binnenstrand Playa de Gulpiyuri in Asturien auf ihre Kosten. Solche Orte erfordern manchmal etwas Fußmarsch, belohnen dich dafür aber mit Ruhe und beeindruckender Landschaft. Weitere [unentdeckte Strände in Europa](/magazin/unentdeckte-straende/) findest du in unserer Übersicht mit sieben Geheimtipps.
 
 ## Strandhopping clever planen
 
-Am meisten holst du heraus, wenn du nicht jeden Strand verplanst, sondern Spielraum lässt. Plane pro Tag ein bis zwei Strände, kalkuliere die Anfahrt großzügig und halte einen Schlechtwetter-Plan bereit. In der Nebensaison sind viele Buchten leerer und günstiger, was sich besonders bei den bekannteren Stränden bemerkbar macht.
+Am meisten holst du heraus, wenn du nicht jeden Strand verplanst, sondern Spielraum lässt. Plane pro Tag ein bis zwei Strände, kalkuliere die Anfahrt großzügig und halte einen Schlechtwetter-Plan bereit. [In der Nebensaison](/magazin/strandurlaube-nebensaison/) sind viele Buchten leerer und günstiger, was sich besonders bei den bekannteren Stränden bemerkbar macht.
+
+Praktisch ist eine zentral gelegene Unterkunft, von der aus du mehrere Buchten gut erreichst. Eine [passende Unterkunft in deiner Wunschregion](https://www.booking.com/) buchst du am besten frühzeitig, damit du in der Hochsaison nicht auf weit entfernte Quartiere ausweichen musst.
 
 Mit etwas Recherche im Vorfeld und der Bereitschaft, auch mal einen schmalen Pfad zu nehmen, wird aus einem klassischen Strandurlaub eine kleine Entdeckungsreise entlang der Küste.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

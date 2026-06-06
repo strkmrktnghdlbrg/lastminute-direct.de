@@ -33,7 +33,7 @@ Ein luftiges Strandkleid ist das Multitalent schlechthin. Es lässt sich in Seku
 
 ## Bademode und Accessoires richtig auswählen
 
-Bei der Bademode entscheidet vor allem der persönliche Geschmack. Vom klassischen Badeanzug über den Bikini bis zum Monokini findet jeder das passende Teil. Ein praktischer Tipp: Pack lieber zwei Sets ein. So hast du immer etwas Trockenes parat, während das andere in der Sonne trocknet.
+Bei der Bademode entscheidet vor allem der persönliche Geschmack. Vom klassischen Badeanzug über den Bikini bis zum Monokini findet jeder das passende Teil. Ein praktischer Tipp: Pack lieber zwei Sets ein. So hast du immer etwas Trockenes parat, während das andere in der Sonne trocknet. Wer mit den Kleinen verreist, findet in unserer [Packliste für den Strandurlaub mit der Familie](/magazin/strandurlaub-der-familie/) noch mehr Anregungen.
 
 Die richtigen Accessoires runden den Look ab und sind oft mehr als nur Deko. Eine geräumige Strandtasche fasst Handtuch, Sonnencreme und Snacks, während ein Sonnenhut zusätzlichen Schutz für Gesicht und Kopf bietet.
 
@@ -46,7 +46,7 @@ Die richtigen Accessoires runden den Look ab und sind oft mehr als nur Deko. Ein
 
 Beim Schuhwerk kommt es auf den Strandtyp an. Für den Sandstrand reichen leichte Flip-Flops, für längere Spaziergänge sind bequeme Sandalen angenehmer. An steinigen oder felsigen Küsten lohnen sich Wasserschuhe, die die Füße vor scharfen Kanten und Seeigeln schützen.
 
-Mindestens genauso wichtig ist der Sonnenschutz. Ein zuverlässiges Sonnenschutzmittel mit hohem Lichtschutzfaktor gehört zu den wichtigsten Must-Haves überhaupt. Trage es großzügig auf und erneuere es nach jedem Bad. Für den Abend sorgt ein Aftersun-Produkt für kühlende Feuchtigkeit und beruhigt beanspruchte Haut.
+Mindestens genauso wichtig ist der Sonnenschutz. Ein zuverlässiges Sonnenschutzmittel mit hohem Lichtschutzfaktor gehört zu den wichtigsten Must-Haves überhaupt. Trage es großzügig auf und erneuere es nach jedem Bad. Für den Abend sorgt ein Aftersun-Produkt für kühlende Feuchtigkeit und beruhigt beanspruchte Haut. Wie du Strömungen, Hitze und andere Risiken im Blick behältst, liest du in unseren Tipps zur [Strandsicherheit](/magazin/strandsicherheit/).
 
 - Flip-Flops für den schnellen Weg zur Strandbar
 - Sandalen für den Strandspaziergang
@@ -57,6 +57,8 @@ Mindestens genauso wichtig ist der Sonnenschutz. Ein zuverlässiges Sonnenschutz
 
 Ein paar kleine Helfer machen den Strandtag noch angenehmer. Eine wasserdichte Handyhülle schützt das Smartphone vor Sand und Spritzwasser, während ein portabler Lautsprecher für Musik sorgt. Wer gern liest, packt einen E-Reader oder ein Tablet ein, die deutlich leichter sind als ein Buchstapel.
 
-Und natürlich darf der Spaß nicht fehlen. Ein Beachvolleyball, eine Frisbee oder einfaches Sandburgen-Zubehör halten Groß und Klein bei Laune. Wer aktiver ist, probiert sich am Stand-Up-Paddling, beim Schnorcheln oder Surfen.
+Und natürlich darf der Spaß nicht fehlen. Ein Ball für [Beachvolleyball und andere Strandspiele](/magazin/beachvolleyball/), eine Frisbee oder einfaches Sandburgen-Zubehör halten Groß und Klein bei Laune. Wer aktiver ist, probiert sich am Stand-Up-Paddling, beim Schnorcheln oder Surfen. Die passende Ausrüstung für die [schönsten Wassersport-Strände in Europa](/magazin/straende-fuer-wassersport/) packst du am besten gleich mit ein. Touren, Schnorchel-Trips und Verleih vor Ort lassen sich bequem über Anbieter wie [GetYourGuide](https://www.getyourguide.de/) im Voraus reservieren.
 
 Mit der richtigen Strandmode und ein paar durchdachten Extras bist du bestens vorbereitet. So beginnt der entspannte Strandurlaub schon beim Auspacken am ersten Tag.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

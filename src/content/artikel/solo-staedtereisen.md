@@ -22,7 +22,7 @@ Eine Stadt ganz allein zu erkunden, klingt für viele erst einmal ungewohnt, geh
 
 ## Wie wählst du das richtige Ziel für deine Solo-Reise?
 
-Die beste Stadt ist die, die zu dir passt, nicht die mit den meisten Highlights auf der Liste. Frag dich, ob du Kunst, Architektur, gutes Essen oder einfach das Lebensgefühl suchst. Für die erste Solo-Reise lohnt sich eine kompakte Stadt, die du gut zu Fuß erkunden kannst und in der viele andere Reisende unterwegs sind.
+Die beste Stadt ist die, die zu dir passt, nicht die mit den meisten Highlights auf der Liste. Frag dich, ob du Kunst, Architektur, gutes Essen oder einfach das Lebensgefühl suchst. Für die erste Solo-Reise lohnt sich eine kompakte Stadt, die du gut zu Fuß erkunden kannst und in der viele andere Reisende unterwegs sind. Wenn du noch unschlüssig bist, findest du unter den [besten europäischen Städten für einen Last-Minute-Trip](/magazin/besten-europaeischen-staedte/) viele übersichtliche Metropolen, die sich auch allein gut bewältigen lassen.
 
 Achte bei der Auswahl auf ein paar konkrete Punkte:
 
@@ -47,13 +47,13 @@ Diese Dinge gehören in jedes Solo-Gepäck:
 
 ## Wie bleibst du als Alleinreisende oder Alleinreisender sicher?
 
-Sicherheit beginnt vor der Abreise. Lies dich kurz in die Lage deines Ziels ein und merke dir, welche Viertel als entspannt gelten und welche du nachts besser meidest. Trag Wertsachen nah am Körper und lass dein Getränk in Bars nie unbeaufsichtigt.
+Sicherheit beginnt vor der Abreise. Lies dich kurz in die Lage deines Ziels ein und merke dir, welche Viertel als entspannt gelten und welche du nachts besser meidest. Trag Wertsachen nah am Körper und lass dein Getränk in Bars nie unbeaufsichtigt. Wer sich tiefer absichern möchte, findet in unseren [Sicherheitstipps für Städtereisen](/magazin/sicherheitstipps/) konkrete Hinweise zu Taschendieben und Notfällen vor Ort.
 
 Ein paar einfache Gewohnheiten machen den größten Unterschied. Teile deine grobe Route mit Familie oder Freunden, halte dich abends an belebte und gut beleuchtete Wege und vertrau deiner Intuition. Fühlt sich eine Situation komisch an, geh einfach weiter. Eine Kopie deiner Dokumente in der Cloud ist außerdem Gold wert, falls etwas verloren geht.
 
 ## Welche Unterkunft passt zum Alleinreisen?
 
-Deine Unterkunft entscheidet mit darüber, wie sozial oder wie zurückgezogen deine Reise wird. Hostels sind günstig und perfekt, um schnell andere kennenzulernen. Boutique-Hotels und Apartments geben dir dagegen mehr Ruhe und Privatsphäre nach einem langen Erkundungstag.
+Deine Unterkunft entscheidet mit darüber, wie sozial oder wie zurückgezogen deine Reise wird. Hostels sind günstig und perfekt, um schnell andere kennenzulernen. Boutique-Hotels und Apartments geben dir dagegen mehr Ruhe und Privatsphäre nach einem langen Erkundungstag. Wer es lieber außergewöhnlich mag, findet bei den [innovativen Unterkünften für die nächste Städtereise](/magazin/innovative-unterkuenfte/) noch mehr Inspiration. Passende Zimmer für Alleinreisende vergleichst du am schnellsten über die [Hotelsuche auf Booking.com](https://www.booking.com/).
 
 Diese Optionen lohnen sich für Solo-Reisende:
 
@@ -62,10 +62,12 @@ Diese Optionen lohnen sich für Solo-Reisende:
 - **Boutique-Hotels:** Mehr Komfort und Rückzugsraum
 - **Apartments:** Lokales Wohngefühl und volle Flexibilität
 
-Wer flexibel bei den Reisedaten ist, findet bei kurzfristiger Buchung häufig spürbar günstigere Zimmer, gerade in der Nebensaison.
+Wer flexibel bei den Reisedaten ist, findet bei kurzfristiger Buchung häufig spürbar günstigere Zimmer, gerade in der Nebensaison. Wie du solche Angebote gezielt aufspürst, zeigen unsere Tipps zum Finden von [Last-Minute-Schnäppchen](/magazin/last-minute-schnaeppchen/).
 
 ## Kontakte knüpfen und auf sich achten
 
-Allein zu reisen heißt nicht, einsam zu sein. Geführte Stadttouren, lokale Veranstaltungen und Hostels mit Gemeinschaftsräumen sind die einfachsten Wege, um zwanglos ins Gespräch zu kommen. Auch Reise-Apps und Meetup-Gruppen helfen, Gleichgesinnte zu finden. Teile dabei persönliche Informationen aber nur mit Bedacht.
+Allein zu reisen heißt nicht, einsam zu sein. Geführte Stadttouren, lokale Veranstaltungen und Hostels mit Gemeinschaftsräumen sind die einfachsten Wege, um zwanglos ins Gespräch zu kommen. Passende [geführte Touren und Aktivitäten findest du bei GetYourGuide](https://www.getyourguide.de/), oft schon für ein paar Stunden buchbar. Auch Reise-Apps und Meetup-Gruppen helfen, Gleichgesinnte zu finden. Teile dabei persönliche Informationen aber nur mit Bedacht.
 
-Gleichzeitig darfst du dir bewusst Pausen gönnen. Ein ruhiger Park, ein gemütliches Café oder ein paar Zeilen im Reisetagebuch helfen dir, das Erlebte zu verarbeiten. Genau diese Mischung aus Begegnung und Rückzug macht Solo-Städtereisen so wertvoll: Du kommst mit neuen Eindrücken zurück und meistens auch mit etwas mehr Selbstvertrauen.
+Gleichzeitig darfst du dir bewusst Pausen gönnen. Ein ruhiger Park, ein gemütliches Café oder ein paar Zeilen im Reisetagebuch helfen dir, das Erlebte zu verarbeiten. Genau diese Mischung aus Begegnung und Rückzug macht Solo-Städtereisen so wertvoll: Du kommst mit neuen Eindrücken zurück und meistens auch mit etwas mehr Selbstvertrauen. Und falls es dich danach eher ans Meer zieht, lohnt sich ein Blick auf unsere Tipps zum [Strandurlaub für Alleinreisende](/magazin/strandurlaube-alleinreisende/).
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

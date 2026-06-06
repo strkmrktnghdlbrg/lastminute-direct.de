@@ -20,7 +20,7 @@ Eine Städtereise mit Kindern ist eine wunderbare Möglichkeit, gemeinsam Neues 
 
 ## Wie wähle ich das richtige Reiseziel aus?
 
-Das passende Ziel orientiert sich am Alter und an den Interessen Ihrer Kinder. Eine Stadt, die für Erwachsene perfekt ist, kann für Familien anstrengend sein, wenn die Wege lang und die Angebote für Kinder dünn gesät sind. Achten Sie deshalb auf eine kompakte Innenstadt und ein gutes Nahverkehrsnetz.
+Das passende Ziel orientiert sich am Alter und an den Interessen deiner Kinder. Eine Stadt, die für Erwachsene perfekt ist, kann für Familien anstrengend sein, wenn die Wege lang und die Angebote für Kinder dünn gesät sind. Achte deshalb auf eine kompakte Innenstadt und ein gutes Nahverkehrsnetz. Wenn du noch unschlüssig bist, helfen dir Ideen zu [kinderfreundlichen Reisezielen für die ganze Familie](/magazin/urlaubsziele-familie/) bei der ersten Auswahl.
 
 Diese Kriterien helfen bei der Auswahl:
 
@@ -29,7 +29,7 @@ Diese Kriterien helfen bei der Auswahl:
 - Sicheres und sauberes Umfeld in den zentralen Vierteln
 - Parks und Grünflächen für spontane Pausen
 
-Viele Familien starten mit einer überschaubaren Stadt im näheren Umkreis, bevor sie sich an weiter entfernte Ziele wagen. So lässt sich in Ruhe herausfinden, was die eigene Familie auf Reisen wirklich braucht.
+Viele Familien starten mit einer überschaubaren Stadt im näheren Umkreis, bevor sie sich an weiter entfernte Ziele wagen. So lässt sich in Ruhe herausfinden, was die eigene Familie auf Reisen wirklich braucht. Für den Einstieg eignet sich auch eine kompakte [Wochenend-Städtereise](/magazin/wochenend-staedtereisen/), bei der ihr in zwei oder drei Tagen testet, wie gut euch das Reisen als Familie liegt.
 
 ## Was gehört in die Packliste für Kinder?
 
@@ -44,11 +44,13 @@ Diese Dinge sollten mit:
 - Gesunde Snacks wie Apfelscheiben, Karottensticks oder Vollkornbrot
 - Alle Reisedokumente, auch der eigene Ausweis des Kindes
 
+Wer noch tiefer einsteigen möchte, findet in unserer ausführlichen [Packliste für Städtereisen](/magazin/packliste-staedtereisen/) weitere Anregungen, die sich gut an die Bedürfnisse der ganzen Familie anpassen lassen.
+
 Snacks sind unterwegs oft die beste Rettung. Eine kleine Auswahl in der Tasche überbrückt Hungerphasen, ohne dass gleich ein Restaurant gesucht werden muss.
 
 ## Welche Aktivitäten machen Kindern in der Stadt Spaß?
 
-Kinder erleben eine Stadt anders als Erwachsene. Statt langer Sightseeing-Touren freuen sie sich über Orte, an denen sie selbst aktiv werden dürfen. Interaktive Museen, in denen man Knöpfe drücken und Dinge ausprobieren kann, kommen fast immer gut an.
+Kinder erleben eine Stadt anders als Erwachsene. Statt langer Sightseeing-Touren freuen sie sich über Orte, an denen sie selbst aktiv werden dürfen. Interaktive Museen, in denen man Knöpfe drücken und Dinge ausprobieren kann, kommen fast immer gut an. Wenn ihr ohnehin gern in [Museen und Galerien der Metropolen](/magazin/kultur-pur/) unterwegs seid, lohnt es sich, gezielt nach den Mitmach-Bereichen für Familien zu suchen.
 
 Beliebte Programmpunkte für Familien:
 
@@ -57,11 +59,11 @@ Beliebte Programmpunkte für Familien:
 - Workshops, etwa Kochkurse oder kleine Wissenschaftsexperimente
 - Stadtteile mit Fußgängerzonen zum entspannten Bummeln
 
-Planen Sie pro Tag nur ein bis zwei feste Höhepunkte ein. Der Rest des Tages darf gern flexibel bleiben, denn oft sind es die spontanen Entdeckungen, an die sich Kinder später am liebsten erinnern.
+Plane pro Tag nur ein bis zwei feste Höhepunkte ein. Der Rest des Tages darf gern flexibel bleiben, denn oft sind es die spontanen Entdeckungen, an die sich Kinder später am liebsten erinnern. Familienfreundliche Workshops und Touren lassen sich vorab bequem über Anbieter wie [GetYourGuide](https://www.getyourguide.de/) buchen, sodass die begehrten Plätze schon vor der Anreise gesichert sind.
 
 ## Wie bleiben Kinder unterwegs sicher?
 
-Sicherheit beginnt mit klaren Absprachen. Üben Sie vor der Reise mit Ihren Kindern, was im Fall einer Trennung zu tun ist, und legen Sie einen festen Treffpunkt fest. Ein Armband oder eine Karte mit Ihrer Telefonnummer in der Jackentasche gibt zusätzliche Sicherheit.
+Sicherheit beginnt mit klaren Absprachen. Übe vor der Reise mit deinen Kindern, was im Fall einer Trennung zu tun ist, und legt gemeinsam einen festen Treffpunkt fest. Ein Armband oder eine Karte mit deiner Telefonnummer in der Jackentasche gibt zusätzliche Sicherheit. Wer noch tiefer ins Thema einsteigen möchte, findet in unseren [Sicherheitstipps für Städtereisen](/magazin/sicherheitstipps/) weitere praktische Vorkehrungen.
 
 Bewährte Vorkehrungen:
 
@@ -70,6 +72,8 @@ Bewährte Vorkehrungen:
 - Bei Verlust ruhig bleiben und sofort das Personal vor Ort ansprechen
 - Notrufnummern und die Adresse der Unterkunft notieren
 
-Bei Unterkunft und Verpflegung lohnt der Blick auf familienfreundliche Angebote: geräumige Familienzimmer, eine zentrale Lage und Restaurants mit Kindermenüs und Hochstühlen machen den Aufenthalt deutlich angenehmer. Achten Sie beim Buchen außerdem auf flexible Stornierungsbedingungen, denn mit Kindern kommt manchmal etwas dazwischen.
+Bei Unterkunft und Verpflegung lohnt der Blick auf familienfreundliche Angebote: geräumige Familienzimmer, eine zentrale Lage und Restaurants mit Kindermenüs und Hochstühlen machen den Aufenthalt deutlich angenehmer. Achte beim Buchen außerdem auf flexible Stornierungsbedingungen, denn mit Kindern kommt manchmal etwas dazwischen. Eine passende Familienunterkunft mit kostenfreier Stornierung findest du zum Beispiel über [Booking.com](https://www.booking.com/).
 
 Mit etwas Vorbereitung wird die Städtereise zu einem Erlebnis, von dem die ganze Familie noch lange erzählt. Der Schlüssel liegt darin, das Tempo der Kinder zu akzeptieren und unterwegs flexibel zu bleiben.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

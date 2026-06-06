@@ -24,7 +24,7 @@ Nordamerika hat gleich vier sehr unterschiedliche Küsten zu bieten: den Atlanti
 
 Hawaii ist für viele der Inbegriff des perfekten Strandurlaubs, und das zu Recht. Der **Duke Kahanamoku Beach** auf Oahu liegt am ruhigen westlichen Ende von Waikiki und ist nach dem legendären Surfer Duke Paoa Kahanamoku benannt. Ein vorgelagertes Korallenriff sorgt für sanftes Wasser, ideal für Familien und alle, die entspannt schwimmen möchten.
 
-Auf Maui überzeugt der **Wailea Beach** mit feinem Korallensand und ruhigem Wasser, das sich hervorragend zum Schnorcheln eignet. Auf Kauai schließlich liegt der **Poipu Beach** auf der sonnigen Südseite der Insel. Er besteht aus zwei kleinen Stränden, die durch eine schmale Sandzunge getrennt sind, und ist dank kleiner Wellen besonders kinderfreundlich.
+Auf Maui überzeugt der **Wailea Beach** mit feinem Korallensand und ruhigem Wasser, das sich hervorragend [zum Schnorcheln](/magazin/straende-fuer-schnorchler/) eignet. Auf Kauai schließlich liegt der **Poipu Beach** auf der sonnigen Südseite der Insel. Er besteht aus zwei kleinen Stränden, die durch eine schmale Sandzunge getrennt sind, und ist dank kleiner Wellen besonders kinderfreundlich.
 
 Wenn du Hawaii ansteuerst, lohnt es sich, mehrere Inseln zu kombinieren, denn jede hat ihren eigenen Charakter.
 
@@ -32,7 +32,7 @@ Wenn du Hawaii ansteuerst, lohnt es sich, mehrere Inseln zu kombinieren, denn je
 
 Die Atlantikküste bietet eine völlig andere Stimmung als die Tropen Hawaiis. **Coopers Beach** im noblen Southampton auf Long Island ist bekannt für seinen weißen Quarzsand und die imposanten Villen der Hamptons im Hintergrund. Unter der Woche hat man den Strand oft fast für sich allein.
 
-Weiter südlich, auf Kiawah Island in South Carolina, liegt der **Beachwalker Park**, ein echter Geheimtipp für Hundefreunde mit eigenen Hundeduschen und ruhiger Atmosphäre. In North Carolina punktet der **Lighthouse Beach** in Buxton mit dem ikonischen, diagonal gestreiften Cape Hatteras Lighthouse und einem bunten Treiben aus Anglern, Surfern und Stand-Up-Paddlern.
+Weiter südlich, auf Kiawah Island in South Carolina, liegt der **Beachwalker Park**, ein echter Geheimtipp für alle, die [mit dem Hund an den Strand](/magazin/hundestraende/) möchten, mit eigenen Hundeduschen und ruhiger Atmosphäre. In North Carolina punktet der **Lighthouse Beach** in Buxton mit dem ikonischen, diagonal gestreiften Cape Hatteras Lighthouse und einem bunten Treiben aus Anglern, Surfern und Stand-Up-Paddlern. Wer hier vor allem [Wassersport am Strand](/magazin/aktivurlaub-am-strand/) sucht, kommt voll auf seine Kosten.
 
 Diese Strände eignen sich gut für:
 
@@ -50,9 +50,11 @@ Der **Delnor-Wiggins Pass State Park** bei Naples bietet kristallklares Wasser, 
 
 Die Vielfalt Nordamerikas bedeutet vor allem eines: Für jeden ist etwas dabei. Ein paar Anhaltspunkte zur Orientierung:
 
-- **Familien:** Poipu Beach, Wailea Beach und Duke Kahanamoku Beach mit sanften Wellen
+- **Familien:** Poipu Beach, Wailea Beach und Duke Kahanamoku Beach mit sanften Wellen, ideal für den [Strandurlaub mit der Familie](/magazin/strandurlaub-der-familie/)
 - **Ruhesuchende:** St. George Island, Caladesi Island und Coopers Beach unter der Woche
 - **Naturfans:** Delnor-Wiggins Pass und Caladesi Island mit reicher Tierwelt
 - **Aktive:** Lighthouse Beach und Main Beach in Kalifornien mit Surf- und Sportangebot
 
-Egal, ob du Abenteuer, Erholung oder pure Naturerlebnisse suchst, die Strände Nordamerikas liefern unvergessliche Tage am Meer. Plane deine Route, kombiniere Küsten und Inseln und finde den Strand, der genau zu deinen Vorstellungen passt.
+Egal, ob du Abenteuer, Erholung oder pure Naturerlebnisse suchst, die Strände Nordamerikas liefern unvergessliche Tage am Meer. Plane deine Route, kombiniere Küsten und Inseln und finde den Strand, der genau zu deinen Vorstellungen passt. Für die Anreise lohnt es sich, frühzeitig eine [Unterkunft in Strandnähe zu buchen](https://www.booking.com/), und geführte Touren oder [Aktivitäten wie Schnorchel- und Surfausflüge findest du vorab](https://www.getyourguide.de/).
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

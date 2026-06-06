@@ -36,11 +36,11 @@ Wichtig ist, vorab die örtlichen Regeln zu prüfen. In der Hauptsaison gelten o
 
 Ja, Holland zählt zu den entspanntesten Reisezielen für Hundebesitzer in Europa. Mit hunderten Kilometern Küste und mehreren Nordseeinseln gibt es reichlich Auswahl.
 
-Der große Vorteil: In der Nebensaison von etwa September bis Mai sind Hunde an den allermeisten Stränden erlaubt, häufig sogar ohne Leine. In der Hochsaison weichst du auf die ausgewiesenen Hundestrände aus, von denen es vor allem in Zeeland und Nordholland viele gibt. Die kurze Anfahrt aus Deutschland macht Holland zudem perfekt für einen spontanen Kurztrip ans Meer.
+Der große Vorteil: In der Nebensaison von etwa September bis Mai sind Hunde an den allermeisten Stränden erlaubt, häufig sogar ohne Leine. In der Hochsaison weichst du auf die ausgewiesenen Hundestrände aus, von denen es vor allem in Zeeland und Nordholland viele gibt. Die kurze Anfahrt aus Deutschland macht Holland zudem perfekt für einen [spontanen Kurztrip ans Meer](/magazin/last-minute-strandurlaube/).
 
 ## Welche Reiseziele am Mittelmeer eignen sich?
 
-Auch im Süden Europas musst du auf den Strandurlaub mit Hund nicht verzichten. Entscheidend ist meist die Jahreszeit, denn in der Hochsaison sind viele Strände gesperrt.
+Auch im Süden Europas musst du auf den Strandurlaub mit Hund nicht verzichten. Entscheidend ist meist die Jahreszeit, denn in der Hochsaison sind viele Strände gesperrt. Wer flexibel ist, profitiert ohnehin von einem [Strandurlaub in der Nebensaison](/magazin/strandurlaube-nebensaison/), wenn die Küsten leerer und die Regeln entspannter sind.
 
 - **Frankreich**: hundefreundliche Abschnitte an der Atlantikküste und am Mittelmeer, vor allem in der Nebensaison
 - **Italien**: spezielle Hundestrände an der Adria und in der Toskana, teils mit Hundeduschen und Schattenplätzen
@@ -57,10 +57,12 @@ Eine gute Vorbereitung ist das A und O. Mit ein paar einfachen Maßnahmen bleibt
 - Plane Spaziergänge in die kühleren Morgen- und Abendstunden
 - Halte deinen Hund vom Salzwasser-Trinken ab, das kann Magen-Darm-Probleme auslösen
 - Spüle Sand und Salz nach dem Bad gründlich aus dem Fell
-- Sammle Hinterlassenschaften ein und nutze nach Möglichkeit ruhige Naturstrände schonend
+- Sammle Hinterlassenschaften ein und nutze nach Möglichkeit ruhige Naturstrände schonend, ganz im Sinne eines [nachhaltigen Strandurlaubs](/magazin/nachhaltige-strandurlaube/)
 
 ## Worauf sollte ich bei der Unterkunft achten?
 
-Eine tierfreundliche Unterkunft entscheidet oft über den Erholungswert des Urlaubs. Ferienhäuser mit eingezäuntem Garten geben deinem Hund Auslauf und dir Ruhe. Auch viele Campingplätze an der Küste heißen Vierbeiner willkommen und liegen häufig nur wenige Schritte vom Strand entfernt.
+Eine tierfreundliche Unterkunft entscheidet oft über den Erholungswert des Urlaubs. Ferienhäuser mit eingezäuntem Garten geben deinem Hund Auslauf und dir Ruhe. Auch viele Campingplätze an der Küste heißen Vierbeiner willkommen und liegen häufig nur wenige Schritte vom Strand entfernt. Wenn du gern naturnah übernachtest, findest du beim [Strandcamping an Nord- und Ostsee](/magazin/strandcamping/) zahlreiche hundefreundliche Plätze.
 
-Achte bei der Buchung auf klare Angaben zur Hundefreundlichkeit, mögliche Zusatzkosten und die Nähe zum nächsten Hundestrand. So startet ihr ohne böse Überraschungen in einen entspannten Strandurlaub zu zweit.
+Achte bei der Buchung auf klare Angaben zur Hundefreundlichkeit, mögliche Zusatzkosten und die Nähe zum nächsten Hundestrand. Viele [hundefreundliche Unterkünfte an der Küste](https://www.booking.com/) lassen sich vorab filtern, sodass ihr ohne böse Überraschungen in einen entspannten Strandurlaub zu zweit startet.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

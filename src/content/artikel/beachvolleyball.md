@@ -18,7 +18,7 @@ faq:
     a: "Beachvolleyball, Beachsoccer und Kubb sind klassische Teamspiele. Sie verbinden Bewegung mit Absprache und Strategie und sorgen schnell fuer eine gute Stimmung in der Gruppe."
 ---
 
-Ein Tag am Strand muss nicht nur aus Liegen und Sonnen bestehen. Sobald der Sand warm ist und das Meer einen Aktivurlaub einlaeutet, laden Strandspiele zu Bewegung, Spass und gemeinsamen Erlebnissen ein. Ob sportlicher Ehrgeiz oder entspanntes Spiel mit der Familie, fuer jede Gruppe gibt es die passende Beschaeftigung.
+Ein Tag am Strand muss nicht nur aus Liegen und Sonnen bestehen. Sobald der Sand warm ist und das Meer einen [Aktivurlaub am Strand](/magazin/aktivurlaub-am-strand/) einlaeutet, laden Strandspiele zu Bewegung, Spass und gemeinsamen Erlebnissen ein. Ob sportlicher Ehrgeiz oder entspanntes Spiel mit der Familie, fuer jede Gruppe gibt es die passende Beschaeftigung.
 
 ## Was macht Beachvolleyball zum Strandklassiker?
 
@@ -32,7 +32,7 @@ Neben Beachvolleyball gibt es eine ganze Reihe weiterer Spiele, die am Strand be
 
 - **Frisbee:** Ideal fuer alle Altersgruppen. Mit Vorhand-, Rueckhand- und Overhead-Wurf lassen sich Varianten wie Ultimate Frisbee, Frisbee-Golf oder einfaches Zielwerfen spielen.
 - **Beachsoccer:** Fussball im Sand mit kleineren Teams und kleinerem Feld. Dadurch wird das Spiel dynamischer und intensiver als auf dem Rasen.
-- **Skimboarden:** Mit einem flachen Board gleitet man ueber den duennen Wasserfilm am Wellensaum. Ein guter Einstieg ins Boardgefuehl ohne grosse Wellen.
+- **Skimboarden:** Mit einem flachen Board gleitet man ueber den duennen Wasserfilm am Wellensaum. Ein guter Einstieg ins Boardgefuehl ohne grosse Wellen. Wer mehr Tempo sucht, findet an den [besten Straenden fuer Wassersport](/magazin/straende-fuer-wassersport/) auch Surf- und Windsurf-Reviere.
 - **Slackline:** Zwischen zwei festen Punkten gespannt, trainiert sie Gleichgewicht, Konzentration und die Tiefenmuskulatur.
 - **Kubb:** Das sogenannte Wikingerschach verbindet Geschicklichkeit und Taktik. Ziel ist es, die Holzkloetze des Gegners und am Ende den Koenig in der Mitte umzuwerfen.
 
@@ -40,15 +40,15 @@ Neben Beachvolleyball gibt es eine ganze Reihe weiterer Spiele, die am Strand be
 
 Nicht jedes Spiel passt zu jeder Runde. Mit ein bisschen Planung findest du schnell die richtige Mischung fuer deine Gruppe.
 
-- **Fuer Kinder:** Strandkegeln mit Wasserball, Sandburgen-Wettbewerbe und Muschelsuche sorgen fuer Beschaeftigung ohne Leistungsdruck.
+- **Fuer Kinder:** Strandkegeln mit Wasserball, Sandburgen-Wettbewerbe und Muschelsuche sorgen fuer Beschaeftigung ohne Leistungsdruck. Weitere Ideen fuer den [Strandurlaub mit der Familie](/magazin/strandurlaub-der-familie/) helfen dir, den Tag kindgerecht zu planen.
 - **Fuer aktive Erwachsene:** Beachvolleyball, ein Frisbee-Wettbewerb oder ein gemeinsamer Strandlauf bringen Schwung in den Tag.
 - **Fuer gemischte Gruppen:** Kubb, Slackline und Skimboarden lassen sich gut an unterschiedliche Erfahrungsstufen anpassen und verbinden Generationen.
 
-Eine gute Idee ist es, zwei oder drei Spiele zu kombinieren. So bleibt der Strandtag abwechslungsreich, und jeder findet etwas, das ihm liegt.
+Eine gute Idee ist es, zwei oder drei Spiele zu kombinieren. So bleibt der Strandtag abwechslungsreich, und jeder findet etwas, das ihm liegt. Wenn du am Urlaubsort lieber etwas Angeleitetes suchst, findest du bei [Strand- und Wassersport-Aktivitaeten](https://www.getyourguide.de/) oft auch Schnupperkurse und gefuehrte Touren direkt vor Ort.
 
 ## Wie bereitest du dich am besten vor?
 
-Damit der Strandtag rund laeuft, lohnt sich ein wenig Vorbereitung. Packe leichte, gut transportierbare Ausruestung ein und denke an den Sonnenschutz, denn beim Spielen im Sand vergisst man die Zeit schnell.
+Damit der Strandtag rund laeuft, lohnt sich ein wenig Vorbereitung. Packe leichte, gut transportierbare Ausruestung ein und denke an den Sonnenschutz, denn beim Spielen im Sand vergisst man die Zeit schnell. Wer mit Kindern unterwegs ist, wirft am besten vorab einen Blick auf die wichtigsten Tipps zur [Strandsicherheit](/magazin/strandsicherheit/).
 
 Ein paar Punkte, die du nicht vergessen solltest:
 
@@ -58,3 +58,5 @@ Ein paar Punkte, die du nicht vergessen solltest:
 - Ruecksicht auf andere Strandbesucher beim Aufbau von Netz oder Slackline
 
 Strandspiele sind eine der schoensten Arten, einen Urlaubstag aktiv zu gestalten. Sie kosten wenig, foerdern Fitness und Teamgeist und schaffen Erinnerungen, die laenger bleiben als jeder Sonnenbrand. Schnapp dir also den Ball und probier beim naechsten Strandbesuch etwas Neues aus.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

@@ -18,16 +18,16 @@ faq:
 
 Manche der schönsten Strände Europas stehen in keinem Reisekatalog. Sie liegen am Ende eines schmalen Wanderwegs, hinter Felsen versteckt oder nur per Boot erreichbar. Genau das macht sie so besonders. Wer abseits der überlaufenen Liegestuhl-Reihen sucht, findet hier sieben Orte, die noch ein Stück Ursprünglichkeit bewahrt haben.
 
-Ein kleiner Appell vorab: Geh verantwortungsvoll mit solchen Tipps um. Aus einem Geheimtipp wird schnell ein überlaufener Hotspot. Nimm deinen Müll mit und respektiere die Natur, damit diese Orte bleiben, wie sie sind.
+Ein kleiner Appell vorab: Geh verantwortungsvoll mit solchen Tipps um. Aus einem Geheimtipp wird schnell ein überlaufener Hotspot. Nimm deinen Müll mit und respektiere die Natur, damit diese Orte bleiben, wie sie sind. Wer noch mehr Wert auf einen schonenden Umgang mit der Umwelt legt, findet in unserem Ratgeber zu [nachhaltigen Strandurlauben](/magazin/nachhaltige-strandurlaube/) weitere konkrete Anregungen.
 
 ## Welche versteckten Strände lohnen sich in Südeuropa?
 
-Der Süden Europas hat mehr zu bieten als die bekannten Küstenorte. Diese vier Strände kombinieren klares Wasser mit echter Abgeschiedenheit:
+Der Süden Europas hat mehr zu bieten als die bekannten Küstenorte. Wenn du lieber bei bekannteren Klassikern bleibst, lohnt vorab ein Blick auf die [schönsten Strände Europas](/magazin/straende-europas/). Diese vier Strände hier kombinieren klares Wasser mit echter Abgeschiedenheit:
 
 - **San Giovanni di Sinis, Sardinien:** An der Westküste, rund 30 Minuten von Oristano entfernt. Die Halbinsel Sinis besticht mit Dünen und kristallklarem Wasser. Parkplätze sind vorhanden, danach geht es zu Fuß durch die Dünen. Wer mag, kombiniert den Strandtag mit der antiken Ruinenstadt Tharros.
 - **Praia da Ursa, Portugal:** Ein verstecktes Juwel an der Atlantikküste. Der Zugang führt über einen steilen, teils unebenen Pfad, also unbedingt feste Schuhe und genug Wasser einpacken. Die Mühe lohnt sich: unten erwartet dich ein nahezu menschenleerer Strand mit markanten Felsnadeln.
 - **Playa de Voutoumi, Antipaxos (Griechenland):** Das Meer leuchtet hier von tiefem Blau bis hellem Türkis. Erreichbar ist die kleine Insel per Boot von Paxos oder Korfu. Unterkünfte sind rar, also früh buchen. Dafür gibt es Tavernen mit frischen Meeresfrüchten direkt am Wasser.
-- **Calanques bei Marseille, Frankreich:** Zwischen Cassis und Marseille schmiegen sich über zwanzig Buchten zwischen die Felsen. Die Calanque d'en Vau ist nur per Wanderung oder Boot erreichbar, während andere nur 15 Gehminuten von der Straße entfernt liegen. Für Ruhe und Entspannung ist die Calanque de Morgiou eine gute Wahl.
+- **Calanques bei Marseille, Frankreich:** Zwischen Cassis und Marseille schmiegen sich über zwanzig Buchten zwischen die Felsen. Die Calanque d'en Vau ist nur per Wanderung oder Boot erreichbar, während andere nur 15 Gehminuten von der Straße entfernt liegen. Für Ruhe und Entspannung ist die Calanque de Morgiou eine gute Wahl. Wer die abgelegenen Buchten bequem vom Wasser aus sehen möchte, findet bei Anbietern wie [GetYourGuide passende Bootstouren](https://www.getyourguide.de/) ab Cassis oder Marseille.
 
 ## Was macht die Strände in Nordspanien so besonders?
 
@@ -41,7 +41,7 @@ An der **Playa de las Catedrales** werden bei Ebbe beeindruckende Felsbögen und
 
 Nicht jeder Traumstrand ist weiß und sonnenwarm. **Reynisfjara** im Süden Islands ist mit seinem schwarzen Lavasand einer der dramatischsten Strände Europas. Vor der Küste ragen drei Felsnadeln aus dem Meer, die der Legende nach versteinerte Trolle sein sollen. Dazu kommen mächtige Basaltsäulen und Höhlen, in denen unzählige Vögel nisten.
 
-Ein wichtiger Hinweis: Die Wellen hier sind stark und unberechenbar. Die sogenannten Sneaker Waves können ohne Vorwarnung weit den Strand hinauflaufen. Halte immer großen Sicherheitsabstand zum Wasser und drehe dem Meer nie den Rücken zu.
+Ein wichtiger Hinweis: Die Wellen hier sind stark und unberechenbar. Die sogenannten Sneaker Waves können ohne Vorwarnung weit den Strand hinauflaufen. Halte immer großen Sicherheitsabstand zum Wasser und drehe dem Meer nie den Rücken zu. Wie du Strömungen und andere Gefahren am Meer richtig einschätzt, liest du in unseren Tipps zur [Strandsicherheit](/magazin/strandsicherheit/).
 
 ## Worauf solltest du bei abgelegenen Stränden achten?
 
@@ -51,6 +51,8 @@ Versteckte Strände belohnen mit Ruhe, fordern aber auch etwas Vorbereitung. Dam
 - Festes Schuhwerk für steile oder felsige Zugänge mitnehmen.
 - Genug Wasser, Sonnenschutz und Snacks einpacken, da es oft keine Kioske gibt.
 - Bootsverbindungen und Unterkünfte früh buchen, wenn der Strand nur über Wasser erreichbar ist.
-- Reisezeit clever wählen: Mai bis September bringt mildes Wetter ohne die ganz große Hauptsaison.
+- Reisezeit clever wählen: Mai bis September bringt mildes Wetter ohne die ganz große Hauptsaison. Wer es noch ruhiger mag, plant einen [Strandurlaub in der Nebensaison](/magazin/strandurlaube-nebensaison/).
 
-Mit etwas Planung erlebst du an diesen Orten genau das, was viele am Strandurlaub vermissen: Platz, Stille und das Gefühl, etwas Eigenes entdeckt zu haben.
+Wenn dich gleich mehrere dieser Buchten reizen, lässt sich daraus mit etwas [Strandhopping](/magazin/strandhopping/) eine ganze Rundreise machen. Mit etwas Planung erlebst du an diesen Orten genau das, was viele am Strandurlaub vermissen: Platz, Stille und das Gefühl, etwas Eigenes entdeckt zu haben.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

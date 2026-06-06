@@ -38,7 +38,7 @@ Typische Merkmale nachhaltiger Unterkünfte sind:
 - Fahrradverleih und gute Anbindung an den öffentlichen Nahverkehr
 - Recyclingprogramme und Verzicht auf Einwegplastik
 
-Grüne Hotels, Öko-Apartments und nachhaltige Hostels gibt es heute in fast jeder größeren Stadt. Viele Hostels organisieren zusätzlich Workshops oder Stadtführungen mit Fokus auf Umwelt und Gemeinschaft, was sich besonders für junge und alleinreisende Gäste lohnt.
+Grüne Hotels, Öko-Apartments und nachhaltige Hostels gibt es heute in fast jeder größeren Stadt. Wenn du das Thema konsequent weiterdenken möchtest, findest du in unserem Ratgeber zu [nachhaltigen Städtereisen](/magazin/nachhaltige-staedtereisen/) viele Ideen für eine grüne Anreise und sanfte Mobilität vor Ort. Viele Hostels organisieren zusätzlich Workshops oder Stadtführungen mit Fokus auf Umwelt und Gemeinschaft, was sich besonders für junge und alleinreisende Gäste lohnt.
 
 ## Historischer Charme oder modernes Design?
 
@@ -56,10 +56,12 @@ Solche Unterkünfte sind ideal, wenn du Lust auf Inspiration hast und die Übern
 
 ## Wann lohnt sich der Griff zur Luxusvariante?
 
-Für besondere Anlässe wie einen runden Geburtstag, einen Jahrestag oder einen romantischen Kurztrip darf es auch mehr sein. Fünf-Sterne-Häuser setzen Maßstäbe bei Service und Ausstattung, von der persönlichen Betreuung bis zur exklusiven Spa-Behandlung.
+Für besondere Anlässe wie einen runden Geburtstag, einen Jahrestag oder einen romantischen Kurztrip darf es auch mehr sein. Fünf-Sterne-Häuser setzen Maßstäbe bei Service und Ausstattung, von der persönlichen Betreuung bis zur exklusiven Spa-Behandlung. Wenn du tiefer in diese Welt eintauchen willst, liefert unser Guide zu [luxuriösen Städtereisen](/magazin/luxurioese-staedtereisen/) Inspiration für Top-Hotels und exklusive Erlebnisse.
 
 Private Villen bieten Rückzug und Ruhe mitten in der Stadt, während Penthouse-Apartments mit Dachterrasse einen unvergesslichen Blick über die Skyline schenken. Wichtig ist, dass der Luxus zum eigenen Reisestil passt. Manchmal ist ein liebevoll eingerichtetes kleines Apartment wertvoller als die teuerste Suite.
 
 ## So findest du die richtige Unterkunft
 
-Nimm dir vor der Buchung kurz Zeit für drei Fragen: Was soll im Mittelpunkt stehen, Erholung, Erlebnis oder Sparsamkeit? Wie wichtig ist die Lage im Verhältnis zum Preis? Und welche Atmosphäre passt zu deiner Reise? Mit diesen Antworten lässt sich auf jedem Buchungsportal gezielt filtern. Lies echte Gästebewertungen, achte auf Fotos der tatsächlichen Zimmer und buche bei flexiblen Tarifen früh genug, um die besten Häuser zu sichern. So wird die Unterkunft nicht zum Zufall, sondern zu einem festen Teil des Reiseerlebnisses.
+Nimm dir vor der Buchung kurz Zeit für drei Fragen: Was soll im Mittelpunkt stehen, Erholung, Erlebnis oder Sparsamkeit? Wie wichtig ist die Lage im Verhältnis zum Preis? Und welche Atmosphäre passt zu deiner Reise? Mit diesen Antworten lässt sich auf einem Buchungsportal wie [Booking.com](https://www.booking.com/) gezielt nach Stadtteil, Stil und Bewertung filtern. Lies echte Gästebewertungen, achte auf Fotos der tatsächlichen Zimmer und buche bei flexiblen Tarifen früh genug, um die besten Häuser zu sichern. Wer dabei aufs Budget achten möchte, findet in unseren Tipps für [budgetfreundliche Städtereisen](/magazin/budgetfreundliche-staedtereisen/) clevere Ansätze, und für spontane Trips lohnt sich ein Blick auf die besten [Wochenend-Städtereisen](/magazin/wochenend-staedtereisen/). So wird die Unterkunft nicht zum Zufall, sondern zu einem festen Teil des Reiseerlebnisses.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

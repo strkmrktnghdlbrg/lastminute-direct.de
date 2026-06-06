@@ -42,7 +42,7 @@ Diese Optionen lohnen sich:
 - Direktverbindungen bevorzugen, weil Zwischenstopps die Bilanz verschlechtern.
 - Falls ein Flug unvermeidbar ist, längere Aufenthalte planen, damit sich die Reise wirklich lohnt.
 
-Vor Ort kommst du fast überall gut ohne Auto aus. Öffentliche Verkehrsmittel, Leihräder und schlicht das Zufußgehen bringen dich nicht nur emissionsarm voran, sie zeigen dir auch Ecken, die du sonst nie sehen würdest.
+Vor Ort kommst du fast überall gut ohne Auto aus. [Öffentliche Verkehrsmittel](/magazin/oeffentlicher-verkehr/), Leihräder und schlicht das Zufußgehen bringen dich nicht nur emissionsarm voran, sie zeigen dir auch Ecken, die du sonst nie sehen würdest. Wenn du es noch aktiver magst, lässt sich eine ganze [Städtereise per Fahrrad](/magazin/staedtereisen-per-fahrrad/) planen.
 
 ## Woran erkenne ich eine nachhaltige Unterkunft?
 
@@ -54,11 +54,11 @@ Beim Buchen kannst du auf diese Punkte achten:
 - Häuser, die regionale Produkte verwenden und lokale Projekte unterstützen.
 - Die Möglichkeit, auf den täglichen Handtuch- und Bettwäschewechsel zu verzichten.
 
-Auch kleine Pensionen oder familiengeführte Häuser sind oft eine gute Wahl, weil dein Geld direkt in der Region bleibt.
+Auch kleine Pensionen oder familiengeführte Häuser sind oft eine gute Wahl, weil dein Geld direkt in der Region bleibt. Inspiration für besonders grüne oder ausgefallene Schlafplätze findest du in unserem Überblick zu [innovativen Unterkünften](/magazin/innovative-unterkuenfte/), und passende Häuser kannst du dir direkt [bei Booking.com](https://www.booking.com/) heraussuchen und nach Nachhaltigkeitskriterien filtern.
 
 ## Welche Aktivitäten passen zu einer grünen Städtereise?
 
-Eine nachhaltige Reise lebt davon, wie du die Stadt erkundest. Statt im Bustross von Sehenswürdigkeit zu Sehenswürdigkeit zu hetzen, lohnt sich ein langsameres Tempo. Parks und Stadtgärten sind häufig kostenlos, geführte Touren zu Fuß oder per Rad bringen dich nah an Land und Leute.
+Eine nachhaltige Reise lebt davon, wie du die Stadt erkundest. Statt im Bus-Pulk von Sehenswürdigkeit zu Sehenswürdigkeit zu hetzen, lohnt sich ein langsameres Tempo. Parks und Stadtgärten sind häufig kostenlos und laden dazu ein, dem Trubel kurz zu entkommen, ähnlich wie die grünen [Rückzugsorte mitten in der Großstadt](/magazin/entspannende-rueckzugsorte/). Geführte Touren zu Fuß oder per Rad bringen dich nah an Land und Leute.
 
 Ideen für unterwegs:
 
@@ -72,3 +72,5 @@ So unterstützt du die lokale Wirtschaft, reduzierst deinen Fußabdruck und nimm
 ## Fazit: kleine Schritte, große Wirkung
 
 Nachhaltige Städtereisen sind kein Verzicht, sondern eine bewusstere Art zu reisen. Wer bei Anreise, Unterkunft und Mobilität mitdenkt und vor Ort lokal einkauft, hinterlässt einen deutlich kleineren Fußabdruck und erlebt die Stadt oft intensiver. Du musst nicht alles auf einmal umsetzen. Schon ein paar gute Entscheidungen pro Reise machen einen echten Unterschied.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

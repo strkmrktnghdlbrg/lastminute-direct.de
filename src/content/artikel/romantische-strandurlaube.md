@@ -32,11 +32,11 @@ Achtet bei der Auswahl vor allem auf diese Punkte:
 
 ## Welche griechischen Inseln eignen sich für Paare?
 
-Griechenland ist für romantische Strandurlaube fast unschlagbar. **Santorini** steht ganz oben auf vielen Wunschlisten: Die weiß getünchten Häuser von Oia, die blau gekuppelten Kirchen und die berühmten Sonnenuntergänge über der Caldera sorgen für Postkartenmomente.
+Griechenland ist für romantische Strandurlaube fast unschlagbar, und auch unter den [schönsten Inseln für deinen Strandurlaub](/magazin/besten-inseln/) tauchen die griechischen Klassiker immer wieder auf. **Santorini** steht ganz oben auf vielen Wunschlisten: Die weiß getünchten Häuser von Oia, die blau gekuppelten Kirchen und die berühmten Sonnenuntergänge über der Caldera sorgen für Postkartenmomente.
 
 **Rhodos** verbindet entspannte Strände wie die Anthony Quinn Bay oder Lindos Beach mit einer mittelalterlichen Altstadt, die zum UNESCO-Welterbe gehört. Wer Spaziergänge durch alte Gassen mit Badetagen kombinieren möchte, ist hier richtig.
 
-**Kreta** bietet als größte Insel des Landes eine enorme Vielfalt. Der Elafonissi Beach mit seinem rosa schimmernden Sand und der Palmenstrand von Vai gelten als zwei der schönsten Strände des Mittelmeers, und im Süden findet ihr noch echte Ruhe.
+**Kreta** bietet als größte Insel des Landes eine enorme Vielfalt. Der Elafonissi Beach mit seinem rosa schimmernden Sand und der Palmenstrand von Vai gelten als zwei der [schönsten Strände Europas](/magazin/straende-europas/), und im Süden findet ihr noch echte Ruhe.
 
 ## Welche Ziele bieten Strand und Kultur zugleich?
 
@@ -51,8 +51,10 @@ Auch außerhalb Griechenlands und Zyperns gibt es starke Optionen:
 
 ## Wie findet ihr das passende Ziel?
 
-Überlegt zuerst, was euch wichtiger ist: kurze Anreise und mediterranes Flair oder die große Fernreise an unberührte Strände. Fürs Mittelmeer sprechen die einfache Erreichbarkeit und faire Preise, besonders wenn ihr in der Nebensaison oder mit Last-Minute-Angeboten bucht.
+Überlegt zuerst, was euch wichtiger ist: kurze Anreise und mediterranes Flair oder die große Fernreise an unberührte Strände. Fürs Mittelmeer sprechen die einfache Erreichbarkeit und faire Preise, besonders wenn ihr [in der Nebensaison reist](/magazin/strandurlaube-nebensaison/) oder mit [Last-Minute-Angeboten ans Meer](/magazin/last-minute-strandurlaube/) bucht. Eine passende Unterkunft für eure Zweisamkeit findet ihr unkompliziert über die Hotelauswahl auf [Booking.com](https://www.booking.com/).
 
 Plant außerdem genug freie Zeit ein. Ein voll durchgetakteter Ausflugskalender passt selten zu einem romantischen Urlaub. Manchmal ist der schönste Programmpunkt schlicht ein langer Strandspaziergang am Abend, gefolgt von einem Glas Wein mit Blick aufs Meer.
 
 Egal ob Santorini, Kreta oder Seychellen: Ein romantischer Strandurlaub lebt vor allem von gemeinsamen Momenten. Wählt ein Ziel, das zu eurem Tempo passt, und der Rest ergibt sich ganz von selbst.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

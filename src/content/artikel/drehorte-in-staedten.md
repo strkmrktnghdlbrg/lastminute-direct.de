@@ -31,7 +31,7 @@ Manche Metropolen tauchen immer wieder auf der Kinoleinwand auf und sind dadurch
 
 Ein Drehort eröffnet eine neue Perspektive auf einen Film, den man längst zu kennen glaubt. Man bemerkt Details, die im Kino verborgen blieben, etwa wie eng eine Gasse wirklich ist oder wie das Licht zu einer bestimmten Tageszeit fällt.
 
-Außerdem führt Filmtourismus oft an Orte abseits der üblichen Touristenpfade. Statt nur die großen Sehenswürdigkeiten abzuhaken, entdeckst du Wohnviertel, kleine Cafés und versteckte Plätze, die ohne den Filmbezug kaum jemand besuchen würde. So bekommst du ein authentischeres Gefühl für das Lebensgefühl einer Stadt.
+Außerdem führt Filmtourismus oft an Orte abseits der üblichen Touristenpfade. Statt nur die großen Sehenswürdigkeiten abzuhaken, entdeckst du Wohnviertel, kleine Cafés und versteckte Plätze, die ohne den Filmbezug kaum jemand besuchen würde. Wer ohnehin gern [die echte Stadt abseits der Touristenpfade entdeckt](/magazin/geheimtipps-staedtereisen/), findet im Filmtourismus den perfekten Einstieg. So bekommst du ein authentischeres Gefühl für das Lebensgefühl einer Stadt.
 
 Und nicht zuletzt macht es einfach Spaß: ein Foto an genau der Stelle nachzustellen, an der eine Lieblingsszene entstand, ist ein Erlebnis, das in Erinnerung bleibt.
 
@@ -39,17 +39,19 @@ Und nicht zuletzt macht es einfach Spaß: ein Foto an genau der Stelle nachzuste
 
 Mit ein wenig Vorbereitung wird aus der spontanen Idee eine runde Reise. Diese Schritte helfen dir dabei:
 
-1. **Recherchiere die Drehorte vorab.** Datenbanken wie IMDb, Reiseblogs und offizielle Tourismusseiten verraten dir, wo gedreht wurde.
+1. **Recherchiere die Drehorte vorab.** Datenbanken wie IMDb, Reiseblogs und offizielle Tourismusseiten verraten dir, wo gedreht wurde. Welche Metropole sich überhaupt lohnt, klärst du am besten parallel mit unserem Überblick zu den [besten europäischen Städten für einen Kurztrip](/magazin/besten-europaeischen-staedte/).
 2. **Bündle nahe gelegene Schauplätze.** Plane Orte, die dicht beieinanderliegen, an einem Tag ein, um Wege zu sparen.
 3. **Prüfe Öffnungszeiten und Zugang.** Manche Locations sind Privatbesitz, Restaurants oder nur zu bestimmten Zeiten zugänglich.
 4. **Schau den Film noch einmal.** Direkt vor der Reise verankert sich die Szene besser im Gedächtnis und du erkennst die Orte sofort wieder.
 
-Wer es bequemer mag, bucht eine geführte Filmtour. Lokale Guides kennen oft Anekdoten vom Set und führen zielsicher zu Schauplätzen, die man allein leicht übersehen würde.
+Wer es bequemer mag, bucht eine geführte Filmtour. Lokale Guides kennen oft Anekdoten vom Set und führen zielsicher zu Schauplätzen, die man allein leicht übersehen würde. Passende [Filmtouren und Tickets findest du zum Beispiel bei GetYourGuide](https://www.getyourguide.de/), wo du Themenführungen direkt nach Stadt filtern kannst.
 
 ## Welche Geheimtipps gibt es abseits der großen Klassiker?
 
 Nicht nur die offensichtlichen Metropolen sind eine Reise wert. Dubrovnik in Kroatien wurde durch Game of Thrones zu King's Landing und lockt heute Fantasy-Fans aus aller Welt. Wien diente in The Third Man als düstere Nachkriegskulisse, und Reykjavík samt isländischer Landschaft taucht in zahlreichen Science-Fiction-Produktionen auf.
 
-Gerade diese weniger überlaufenen Ziele bieten die Chance, Filmmagie zu erleben, ohne in Menschenmengen unterzugehen. Ein Tipp: Achte beim nächsten Filmabend einmal bewusst auf die Schauplätze. Oft entsteht die schönste Reiseidee genau dann, wenn man eine Stadt zum ersten Mal auf der Leinwand verliebt.
+Gerade diese weniger überlaufenen Ziele bieten die Chance, Filmmagie zu erleben, ohne in Menschenmengen unterzugehen. Viele davon sind zugleich [historische Städte mit Jahrhunderte alter Kulisse](/magazin/historische-staedte/), was den Filmbezug besonders stimmungsvoll macht. Ein Tipp: Achte beim nächsten Filmabend einmal bewusst auf die Schauplätze. Oft entsteht die schönste Reiseidee genau dann, wenn man eine Stadt zum ersten Mal auf der Leinwand verliebt.
 
 Egal ob du den Spuren von Harry Potter durch London folgst oder dir in Rom die Trevi-Brunnen-Szene vorstellst: Drehort-Reisen verbinden die Magie des Kinos mit echtem Reiseabenteuer und schenken dir Erinnerungen, die weit über den Abspann hinausreichen.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

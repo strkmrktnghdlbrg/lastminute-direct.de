@@ -27,7 +27,7 @@ Die Vielfalt ist das Herzstück der Region. Von kilometerlangen Sandstränden mi
 Grob unterscheidet man zwischen den Großen Antillen und den Kleinen Antillen. Beide Inselgruppen haben ihren eigenen Charakter:
 
 - **Große Antillen** (z. B. Kuba, Jamaika, Dominikanische Republik): weite Sandstrände, viel Infrastruktur und gute Anbindung
-- **Kleine Antillen** (z. B. Barbados, St. Lucia, Antigua): puderweißer Sand, kristallklares Wasser und oft ruhigere Buchten
+- **Kleine Antillen** (z. B. Barbados, St. Lucia, Antigua): puderweißer Sand, kristallklares Wasser und oft ruhigere Buchten. Wer sich nicht festlegen mag, findet unter den [schönsten Inseln für den Strandurlaub](/magazin/besten-inseln/) weitere Inspiration
 - **Versteckte Buchten**: ideal für alle, die Ruhe abseits der Touristenströme suchen
 - **Wassersport-Strände**: perfekt für Surfen, Kitesurfen und Schnorcheln
 
@@ -37,9 +37,9 @@ So unterschiedlich die Inseln sind, eines haben sie gemeinsam: eine beeindrucken
 
 Unter Wasser wird die Karibik erst richtig spannend. Die vorgelagerten Korallenriffe beherbergen eine erstaunlich abwechslungsreiche Tierwelt. Zwischen bunten Korallen kreuzen tropische Fische, und mit etwas Glück gleiten Meeresschildkröten an dir vorbei.
 
-Am schönsten ist das Schnorcheln oft dort, wo nicht alle hinkommen. Versteckte Buchten und kleinere Riffe abseits der großen Resorts bieten klares Wasser und überraschend ruhige Bedingungen. Wer tiefer eintauchen möchte, findet entlang beider Antillen-Gruppen zahlreiche Tauchspots für Einsteiger und Fortgeschrittene.
+Am schönsten ist das Schnorcheln oft dort, wo nicht alle hinkommen. Versteckte Buchten und kleinere Riffe abseits der großen Resorts bieten klares Wasser und überraschend ruhige Bedingungen. Wer tiefer eintauchen möchte, findet entlang beider Antillen-Gruppen zahlreiche Tauchspots für Einsteiger und Fortgeschrittene. Wenn die Unterwasserwelt für dich im Mittelpunkt steht, lohnt sich auch ein Blick auf die [besten Strände für Schnorchler und Taucher](/magazin/straende-fuer-schnorchler/) weltweit.
 
-Ein kleiner Tipp: Buche geführte Touren bei lokalen Anbietern. Sie kennen die besten Stellen je nach Strömung und Tageszeit und achten gleichzeitig auf den Schutz der empfindlichen Riffe.
+Ein kleiner Tipp: Buche geführte Touren bei lokalen Anbietern. Sie kennen die besten Stellen je nach Strömung und Tageszeit und achten gleichzeitig auf den Schutz der empfindlichen Riffe. Geführte [Schnorchel- und Bootstouren findest du bequem vorab](https://www.getyourguide.de/), sodass du dir vor Ort die Suche sparst.
 
 ## Wohin zieht es Naturliebhaber und Ruhesuchende?
 
@@ -53,10 +53,12 @@ Zur Karibik gehört aber auch das gesellige Miteinander. Ein fruchtiger Cocktail
 
 Die Küche der Region ist genauso vielfältig wie ihre Strände. Von mexikanischen über kubanische bis hin zu kreolischen Einflüssen reicht die Bandbreite. In den lebendigen Küstenstädten warten belebte Fußgängerzonen, Live-Musik und lokale Spezialitäten, die du unbedingt probieren solltest.
 
-Aktiv wird es ebenfalls: Schnorcheln, Tauchen, Surfen, Kitesurfen, Beachvolleyball oder Yoga im Sonnenaufgang. So findest du leicht die richtige Mischung aus Erholung und Erlebnis.
+Aktiv wird es ebenfalls: Schnorcheln, Tauchen, Surfen, Kitesurfen, Beachvolleyball oder Yoga im Sonnenaufgang. Wenn dich vor allem der Wind und die Wellen reizen, findest du in unserem Überblick zu [Stränden für Wassersport](/magazin/straende-fuer-wassersport/) weitere Anregungen. So findest du leicht die richtige Mischung aus Erholung und Erlebnis.
 
 ## So planst du deinen Karibik-Strandurlaub
 
-Damit dein Urlaub rundläuft, helfen ein paar einfache Überlegungen. Reise möglichst in der Trockenzeit zwischen Dezember und April, dann ist das Wetter am verlässlichsten. Überlege dir vorab, ob du Action oder Ruhe suchst, und wähle die Inselgruppe entsprechend. Wer flexibel ist, findet außerdem immer wieder günstige Last-Minute-Angebote für die Fernreise in die Tropen.
+Damit dein Urlaub rundläuft, helfen ein paar einfache Überlegungen. Reise möglichst in der Trockenzeit zwischen Dezember und April, dann ist das Wetter am verlässlichsten. Überlege dir vorab, ob du Action oder Ruhe suchst, und wähle die Inselgruppe entsprechend. Wer flexibel ist, findet außerdem immer wieder günstige [Last-Minute-Angebote für den Strandurlaub](/magazin/last-minute-strandurlaube/) in die Tropen. Eine [Unterkunft vor Ort vergleichst du am einfachsten online](https://www.booking.com/), damit du die schönste Bucht direkt vor der Haustür hast.
 
 Ganz gleich, ob du als Aktivurlauber, Familie oder Romantiker anreist: Die Karibik verspricht nicht nur Erholung, sondern auch unvergessliche Momente in einer wirklich atemberaubenden Umgebung.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*

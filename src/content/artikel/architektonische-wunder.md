@@ -26,11 +26,11 @@ Kaum eine Stadt hat sich in so kurzer Zeit so radikal verwandelt wie Dubai. Wo v
 
 Das Wahrzeichen ist der Burj Khalifa mit seinen 828 Metern, dem höchsten Gebäude der Welt. Von den Aussichtsplattformen in luftiger Höhe reicht der Blick weit über die Stadt und die Wüste dahinter. Wer eher das Spiel zwischen Alt und Neu mag, besucht das Dubai Frame, einen 150 Meter hohen goldenen Bilderrahmen, der das historische und das moderne Dubai visuell voneinander trennt.
 
-Ein dritter Pflichtstopp ist das Museum of the Future. Schon die geschwungene Fassade mit arabischer Kalligrafie ist ein Erlebnis, drinnen geht es um Themen wie künstliche Intelligenz, Raumfahrt und Nachhaltigkeit.
+Ein dritter Pflichtstopp ist das Museum of the Future. Schon die geschwungene Fassade mit arabischer Kalligrafie ist ein Erlebnis, drinnen geht es um Themen wie künstliche Intelligenz, Raumfahrt und Nachhaltigkeit. Da Dubai von Mitteleuropa aus eine Fernreise ist, hilft ein Blick auf [günstige Flugverbindungen](/magazin/guenstige-flugtipps/) bei der Planung. Die Tickets für die Aussichtsplattform des Burj Khalifa kannst du dir vorab über [eine Tour bei GetYourGuide](https://www.getyourguide.de/) sichern.
 
 ## Welche Bauwerke sollte man in Rom gesehen haben?
 
-Rom ist das Gegenstück zu Dubai: kaum Glas und Stahl, dafür Stein, der seit Jahrtausenden steht. Die Stadt ist ein einziges Freilichtmuseum, und einige Bauwerke gehören zum Beeindruckendsten, was die Antike hinterlassen hat.
+Rom ist das Gegenstück zu Dubai: kaum Glas und Stahl, dafür Stein, der seit Jahrtausenden steht. Die Stadt ist ein einziges Freilichtmuseum, und einige Bauwerke gehören zum Beeindruckendsten, was die Antike hinterlassen hat. Wenn dich diese gewachsene Geschichte fasziniert, lohnt sich auch ein Blick auf weitere [historische Städte Europas](/magazin/historische-staedte/).
 
 - **Kolosseum**: Das größte je gebaute Amphitheater fasste bis zu 50.000 Zuschauer und beeindruckt bis heute mit seinem ausgeklügelten Innenleben aus Gängen und Kammern.
 - **Pantheon**: Das besterhaltene Bauwerk der römischen Antike trägt noch immer die größte unbewehrte Betonkuppel der Welt, mit exakt 43,3 Metern Durchmesser.
@@ -40,7 +40,7 @@ Tipp: Plane für das Kolosseum genug Zeit ein und buche ein Zeitfenster, sonst s
 
 ## Singapur: Wie sehen die Städte der Zukunft aus?
 
-Singapur zeigt, wie moderne Architektur und Natur zusammenfinden können. Die Stadt setzt auf grüne, mutige Entwürfe, die anderswo kaum vorstellbar wären.
+Singapur zeigt, wie moderne Architektur und Natur zusammenfinden können. Die Stadt setzt auf grüne, mutige Entwürfe, die anderswo kaum vorstellbar wären und ein Vorbild für [nachhaltige Städtereisen](/magazin/nachhaltige-staedtereisen/) sind.
 
 Das bekannteste Bauwerk ist das Marina Bay Sands, drei Türme, verbunden durch eine schiffsförmige Dachterrasse mit einem der höchstgelegenen Infinity-Pools der Welt. Gleich nebenan liegen die Gardens by the Bay mit ihren leuchtenden Supertrees und dem Cloud Forest, einem künstlichen Nebelwald unter Glas.
 
@@ -48,7 +48,7 @@ Wer am Flughafen ankommt oder abfliegt, sollte Zeit für das Jewel Changi Airpor
 
 ## Barcelona: Warum lohnt sich der Blick auf Gaudí?
 
-Barcelona verbindet mittelalterliche Gassen mit den fantasievollen Formen des Modernisme. Kein Name prägt die Stadt so sehr wie der von Antoni Gaudí.
+Barcelona verbindet mittelalterliche Gassen mit den fantasievollen Formen des Modernisme. Kein Name prägt die Stadt so sehr wie der von Antoni Gaudí. Die katalanische Metropole zählt nicht ohne Grund zu [den besten europäischen Städten für einen Last-Minute-Trip](/magazin/besten-europaeischen-staedte/).
 
 Sein bekanntestes Werk ist die Sagrada Família, eine Basilika, an der seit 1882 gebaut wird und die gotische Strenge mit organischen, fast lebendig wirkenden Formen verbindet. Nur ein paar Straßen entfernt steht die Casa Batlló mit ihrer schillernden Mosaikfassade und einem Dach, das an den Rücken eines Drachens erinnert.
 
@@ -56,4 +56,6 @@ Wer es ruhiger mag, verliert sich im Gotischen Viertel: enge Gassen, versteckte 
 
 ## Fazit
 
-Ob antike Ingenieurskunst in Rom, kühne Visionen in Dubai und Singapur oder die verspielte Formensprache Gaudís in Barcelona: Architektur macht Städtereisen zu einer Reise durch Kultur und Zeit. Such dir aus, was dich am meisten reizt, buche die wichtigsten Tickets rechtzeitig und lass dich von Bauwerken überraschen, die du sonst nur von Fotos kennst.
+Ob antike Ingenieurskunst in Rom, kühne Visionen in Dubai und Singapur oder die verspielte Formensprache Gaudís in Barcelona: Architektur macht Städtereisen zu einer Reise durch Kultur und Zeit. Wer den kulturellen Faden weiterspinnen will, kombiniert die Bauwerke mit den passenden [Museen und Galerien der Metropolen](/magazin/kultur-pur/). Such dir aus, was dich am meisten reizt, buche die wichtigsten Tickets rechtzeitig und lass dich von Bauwerken überraschen, die du sonst nur von Fotos kennst.
+
+*Hinweis: Einige Links sind Partnerlinks. Buchst du darüber, erhalten wir eine kleine Provision, für dich bleibt der Preis gleich.*
