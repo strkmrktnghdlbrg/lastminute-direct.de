@@ -30,16 +30,29 @@
 - Deeplink verifiziert: `awin1.com/cread.php?awinmid=..&awinaffid=..&ued=..&clickref=lmd-<slug>`.
 - Programm-Auswahl + IDs siehe `AFFILIATE-AWIN.md`.
 
+## Tracking / Monetarisierung (eingerichtet)
+
+- **GTM** `GTM-PNRHQ2T3`, **AdSense** `ca-pub-3946820918041547`, **Stay22 lmaID** `68793a2a7a91cb5fc4b5dbf4` + API-Key in `src/data/site.ts`.
+- Scripts in `BaseLayout.astro` conditional eingebunden (GTM head+noscript, AdSense-Loader, Stay22 letmeallez). `public/ads.txt` angelegt.
+- **Stay22 letmeallez** monetarisiert ausgehende Buchungslinks automatisch -> In-Body-Affiliate laeuft ueber redaktionelle Kontextlinks (Content-Pass), unabhaengig von AWIN.
+- Externe Links in Artikeln bekommen via `rehype-external-links` automatisch `rel="nofollow noopener" target="_blank"`.
+
+## Content-Pass (64 Artikel, Workflow `lmd-content-pass`)
+
+- Fan-out (1 Agent/Artikel): interne Verlinkung + Korrektheits-Check + Stay22-Kontextlinks, direkte Edits in den .md-Dateien. Review per Git-Diff.
+
+## Deploy
+
+- Auto-Deploy via **FTPS zu MyTrueHost** (`.github/workflows/deploy.yml`). Benoetigte Secrets: `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD`, `FTP_SERVER_DIR`.
+
 ## Offene To-Dos (vor Go-Live)
 
-- [ ] **AWIN:** Publisher-ID + freigeschaltete Merchant-IDs eintragen (siehe oben)
-- [ ] Sold-Link-Verdachtsfälle aus Workflow prüfen (Ergebnis: 0 gefunden)
-- [ ] `src/data/site.ts`: GTM-ID, AdSense-Client, **individuelle Stay22 lmaID** eintragen
-- [ ] Stay22-Widget + AdSense-Slots in Artikel/Hubs einbauen
-- [ ] Datenschutz um AWIN/Affiliate-Tracking ergänzen
-- [ ] Impressum + Datenschutz mit echten Daten füllen
+- [ ] **AWIN:** Publisher-ID + freigeschaltete Merchant-IDs eintragen (Sidebar-AffiliateBox aktiviert sich dann automatisch)
+- [ ] **Impressum:** HE-Registernummer (Zypern), USt-IdNr. (oder „nicht vorhanden"), Name Director/Vertretungsberechtigte/r ergaenzen (Platzhalter in `src/pages/impressum.astro`)
+- [ ] **Deploy-Secrets** in GitHub setzen (FTP_*), dann Deploy ausloesen
+- [ ] AdSense-Anzeigen-Slots final platzieren (Loader + ads.txt stehen)
+- [ ] Stay22-Map-/Embed-Widget (M3) optional zusaetzlich einbauen (API-Key liegt in site.ts)
 - [ ] Echte Deal-Daten / Affiliate-Feed statt Beispiel-Deals (`src/data/deals.ts`)
-- [ ] GitHub-Repo + Auto-Deploy (Hosting noch offen)
 - [ ] Logo-SVG final (aktuell Inline-Paper-Plane)
 
 ## Dev

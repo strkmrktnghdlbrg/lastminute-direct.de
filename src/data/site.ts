@@ -5,10 +5,11 @@ export const SITE = {
   tagline: 'Spontan weg. Jetzt fliegen.',
   description:
     'Dein Magazin für spontane Kurzurlaube und die besten Last-Minute-Reisen. Strand, Stadt und Sonne, ohne langes Suchen.',
-  // Affiliate / tracking placeholders (fill before go-live)
-  gtmId: '', // e.g. GTM-XXXXXXX
-  adsenseClient: '', // e.g. ca-pub-XXXXXXXXXXXXXXXX
-  stay22LmaId: '', // individuelle Stay22 lmaID pro Projekt anfragen
+  // Affiliate / tracking — aktiv, sobald die jeweilige ID gesetzt ist
+  gtmId: 'GTM-PNRHQ2T3',
+  adsenseClient: 'ca-pub-3946820918041547',
+  stay22LmaId: '68793a2a7a91cb5fc4b5dbf4', // letmeallez.js -> Auto-Affiliate auf ausgehende Buchungslinks
+  stay22ApiKey: 'stay22_4fbdd198-447d-4c05-ac17-16ead18e87e1', // M3-Map-/Embed-API (für Widget-Einbettungen)
   web3formsKey: 'b65f4e95-6ac7-4003-a46a-fe4e08b120e2', // Lead-Forms default
   email: 'kontakt@lastminute-direct.de',
 };

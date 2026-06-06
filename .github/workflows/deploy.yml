@@ -1,4 +1,4 @@
-name: Deploy to Hostinger
+name: Deploy to MyTrueHost (FTP)
 
 on:
   push:
@@ -38,24 +38,30 @@ jobs:
           echo "Total size: $(du -sh dist | cut -f1)"
           ls -la dist/ | head -15
 
-      - name: Setup SSH key
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/deploy_key
-          chmod 600 ~/.ssh/deploy_key
-          echo "${{ secrets.SSH_KNOWN_HOSTS }}" >> ~/.ssh/known_hosts
-          chmod 644 ~/.ssh/known_hosts
-
-      - name: Deploy via rsync over SSH
-        run: |
-          rsync -avz --delete \
-            --exclude='.well-known' \
-            --exclude='*.zip' \
-            --exclude='wp-*' \
-            --exclude='xmlrpc.php' \
-            -e "ssh -i ~/.ssh/deploy_key -p ${{ secrets.SSH_PORT }} -o StrictHostKeyChecking=yes" \
-            ./dist/ \
-            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_PATH }}
+      # Deployment via FTP/FTPS zu MyTrueHost.
+      # Benötigte GitHub-Secrets:
+      #   FTP_SERVER     -> z. B. ftp.lastminute-direct.de oder der MyTrueHost-FTP-Host
+      #   FTP_USERNAME   -> FTP-Benutzername
+      #   FTP_PASSWORD   -> FTP-Passwort
+      #   FTP_SERVER_DIR -> Zielverzeichnis auf dem Server, z. B. "/public_html/" (mit Slash am Ende)
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: ${{ secrets.FTP_SERVER_DIR }}
+          # Bestehende Server-Dateien, die nicht aus dem Build stammen, nicht löschen
+          dangerous-clean-slate: false
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.well-known/**
+            **/wp-*
+            **/xmlrpc.php
 
       - name: Smoke-test live site
         run: |
@@ -68,7 +74,3 @@ jobs:
           curl -sI -o /dev/null -w "HTTP %{http_code} -> %{redirect_url}\n" https://lastminute-direct.de/reiseziele/besten-inseln/
           echo "--- 301 (altes Archiv -> Cluster-Hub) ---"
           curl -sI -o /dev/null -w "HTTP %{http_code} -> %{redirect_url}\n" https://lastminute-direct.de/stadtreisen/
-
-      - name: Cleanup SSH key
-        if: always()
-        run: rm -f ~/.ssh/deploy_key

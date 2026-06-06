@@ -20,6 +20,11 @@ const {
 
 const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} - ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
+
+// Tracking aktiviert sich erst, wenn die jeweilige ID in site.ts gesetzt ist.
+const gtmId = SITE.gtmId?.trim();
+const adsenseClient = SITE.adsenseClient?.trim();
+const stay22LmaId = SITE.stay22LmaId?.trim();
 ---
 
 <!doctype html>
@@ -27,6 +32,12 @@ const canonical = new URL(Astro.url.pathname, SITE.url).href;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    {/* Google Tag Manager */}
+    {gtmId && (
+      <script is:inline set:html={`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${gtmId}');`} />
+    )}
+
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex, follow" />}
@@ -42,9 +53,25 @@ const canonical = new URL(Astro.url.pathname, SITE.url).href;
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;550;600&display=swap"
       rel="stylesheet"
     />
-    {/* GTM + AdSense placeholders, aktiviert wenn IDs in site.ts gesetzt sind */}
+    {/* Google AdSense Loader */}
+    {adsenseClient && (
+      <script
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
+        crossorigin="anonymous"
+      ></script>
+    )}
+
+    {/* Stay22 letmeallez: monetarisiert ausgehende Buchungslinks automatisch */}
+    {stay22LmaId && (
+      <script is:inline set:html={`(function(s,t,a,y,twenty,two){s.Stay22=s.Stay22||{};s.Stay22.params={lmaID:'${stay22LmaId}'};twenty=t.createElement(a);two=t.getElementsByTagName(a)[0];twenty.async=1;twenty.src=y;two.parentNode.insertBefore(twenty,two);})(window,document,'script','https://scripts.stay22.com/letmeallez.js');`} />
+    )}
   </head>
   <body>
+    {/* Google Tag Manager (noscript) */}
+    {gtmId && (
+      <noscript set:html={`<iframe src="https://www.googletagmanager.com/ns.html?id=${gtmId}" height="0" width="0" style="display:none;visibility:hidden"></iframe>`} />
+    )}
     <Header />
     <main>
       <slot />
