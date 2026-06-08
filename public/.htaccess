@@ -1,6 +1,18 @@
-# Auto-generated 301 redirects: legacy WP URLs -> new Astro structure
+Options -Indexes
+
+ErrorDocument 404 /404.html
+
 <IfModule mod_rewrite.c>
   RewriteEngine On
+  RewriteBase /
+
+  # Serve pre-built HTML files directly
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ $1.html [L,QSA]
+
+  # 301 redirects: legacy WP URLs -> new Astro structure
 
   # Article archives -> cluster hubs
   RewriteRule ^stadtreisen/?$ /staedtereisen/ [R=301,L]
