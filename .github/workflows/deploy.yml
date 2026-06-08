@@ -1,22 +1,24 @@
-name: Deploy to MyTrueHost (FTP)
+name: Build & Deploy to cPanel
 
 on:
   push:
     branches: [main]
-  workflow_dispatch: # manueller Trigger via GitHub UI
+  workflow_dispatch:
 
 concurrency:
   group: deploy-production
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
 
     steps:
-      - name: Checkout repo
+      - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node 22
         uses: actions/setup-node@v4
@@ -36,41 +38,21 @@ jobs:
         run: |
           echo "Built files: $(find dist -type f | wc -l)"
           echo "Total size: $(du -sh dist | cut -f1)"
-          ls -la dist/ | head -15
 
-      # Deployment via FTP/FTPS zu MyTrueHost.
-      # Benötigte GitHub-Secrets:
-      #   FTP_SERVER     -> z. B. ftp.lastminute-direct.de oder der MyTrueHost-FTP-Host
-      #   FTP_USERNAME   -> FTP-Benutzername
-      #   FTP_PASSWORD   -> FTP-Passwort
-      #   FTP_SERVER_DIR -> Zielverzeichnis auf dem Server, z. B. "/public_html/" (mit Slash am Ende)
-      - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftp
-          port: 21
-          local-dir: ./dist/
-          server-dir: ${{ secrets.FTP_SERVER_DIR }}
-          # Bestehende Server-Dateien, die nicht aus dem Build stammen, nicht löschen
-          dangerous-clean-slate: false
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/.well-known/**
-            **/wp-*
-            **/xmlrpc.php
-
-      - name: Smoke-test live site
+      # Push dist/ + .cpanel.yml to the `deploy` branch.
+      # cPanel Git Version Control watches this branch and runs .cpanel.yml on pull.
+      - name: Push dist/ to deploy branch
         run: |
-          sleep 5
-          echo "--- HTTP-Status ---"
-          curl -sI -o /dev/null -w "HTTP %{http_code} | %{url}\n" https://lastminute-direct.de/
-          echo "--- Sitemap ---"
-          curl -sI -o /dev/null -w "HTTP %{http_code} | %{url}\n" https://lastminute-direct.de/sitemap-index.xml
-          echo "--- 301 (alter WP-Artikel -> /magazin/) ---"
-          curl -sI -o /dev/null -w "HTTP %{http_code} -> %{redirect_url}\n" https://lastminute-direct.de/reiseziele/besten-inseln/
-          echo "--- 301 (altes Archiv -> Cluster-Hub) ---"
-          curl -sI -o /dev/null -w "HTTP %{http_code} -> %{redirect_url}\n" https://lastminute-direct.de/stadtreisen/
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan deploy-tmp
+          git rm -rf . --quiet
+
+          cp -r dist .
+          cp .cpanel.yml .
+
+          git add dist/ .cpanel.yml
+          git commit -m "deploy: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+
+          git push origin deploy-tmp:deploy --force
