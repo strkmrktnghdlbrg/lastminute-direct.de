@@ -1,0 +1,55 @@
+name: Build & Deploy to cPanel
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          # Full history needed so the deploy-branch push works cleanly
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Astro
+        run: npm run build
+
+      # Push only the dist/ output to the `deploy` branch.
+      # cPanel Git Version Control watches this branch and runs .cpanel.yml on pull.
+      - name: Push dist/ to deploy branch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Orphan deploy branch (no shared history with main — keeps it lean)
+          git checkout --orphan deploy-tmp
+          git rm -rf . --quiet
+
+          # Move built output into repo root so cPanel sees dist/ at the right path
+          cp -r dist .
+          cp .cpanel.yml .
+
+          git add dist/ .cpanel.yml
+          git commit -m "deploy: $(date -u '+%Y-%m-%dT%H:%M:%SZ') [$(git rev-parse --short HEAD~1 2>/dev/null || echo 'init')]"
+
+          # Force-push to `deploy` — this branch is ephemeral build output only
+          git push origin deploy-tmp:deploy --force

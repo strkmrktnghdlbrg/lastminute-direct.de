@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    # Copy the pre-built dist/ output to public_html.
+    # GitHub Actions builds Astro and commits dist/ to the `deploy` branch.
+    # cPanel pulls that branch and runs this task — no Node.js needed on the server.
+    - export DEPLOYPATH=/home/$USER/public_html/
+    - /bin/cp -r dist/. $DEPLOYPATH
