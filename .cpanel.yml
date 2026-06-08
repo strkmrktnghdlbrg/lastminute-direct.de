@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/scdunumd/lastminute-direct.de/astra-site
+    - export DEPLOYPATH=/home/scdunumd/public_html/lastminute-direct.de
     - /bin/mkdir -p $DEPLOYPATH
     - /bin/cp -rf dist/. $DEPLOYPATH
