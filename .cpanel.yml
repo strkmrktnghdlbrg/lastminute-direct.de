@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/scdunumd/lastminute-direct.de/astra-site
+    - /bin/mkdir -p $DEPLOYPATH
+    - /bin/cp -r dist/. $DEPLOYPATH
