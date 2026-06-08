@@ -35,6 +35,7 @@ jobs:
         run: npm run build
         env:
           NODE_ENV: production
+          STAY22_API_KEY: ${{ secrets.STAY22_API_KEY }}
 
       - name: Build report
         run: |

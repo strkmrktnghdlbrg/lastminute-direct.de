@@ -9,7 +9,7 @@ export const SITE = {
   gtmId: 'GTM-PNRHQ2T3',
   adsenseClient: 'ca-pub-3946820918041547',
   stay22LmaId: '68793a2a7a91cb5fc4b5dbf4', // letmeallez.js -> Auto-Affiliate auf ausgehende Buchungslinks
-  stay22ApiKey: 'stay22_4fbdd198-447d-4c05-ac17-16ead18e87e1', // M3-Map-/Embed-API (für Widget-Einbettungen)
+  stay22ApiKey: import.meta.env.STAY22_API_KEY ?? '', // M3-Map-/Embed-API (für Widget-Einbettungen)
   web3formsKey: 'b65f4e95-6ac7-4003-a46a-fe4e08b120e2', // Lead-Forms default
   email: 'kontakt@lastminute-direct.de',
 };
