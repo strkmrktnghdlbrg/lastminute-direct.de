@@ -42,18 +42,11 @@ jobs:
           echo "Built files: $(find dist -type f | wc -l)"
           echo "Total size: $(du -sh dist | cut -f1)"
 
-      # Push dist/ + .cpanel.yml to the `deploy` branch.
-      # cPanel Git Version Control watches this branch and runs .cpanel.yml on pull.
-      - name: Push dist/ to deploy branch
+      - name: Commit dist/ to main
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git checkout --orphan deploy-tmp
-          git rm -rf . --quiet
-
-          git show main:.cpanel.yml > .cpanel.yml
-          git add dist/ .cpanel.yml
-          git commit -m "deploy: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-
-          git push origin deploy-tmp:deploy --force
+          git add -f dist/
+          git diff --staged --quiet || git commit -m "build: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git push origin main
