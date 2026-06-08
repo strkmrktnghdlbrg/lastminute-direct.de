@@ -49,6 +49,7 @@ jobs:
           git checkout --orphan deploy-tmp
           git rm -rf . --quiet
 
+          git show main:.cpanel.yml > .cpanel.yml
           git add dist/ .cpanel.yml
           git commit -m "deploy: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
 
