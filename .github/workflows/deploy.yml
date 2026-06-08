@@ -12,6 +12,8 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 15
 
     steps:
