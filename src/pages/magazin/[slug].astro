@@ -4,6 +4,7 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import AffiliateBox from '../../components/AffiliateBox.astro';
 import { unsplash, unsplashCredit, pickImage } from '../../data/images';
 import { primaryCluster } from '../../data/clusters';
+import { SITE } from '../../data/site';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -24,6 +25,10 @@ const related = all
   .filter((a) => a.id !== entry.id && a.data.clusters.some((c) => d.clusters.includes(c)))
   .slice(0, 3);
 
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const heroImage = unsplash(img.id, 1600);
+const published = d.publishDate instanceof Date ? d.publishDate.toISOString() : new Date(d.publishDate).toISOString();
+
 const faqSchema = d.faq.length > 0 ? {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
@@ -33,9 +38,39 @@ const faqSchema = d.faq.length > 0 ? {
     acceptedAnswer: { '@type': 'Answer', text: f.a },
   })),
 } : null;
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: d.title,
+  description: d.description,
+  image: heroImage,
+  datePublished: published,
+  dateModified: published,
+  inLanguage: 'de',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  author: { '@type': 'Organization', name: SITE.name, url: `${SITE.url}/` },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    logo: { '@type': 'ImageObject', url: new URL('/logo.svg', SITE.url).href },
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Start', item: `${SITE.url}/` },
+    ...(primary ? [{ '@type': 'ListItem', position: 2, name: primary.title, item: `${SITE.url}/${primary.slug}/` }] : []),
+    { '@type': 'ListItem', position: primary ? 3 : 2, name: d.title, item: canonical },
+  ],
+};
 ---
-<BaseLayout title={d.title} description={d.description} ogType="article">
+<BaseLayout title={d.title} description={d.description} ogType="article" image={heroImage}>
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
   <article>
     <header class="art-hero">
