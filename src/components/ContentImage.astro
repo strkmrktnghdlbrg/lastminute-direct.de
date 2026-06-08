@@ -1,0 +1,27 @@
+---
+import { unsplash, unsplashCredit } from '../data/images';
+
+interface Props {
+  id: string;
+  alt: string;
+  width?: number;
+  class?: string;
+  showCredit?: boolean;
+  loading?: 'lazy' | 'eager';
+}
+const { id, alt, width = 1200, class: cls = '', showCredit = false, loading = 'lazy' } = Astro.props;
+---
+<figure class={`cimg ${cls}`}>
+  <img src={unsplash(id, width)} alt={alt} loading={loading} decoding="async" />
+  {showCredit && (
+    <figcaption>
+      Foto: <a href={unsplashCredit(id)} rel="nofollow noopener" target="_blank">Unsplash</a>
+    </figcaption>
+  )}
+</figure>
+<style>
+  .cimg { margin: 0; }
+  .cimg img { width: 100%; height: 100%; object-fit: cover; }
+  .cimg figcaption { font-size: 11px; color: var(--color-shadow-grey); margin-top: 6px; text-align: right; }
+  .cimg figcaption a { text-decoration: underline; }
+</style>

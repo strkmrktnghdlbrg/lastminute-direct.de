@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from '../components/Newsletter.astro';
+
+const values = [
+  { t: 'Spontan statt kompliziert', d: 'Wir glauben, dass die schönsten Reisen oft die ungeplanten sind. Deshalb machen wir Last-Minute einfach.' },
+  { t: 'Ehrlich statt überladen', d: 'Keine erfundenen Bestnoten, keine Lockpreise. Wir schreiben, was wir selbst wissen wollen würden.' },
+  { t: 'Inspiration mit Substanz', d: 'Schöne Bilder allein reichen nicht. Jeder Artikel soll dir bei einer echten Entscheidung helfen.' },
+];
+---
+<BaseLayout title="Über uns" description="Lastminute Direct ist dein Magazin für spontane Kurzurlaube. Wer wir sind und wofür wir stehen.">
+  <section class="hub-hero">
+    <div class="wrap">
+      <nav class="crumbs"><a href="/">Start</a> <span>/</span> Über uns</nav>
+      <h1>Reisen soll einfach sein</h1>
+      <p>Lastminute Direct ist ein unabhängiges Reisemagazin für alle, die spontan losziehen wollen. Wir bündeln Inspiration, Tipps und die besten kurzfristigen Angebote an einem Ort.</p>
+    </div>
+  </section>
+
+  <section class="section wrap intro">
+    <div class="prose">
+      <p>Angefangen hat alles mit einer simplen Frage: Warum ist spontanes Verreisen eigentlich so umständlich? Zwischen unzähligen Vergleichsportalen, Kleingedrucktem und widersprüchlichen Tipps verliert man schnell die Lust, bevor der Urlaub überhaupt beginnt.</p>
+      <p>Genau hier setzen wir an. Wir recherchieren Reiseziele, Reisearten und Buchungstipps, sortieren sie nach dem, was wirklich zählt, und bringen sie in eine Form, die Spaß macht zu lesen. Ob Strandwoche, Städtetrip oder Fernreise: Bei uns findest du den passenden Einstieg, ohne dich durch hundert Tabs klicken zu müssen.</p>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="section-head"><div><h2>Wofür wir stehen</h2></div></div>
+    <div class="grid-3">
+      {values.map((v) => (
+        <div class="value">
+          <h3>{v.t}</h3>
+          <p>{v.d}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <Newsletter />
+</BaseLayout>
+
+<style>
+  .hub-hero { background: var(--color-skybound-blue); color: var(--color-cloud-whisper); padding: 64px 0 56px; }
+  .crumbs { font-size: 13px; opacity: .8; margin-bottom: 20px; } .crumbs a { text-decoration: underline; } .crumbs span { margin: 0 6px; }
+  .hub-hero h1 { font-size: clamp(40px, 6vw, 64px); } .hub-hero p { font-size: 18px; opacity: .92; max-width: 56ch; margin-top: 20px; }
+  .intro .prose { max-width: 70ch; font-size: 18px; line-height: 1.7; color: #1d2731; }
+  .intro .prose p { margin-bottom: 18px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .value { background: #fff; border-radius: var(--radius-card); padding: 32px; box-shadow: var(--shadow-soft); border: 1px solid rgba(171,171,156,.2); }
+  .value h3 { font-size: 21px; margin-bottom: 10px; } .value p { color: #45525f; font-size: 15px; }
+  @media (max-width: 900px) { .grid-3 { grid-template-columns: 1fr; } }
+</style>

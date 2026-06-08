@@ -1,0 +1,28 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  text: string;
+  tags?: string[];
+  icon?: string;
+}
+const { href, title, text, tags = [], icon = 'M3 20l9-16 9 16M7 20h10' } = Astro.props;
+---
+<a class="cluster" href={href}>
+  <div class="ic">
+    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" width="24" height="24"><path d={icon} /></svg>
+  </div>
+  <h3>{title}</h3>
+  <p>{text}</p>
+  {tags.length > 0 && <div class="tags">{tags.map((t) => <span>{t}</span>)}</div>}
+</a>
+<style>
+  .cluster { background: #fff; border-radius: var(--radius-card); padding: 36px 32px; box-shadow: var(--shadow-soft); border: 1px solid rgba(171,171,156,.25); transition: transform .3s ease; display: block; }
+  .cluster:hover { transform: translateY(-4px); }
+  .cluster .ic { width: 48px; height: 48px; border-radius: 12px; background: var(--color-pale-peach); display: grid; place-items: center; margin-bottom: 20px; }
+  .cluster .ic svg { stroke: var(--color-horizon-blue); }
+  .cluster h3 { font-size: 22px; margin-bottom: 8px; }
+  .cluster p { font-size: 14px; color: #45525f; margin-bottom: 16px; }
+  .cluster .tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .cluster .tags span { font-size: 12px; background: var(--color-cloud-whisper); border: 1px solid rgba(171,171,156,.4); padding: 4px 11px; border-radius: var(--radius-pill); color: #36424d; }
+</style>

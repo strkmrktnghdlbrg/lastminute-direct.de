@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('artikel')).sort((a, b) =>
+  a.data.title.localeCompare(b.data.title, 'de'),
+);
+---
+<BaseLayout title="Reise-Magazin" description="Alle Artikel: Reiseziele, Städtereisen, Reisearten und Ratgeber für deinen nächsten Kurzurlaub.">
+  <section class="hub-hero">
+    <div class="wrap">
+      <nav class="crumbs"><a href="/">Start</a> <span>/</span> Magazin</nav>
+      <h1>Reise-Magazin</h1>
+      <p>Inspiration, Tipps und Entscheidungshilfen für spontane Kurzurlaube. {articles.length} Artikel rund um Strand, Stadt und Sonne.</p>
+    </div>
+  </section>
+  <section class="section wrap">
+    <div class="grid-3">
+      {articles.map((a) => (
+        <ArticleCard
+          slug={a.id}
+          title={a.data.title}
+          description={a.data.description}
+          heroTheme={a.data.heroTheme}
+          clusters={a.data.clusters}
+          readingTime={a.data.readingTime}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hub-hero { background: var(--color-skybound-blue); color: var(--color-cloud-whisper); padding: 64px 0 56px; }
+  .crumbs { font-size: 13px; opacity: .8; margin-bottom: 20px; }
+  .crumbs a { text-decoration: underline; } .crumbs span { margin: 0 6px; }
+  .hub-hero h1 { font-size: clamp(40px, 6vw, 64px); }
+  .hub-hero p { font-size: 18px; opacity: .92; max-width: 56ch; margin-top: 20px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  @media (max-width: 980px) { .grid-3 { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .grid-3 { grid-template-columns: 1fr; } }
+</style>

@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { getCollection } from 'astro:content';
+
+const all = await getCollection('artikel');
+const ratgeber = all.filter((a) => a.data.clusters.includes('ratgeber')).slice(0, 6);
+
+const steps = [
+  { n: '01', t: 'Zeitraum & Budget festlegen', d: 'Bei Last-Minute zählt Flexibilität. Wer beim Reisedatum offen ist, spart am meisten. Lege eine Spanne statt eines fixen Tages fest.' },
+  { n: '02', t: 'Reiseart wählen', d: 'Strand, Stadt, All-Inclusive oder Aktivurlaub? Die Reiseart bestimmt Ziel, Gepäck und Budget. Unsere Cluster helfen bei der Orientierung.' },
+  { n: '03', t: 'Ziel & Angebot vergleichen', d: 'Vergleiche mehrere Ziele gleichzeitig. Oft ist die Nachbarinsel oder die zweitgrößte Stadt deutlich günstiger als der Klassiker.' },
+  { n: '04', t: 'Packen & Checkliste', d: 'Mit einer guten Packliste vergisst du nichts und vermeidest teures Nachkaufen vor Ort. Reisepass, Adapter und Reiseapotheke zuerst.' },
+  { n: '05', t: 'Buchen & Deal-Alarm', d: 'Spontan zugreifen, wenn der Preis stimmt. Mit dem Deal-Alarm bekommst du passende Schnäppchen automatisch, bevor sie ausgebucht sind.' },
+];
+
+const tools = [
+  { t: 'Packlisten', d: 'Fertige Listen für Strand, Stadt und Familie.', href: '/ratgeber/' },
+  { t: 'Beste Reisezeit', d: 'Wann sich welches Ziel am meisten lohnt.', href: '/reiseziele/' },
+  { t: 'Sparen bei Flug & Hotel', d: 'Konkrete Tipps für günstige Buchungen.', href: '/ratgeber/' },
+  { t: 'Sicherheit unterwegs', d: 'Worauf du am Strand und in der Stadt achten solltest.', href: '/ratgeber/' },
+];
+---
+<BaseLayout title="Reiseplanung" description="Schritt für Schritt zur spontanen Reise: Zeitraum, Reiseart, Ziel, Packliste und Buchung. Dein Leitfaden für die clevere Last-Minute-Planung.">
+  <section class="hub-hero">
+    <div class="wrap">
+      <nav class="crumbs"><a href="/">Start</a> <span>/</span> Reiseplanung</nav>
+      <h1>Reiseplanung leicht gemacht</h1>
+      <p>Spontan verreisen heißt nicht planlos. In fünf Schritten von der Idee zur gebuchten Reise, ohne Stress und ohne unnötige Kosten.</p>
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="steps">
+      {steps.map((s) => (
+        <div class="step">
+          <span class="num">{s.n}</span>
+          <div>
+            <h3>{s.t}</h3>
+            <p>{s.d}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="section wrap tools-section">
+    <div class="section-head"><div><h2>Planungs-Werkzeuge</h2><p>Direkt zu den hilfreichsten Ratgebern für deine Vorbereitung.</p></div></div>
+    <div class="grid-4">
+      {tools.map((t) => (
+        <a class="tool" href={t.href}>
+          <h3>{t.t}</h3>
+          <p>{t.d}</p>
+          <span class="link-arrow">Mehr →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {ratgeber.length > 0 && (
+    <section class="section wrap">
+      <div class="section-head"><div><h2>Aktuelle Ratgeber</h2></div><a href="/ratgeber/" class="link-arrow">Alle Ratgeber →</a></div>
+      <ul class="art-list">
+        {ratgeber.map((a) => <li><a href={`/magazin/${a.id}/`}>{a.data.title}</a></li>)}
+      </ul>
+    </section>
+  )}
+
+  <Newsletter />
+</BaseLayout>
+
+<style>
+  .hub-hero { background: var(--color-skybound-blue); color: var(--color-cloud-whisper); padding: 64px 0 56px; }
+  .crumbs { font-size: 13px; opacity: .8; margin-bottom: 20px; } .crumbs a { text-decoration: underline; } .crumbs span { margin: 0 6px; }
+  .hub-hero h1 { font-size: clamp(40px, 6vw, 64px); } .hub-hero p { font-size: 18px; opacity: .92; max-width: 56ch; margin-top: 20px; }
+  .steps { display: flex; flex-direction: column; gap: 8px; }
+  .step { display: flex; gap: 28px; padding: 28px; background: #fff; border-radius: var(--radius-card); box-shadow: var(--shadow-soft); border: 1px solid rgba(171,171,156,.2); }
+  .step .num { font-family: var(--font-display); font-weight: 600; font-size: 32px; color: var(--color-skybound-blue); min-width: 56px; }
+  .step h3 { font-size: 22px; margin-bottom: 8px; } .step p { color: #45525f; font-size: 15px; }
+  .tools-section .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  .tool { background: var(--color-pale-peach); border-radius: var(--radius-card); padding: 28px; display: flex; flex-direction: column; gap: 10px; transition: transform .3s ease; }
+  .tool:hover { transform: translateY(-4px); }
+  .tool h3 { font-size: 19px; } .tool p { font-size: 14px; color: #5a4a42; flex: 1; }
+  .art-list { list-style: none; padding: 0; margin: 0; columns: 2; gap: 40px; }
+  .art-list li { margin-bottom: 12px; break-inside: avoid; }
+  .art-list a { color: var(--color-horizon-blue); border-bottom: 1px solid transparent; }
+  .art-list a:hover { border-color: var(--color-horizon-blue); }
+  @media (max-width: 900px) { .tools-section .grid-4 { grid-template-columns: repeat(2, 1fr); } .step { flex-direction: column; gap: 12px; } .art-list { columns: 1; } }
+  @media (max-width: 560px) { .tools-section .grid-4 { grid-template-columns: 1fr; } }
+</style>

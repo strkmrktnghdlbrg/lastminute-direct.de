@@ -1,0 +1,27 @@
+---
+import { unsplash } from '../data/images';
+import type { Deal } from '../data/deals';
+interface Props { deal: Deal }
+const { deal } = Astro.props;
+---
+<a class="deal-card" href="/deals/">
+  <div class="img" style={`background-image:url('${unsplash(deal.imageId, 600)}')`}></div>
+  <div class="body">
+    <span class="tag">{deal.type} · {deal.region}</span>
+    <h3>{deal.destination}</h3>
+    <div class="meta">{deal.nights} Nächte · {deal.board} · {deal.stars}★</div>
+    <div class="price"><b>{deal.priceFrom} €</b> <small>{deal.priceNote}</small></div>
+  </div>
+</a>
+<style>
+  .deal-card { background: var(--color-skybound-blue); color: var(--color-cloud-whisper); border-radius: var(--radius-card); overflow: hidden; box-shadow: var(--shadow-card); display: flex; flex-direction: column; transition: transform .35s ease; }
+  .deal-card:hover { transform: translateY(-6px); }
+  .deal-card .img { height: 150px; background-size: cover; background-position: center; }
+  .deal-card .body { padding: 22px 22px 26px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+  .deal-card .tag { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--color-pale-peach); font-weight: 500; }
+  .deal-card h3 { font-size: 20px; }
+  .deal-card .meta { font-size: 13px; opacity: .85; }
+  .deal-card .price { margin-top: auto; padding-top: 16px; font-family: var(--font-display); font-weight: 550; }
+  .deal-card .price b { font-size: 26px; }
+  .deal-card .price small { font-size: 12px; opacity: .7; font-weight: 400; }
+</style>

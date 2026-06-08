@@ -1,23 +1,20 @@
-import { defineConfig } from "astro/config";
-import sitemap from "@astrojs/sitemap";
-import tailwind from "@tailwindcss/vite";
+import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
+import tailwindcss from '@tailwindcss/vite';
+import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
-  site: "https://lastminute-direct.de",
-  output: "static",
-  trailingSlash: "always",
-  build: { format: "directory" },
-  integrations: [
-    sitemap({
-      filter: (page) =>
-        !page.includes("/impressum") &&
-        !page.includes("/datenschutz") &&
-        !page.includes("/agb") &&
-        !page.includes("/kontakt") &&
-        !page.includes("/404"),
-    }),
-  ],
+  site: 'https://www.lastminute-direct.de',
+  trailingSlash: 'always',
+  integrations: [sitemap()],
+  markdown: {
+    // Externe Links in Artikeln automatisch absichern (rel + target).
+    // Interne /magazin/-Links bleiben unberuehrt.
+    rehypePlugins: [
+      [rehypeExternalLinks, { target: '_blank', rel: ['nofollow', 'noopener'] }],
+    ],
+  },
   vite: {
-    plugins: [tailwind()],
+    plugins: [tailwindcss()],
   },
 });
