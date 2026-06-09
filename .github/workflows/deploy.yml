@@ -60,11 +60,12 @@ jobs:
 
           echo "--- Pulling from GitHub ---"
           curl -sk -u "$AUTH" \
-            "$BASE/execute/VersionControl/update?repository_root=$(python3 -c 'import urllib.parse; print(urllib.parse.quote("/home/scdunumd/public_html/lastminute-direct.de"))')" \
-            | python3 -m json.tool || true
+            -H "Content-Type: application/json" \
+            -X POST "$BASE/execute/VersionControl/update" \
+            -d "{\"repository_root\": \"/home/scdunumd/public_html/lastminute-direct.de\"}" 2>&1 || true
 
           echo "--- Deploying HEAD commit ---"
           curl -sk -u "$AUTH" \
+            -H "Content-Type: application/json" \
             -X POST "$BASE/execute/VersionControlDeployment/create" \
-            -d "repository_root=$(python3 -c 'import urllib.parse; print(urllib.parse.quote("/home/scdunumd/public_html/lastminute-direct.de"))')" \
-            | python3 -m json.tool || true
+            -d "{\"repository_root\": \"/home/scdunumd/public_html/lastminute-direct.de\"}" 2>&1 || true
