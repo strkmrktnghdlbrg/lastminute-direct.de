@@ -52,20 +52,17 @@ jobs:
           git pull --rebase origin main
           git push origin main
 
-      - name: Trigger cPanel pull & deploy
-        run: |
-          BASE="https://king.truehostdns.com:2083"
-          AUTH="${{ secrets.CPANEL_USER }}:${{ secrets.CPANEL_PASS }}"
-          REPO="/home/scdunumd/public_html/lastminute-direct.de"
-
-          echo "--- Pulling from GitHub ---"
-          curl -sk -u "$AUTH" \
-            -H "Content-Type: application/json" \
-            -X POST "$BASE/execute/VersionControl/update" \
-            -d "{\"repository_root\": \"/home/scdunumd/public_html/lastminute-direct.de\"}" 2>&1 || true
-
-          echo "--- Deploying HEAD commit ---"
-          curl -sk -u "$AUTH" \
-            -H "Content-Type: application/json" \
-            -X POST "$BASE/execute/VersionControlDeployment/create" \
-            -d "{\"repository_root\": \"/home/scdunumd/public_html/lastminute-direct.de\"}" 2>&1 || true
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: king.truehostdns.com
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: /
+          dangerous-clean-slate: false
+          exclude: |
+            **/.git*
+            **/.git*/**
