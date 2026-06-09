@@ -52,17 +52,7 @@ jobs:
           git pull --rebase origin main
           git push origin main
 
-      - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: king.truehostdns.com
-          username: ${{ secrets.FTP_USER }}
-          password: ${{ secrets.FTP_PASS }}
-          protocol: ftps
-          port: 21
-          local-dir: ./dist/
-          server-dir: /
-          dangerous-clean-slate: false
-          exclude: |
-            **/.git*
-            **/.git*/**
+      - name: Deploy note
+        run: |
+          echo "✅ dist/ committed to main — cPanel cron will pull within 5 minutes"
+          echo "Commit: $(git rev-parse --short HEAD)"
