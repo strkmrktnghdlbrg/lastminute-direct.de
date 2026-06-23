@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import AffiliateBox from '../../components/AffiliateBox.astro';
 import { unsplash, unsplashCredit, pickImage } from '../../data/images';
-import { primaryCluster } from '../../data/clusters';
+import { primaryCluster, clusterByKey } from '../../data/clusters';
 import { SITE } from '../../data/site';
 import { getCollection, render } from 'astro:content';
 
@@ -24,6 +24,8 @@ const primary = primaryCluster(d.clusters);
 const related = all
   .filter((a) => a.id !== entry.id && a.data.clusters.some((c) => d.clusters.includes(c)))
   .slice(0, 3);
+
+const clusterLinks = d.clusters.map((k: string) => clusterByKey(k)).filter(Boolean) as { slug: string; title: string }[];
 
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 const heroImage = unsplash(img.id, 1600);
@@ -123,6 +125,16 @@ const breadcrumbSchema = {
         {/* AWIN-Affiliate-Box: erscheint automatisch, sobald Merchants in affiliates.ts freigeschaltet sind */}
         <AffiliateBox theme={d.heroTheme} subId={entry.id} />
 
+        {clusterLinks.length > 0 && (
+          <div class="tag-box">
+            <h4>Kategorien</h4>
+            <div class="tags">
+              {clusterLinks.map((c) => (
+                <a href={`/${c.slug}/`} class="cluster-link">{c.title}</a>
+              ))}
+            </div>
+          </div>
+        )}
         {d.tags.length > 0 && (
           <div class="tag-box">
             <h4>Themen</h4>
@@ -191,6 +203,8 @@ const breadcrumbSchema = {
   .tag-box h4 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--color-shadow-grey); margin-bottom: 12px; }
   .tag-box .tags { display: flex; flex-wrap: wrap; gap: 8px; }
   .tag-box .tags span { font-size: 12px; background: #fff; border: 1px solid rgba(171,171,156,.4); padding: 4px 11px; border-radius: var(--radius-pill); }
+  .cluster-link { font-size: 12px; background: #fff; border: 1px solid rgba(171,171,156,.4); padding: 4px 11px; border-radius: var(--radius-pill); color: var(--color-skybound-blue); text-decoration: none; transition: background .2s; }
+  .cluster-link:hover { background: var(--color-cloud-whisper); }
 
   .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
   @media (max-width: 900px) { .art-body { grid-template-columns: 1fr; } .deal-box { position: static; } .grid-3 { grid-template-columns: 1fr; } }

@@ -20,6 +20,7 @@ export async function getStaticPaths() {
 const { cluster, articles } = Astro.props;
 const heroImg = (IMAGE_POOL[cluster.heroTheme] ?? IMAGE_POOL.strand)[0];
 const sorted = articles.sort((a, b) => a.data.title.localeCompare(b.data.title, 'de'));
+const siblings = CLUSTERS.filter((c) => c.slug !== cluster.slug).slice(0, 4);
 ---
 <BaseLayout title={cluster.title} description={cluster.short}>
   <section class="hub-hero">
@@ -50,6 +51,17 @@ const sorted = articles.sort((a, b) => a.data.title.localeCompare(b.data.title, 
     )}
   </section>
 
+  {siblings.length > 0 && (
+    <section class="section wrap sibling-section">
+      <h2 class="sibling-head">Weitere Themen</h2>
+      <div class="sibling-grid">
+        {siblings.map((s) => (
+          <a href={`/${s.slug}/`} class="sibling-pill">{s.title}</a>
+        ))}
+      </div>
+    </section>
+  )}
+
   <Newsletter />
 </BaseLayout>
 
@@ -66,4 +78,9 @@ const sorted = articles.sort((a, b) => a.data.title.localeCompare(b.data.title, 
   .empty a { color: var(--color-skybound-blue); text-decoration: underline; }
   @media (max-width: 980px) { .grid-3 { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 640px) { .grid-3 { grid-template-columns: 1fr; } }
+  .sibling-section { border-top: 1px solid rgba(171,171,156,.3); padding-top: 40px; }
+  .sibling-head { font-size: 18px; margin-bottom: 16px; }
+  .sibling-grid { display: flex; flex-wrap: wrap; gap: 10px; }
+  .sibling-pill { font-size: 14px; background: #fff; border: 1px solid rgba(171,171,156,.4); padding: 8px 18px; border-radius: var(--radius-pill); color: var(--color-skybound-blue); text-decoration: none; transition: background .2s; }
+  .sibling-pill:hover { background: var(--color-cloud-whisper); }
 </style>
