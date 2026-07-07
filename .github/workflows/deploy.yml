@@ -52,6 +52,20 @@ jobs:
           git pull --rebase origin main
           git push origin main
 
+      - name: cPanel-Diagnose (UAPI via 443-Proxy)
+        run: |
+          PROXY="https://cpanel.lastminute-direct.de"
+
+          echo "--- Versuch 1: FTP_USER/FTP_PASS ---"
+          curl -sS -k --connect-timeout 15 --max-time 60 \
+            -u "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASS }}" \
+            "$PROXY/execute/VersionControl/retrieve" 2>&1 | head -c 2000; echo
+
+          echo "--- Versuch 2: FTP_USERNAME/FTP_PASSWORD ---"
+          curl -sS -k --connect-timeout 15 --max-time 60 \
+            -u "${{ secrets.FTP_USERNAME }}:${{ secrets.FTP_PASSWORD }}" \
+            "$PROXY/execute/VersionControl/retrieve" 2>&1 | head -c 2000; echo
+
       - name: Deploy note
         run: |
           echo "✅ dist/ committed to main — cPanel cron will pull within 5 minutes"
