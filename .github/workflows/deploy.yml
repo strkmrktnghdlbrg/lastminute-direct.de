@@ -52,15 +52,47 @@ jobs:
           git pull --rebase origin main
           git push origin main
 
-      # HINWEIS (2026-07-07): Server-Cron-Pull hängt seit 23.06. — dist/.htaccess ist
-      # server-seitig lokal modifiziert, der Canonical-Build vom 01.07. änderte die Datei
-      # → git pull bricht ab ("Your local changes"). Die FTP_*-Secrets hier sind KEINE
-      # cPanel-Logins. Fix wie bei about-berlin-hotels (gleicher cPanel-Account scdunumd):
-      # CPANEL_USER/CPANEL_PASS als Secrets setzen, dann UAPI über 443-Proxy
-      # (https://cpanel.lastminute-direct.de/execute/...): Fileman save_file_content
-      # (dist/.htaccess auf Git-Stand des Server-HEAD 5e72d75), VersionControl/update,
-      # VersionControlDeployment/create. Vorlage: about-berlin-hotels deploy.yml.
-      - name: Deploy note
+      - name: Trigger cPanel pull & deploy
         run: |
-          echo "✅ dist/ committed to main — cPanel cron will pull within 5 minutes"
-          echo "Commit: $(git rev-parse --short HEAD)"
+          PROXY="https://cpanel.lastminute-direct.de"
+          AUTH="${{ secrets.CPANEL_USER }}:${{ secrets.CPANEL_PASS }}"
+          REPO_ROOT="/home/scdunumd/public_html/lastminute-direct.de"
+
+          echo "--- git pull (VersionControl update) ---"
+          OUT=$(curl -sS -k --connect-timeout 15 --max-time 120 -u "$AUTH" -G \
+            --data-urlencode "repository_root=$REPO_ROOT" \
+            --data-urlencode "branch=main" \
+            "$PROXY/execute/VersionControl/update")
+          echo "$OUT" | head -c 1500; echo
+
+          # Selbstheilung: hängt der Pull an lokalen Änderungen an dist/.htaccess,
+          # Datei über Fileman auf Git-Stand des Server-HEAD zurücksetzen und Pull wiederholen.
+          if echo "$OUT" | grep -q "Your local changes"; then
+            echo "--- Pull-Konflikt: dist/.htaccess auf Server-HEAD zurücksetzen ---"
+            HEAD_SHA=$(curl -sS -k --connect-timeout 15 --max-time 60 -u "$AUTH" -G \
+              "$PROXY/execute/VersionControl/retrieve" 2>/dev/null \
+              | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['data'][0]['last_update']['identifier'])" 2>/dev/null || true)
+            if [ -n "$HEAD_SHA" ] && git show "$HEAD_SHA:dist/.htaccess" > /tmp/htaccess-clean 2>/dev/null; then
+              curl -sS -k --connect-timeout 15 --max-time 60 -u "$AUTH" -X POST \
+                --data-urlencode "dir=$REPO_ROOT/dist" \
+                --data-urlencode "file=.htaccess" \
+                --data-urlencode "content@/tmp/htaccess-clean" \
+                "$PROXY/execute/Fileman/save_file_content" | head -c 400; echo
+              curl -sS -k --connect-timeout 15 --max-time 120 -u "$AUTH" -G \
+                --data-urlencode "repository_root=$REPO_ROOT" \
+                --data-urlencode "branch=main" \
+                "$PROXY/execute/VersionControl/update" | head -c 1500; echo
+            else
+              echo "Server-HEAD nicht ermittelbar — manueller Eingriff nötig"; exit 1
+            fi
+          fi
+
+          echo "--- Deployment anstoßen ---"
+          curl -sS -k --connect-timeout 15 --max-time 120 -u "$AUTH" -G \
+            --data-urlencode "repository_root=$REPO_ROOT" \
+            "$PROXY/execute/VersionControlDeployment/create" | head -c 400; echo
+
+      - name: Deploy-Check
+        run: |
+          sleep 10
+          curl -s -o /dev/null -w "Startseite: %{http_code}\n" "https://www.lastminute-direct.de/"
