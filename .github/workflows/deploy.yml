@@ -1,98 +1,31 @@
-name: Build & Deploy to cPanel
+name: Deploy to Hetzner
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
-concurrency:
-  group: deploy-production
-  cancel-in-progress: true
-
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    timeout-minutes: 15
-
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
+          node-version: 20
+          cache: npm
 
-      - name: Setup Node 22
-        uses: actions/setup-node@v4
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Deploy via rsync
+        uses: burnett01/rsync-deployments@7.0.1
         with:
-          node-version: "22"
-          cache: "npm"
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build Astro site
-        run: npm run build
-        env:
-          NODE_ENV: production
-          STAY22_API_KEY: ${{ secrets.STAY22_API_KEY }}
-
-      - name: Build report
-        run: |
-          echo "Built files: $(find dist -type f | wc -l)"
-          echo "Total size: $(du -sh dist | cut -f1)"
-
-      - name: Commit dist/ to main
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add -f dist/
-          git diff --staged --quiet || git commit -m "build: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
-          git pull --rebase origin main
-          git push origin main
-
-      - name: Trigger cPanel pull & deploy
-        run: |
-          PROXY="https://cpanel.lastminute-direct.de"
-          AUTH="${{ secrets.CPANEL_USER }}:${{ secrets.CPANEL_PASS }}"
-          REPO_ROOT="/home/scdunumd/public_html/lastminute-direct.de"
-
-          echo "--- git pull (VersionControl update) ---"
-          OUT=$(curl -sS -k --connect-timeout 15 --max-time 120 -u "$AUTH" -G \
-            --data-urlencode "repository_root=$REPO_ROOT" \
-            --data-urlencode "branch=main" \
-            "$PROXY/execute/VersionControl/update")
-          echo "$OUT" | head -c 1500; echo
-
-          # Selbstheilung: hängt der Pull an lokalen Änderungen an dist/.htaccess,
-          # Datei über Fileman auf Git-Stand des Server-HEAD zurücksetzen und Pull wiederholen.
-          if echo "$OUT" | grep -q "Your local changes"; then
-            echo "--- Pull-Konflikt: dist/.htaccess auf Server-HEAD zurücksetzen ---"
-            HEAD_SHA=$(curl -sS -k --connect-timeout 15 --max-time 60 -u "$AUTH" -G \
-              "$PROXY/execute/VersionControl/retrieve" 2>/dev/null \
-              | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['data'][0]['last_update']['identifier'])" 2>/dev/null || true)
-            if [ -n "$HEAD_SHA" ] && git show "$HEAD_SHA:dist/.htaccess" > /tmp/htaccess-clean 2>/dev/null; then
-              curl -sS -k --connect-timeout 15 --max-time 60 -u "$AUTH" -X POST \
-                --data-urlencode "dir=$REPO_ROOT/dist" \
-                --data-urlencode "file=.htaccess" \
-                --data-urlencode "content@/tmp/htaccess-clean" \
-                "$PROXY/execute/Fileman/save_file_content" | head -c 400; echo
-              curl -sS -k --connect-timeout 15 --max-time 120 -u "$AUTH" -G \
-                --data-urlencode "repository_root=$REPO_ROOT" \
-                --data-urlencode "branch=main" \
-                "$PROXY/execute/VersionControl/update" | head -c 1500; echo
-            else
-              echo "Server-HEAD nicht ermittelbar — manueller Eingriff nötig"; exit 1
-            fi
-          fi
-
-          echo "--- Deployment anstoßen ---"
-          curl -sS -k --connect-timeout 15 --max-time 120 -u "$AUTH" -G \
-            --data-urlencode "repository_root=$REPO_ROOT" \
-            "$PROXY/execute/VersionControlDeployment/create" | head -c 400; echo
-
-      - name: Deploy-Check
-        run: |
-          sleep 10
-          curl -s -o /dev/null -w "Startseite: %{http_code}\n" "https://www.lastminute-direct.de/"
+          switches: -avz --delete
+          path: dist/
+          remote_path: /var/www/lastminute-direct.de/
+          remote_host: ${{ secrets.HETZNER_HOST }}
+          remote_user: ${{ secrets.HETZNER_USER }}
+          remote_key: ${{ secrets.HETZNER_SSH_KEY }}
