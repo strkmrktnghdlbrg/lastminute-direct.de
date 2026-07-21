@@ -1,0 +1,42 @@
+{
+ "lastminute-direct.de": {
+  "rank": 12,
+  "backlinks": 102,
+  "referring_domains": 30,
+  "referring_domains_nofollow": 15,
+  "broken_backlinks": 2,
+  "referring_main_domains": 29
+ },
+ "wainando.de": {
+  "rank": 222,
+  "backlinks": 1448,
+  "referring_domains": 583,
+  "referring_domains_nofollow": 196,
+  "broken_backlinks": 40,
+  "referring_main_domains": 561
+ },
+ "reiseuhu.de": {
+  "rank": 309,
+  "backlinks": 18241,
+  "referring_domains": 8064,
+  "referring_domains_nofollow": 288,
+  "broken_backlinks": 114,
+  "referring_main_domains": 8010
+ },
+ "reisevergnuegen.com": {
+  "rank": 284,
+  "backlinks": 5967,
+  "referring_domains": 2005,
+  "referring_domains_nofollow": 717,
+  "broken_backlinks": 18,
+  "referring_main_domains": 1826
+ },
+ "urlaubspiraten.de": {
+  "rank": 371,
+  "backlinks": 66582,
+  "referring_domains": 6944,
+  "referring_domains_nofollow": 1486,
+  "broken_backlinks": 2796,
+  "referring_main_domains": 6575
+ }
+}

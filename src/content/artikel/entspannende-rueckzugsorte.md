@@ -43,6 +43,8 @@ Wasser hat eine beruhigende Wirkung, und viele Städte liegen an einem Fluss, Se
 
 Eine besonders schöne Variante ist die Bootsfahrt. Vom Wasser aus siehst du die Stadt aus einer ganz neuen Perspektive und kannst dich gleichzeitig zurücklehnen. Romantische Abendfahrten oder thematische Touren machen daraus ein kleines Erlebnis, das du dir vorab bei einem Anbieter wie [GetYourGuide](https://www.getyourguide.de/) sichern kannst.
 
+Wenn dir die Stadt auf Dauer zu viel wird, ist eine [Yoga-Auszeit am Meer](/magazin/strandurlaub-und-yoga/) der nächste Schritt: dieselbe Ruhe am Wasser, nur mit deutlich mehr Weite und Zeit zum Durchatmen.
+
 ## Was machen geheime Gärten und Dachterrassen so besonders?
 
 Wer den Blick über die Dächer liebt, ist auf Dachterrassen und Aussichtsplätzen mit Grün richtig. Hier verbindest du Weitblick mit einer ruhigen Atmosphäre, oft bei einem Kaffee oder Drink. Bekannte Beispiele sind die High Line in New York, The Garden at 120 in London oder der Klunkerkranich in Berlin.

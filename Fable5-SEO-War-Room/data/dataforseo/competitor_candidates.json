@@ -1,0 +1,212 @@
+[
+ {
+  "domain": "lastminute-direct.de",
+  "avg_position": 54.88461538461539,
+  "intersections": 26,
+  "organic_keywords": 26,
+  "organic_etv": 11.6
+ },
+ {
+  "domain": "urlaubspiraten.de",
+  "avg_position": 18.263157894736842,
+  "intersections": 19,
+  "organic_keywords": 104138,
+  "organic_etv": 2302319.3
+ },
+ {
+  "domain": "tui.com",
+  "avg_position": 11,
+  "intersections": 15,
+  "organic_keywords": 349843,
+  "organic_etv": 5549234.7
+ },
+ {
+  "domain": "reisevergnuegen.com",
+  "avg_position": 22.23076923076923,
+  "intersections": 13,
+  "organic_keywords": 29824,
+  "organic_etv": 430439.9
+ },
+ {
+  "domain": "wainando.de",
+  "avg_position": 15,
+  "intersections": 12,
+  "organic_keywords": 2250,
+  "organic_etv": 28055.9
+ },
+ {
+  "domain": "fitreisen.de",
+  "avg_position": 13,
+  "intersections": 12,
+  "organic_keywords": 36107,
+  "organic_etv": 649272.5
+ },
+ {
+  "domain": "yogaescapes.de",
+  "avg_position": 7.333333333333333,
+  "intersections": 12,
+  "organic_keywords": 1544,
+  "organic_etv": 17110.1
+ },
+ {
+  "domain": "yogareisen.com",
+  "avg_position": 24.083333333333332,
+  "intersections": 12,
+  "organic_keywords": 1146,
+  "organic_etv": 22538.6
+ },
+ {
+  "domain": "bookyogaretreats.com",
+  "avg_position": 26.916666666666668,
+  "intersections": 12,
+  "organic_keywords": 2067,
+  "organic_etv": 8300.5
+ },
+ {
+  "domain": "wellnessurlaub.com",
+  "avg_position": 30.166666666666668,
+  "intersections": 12,
+  "organic_keywords": 11482,
+  "organic_etv": 68513.5
+ },
+ {
+  "domain": "tripaneer.com",
+  "avg_position": 13.454545454545455,
+  "intersections": 11,
+  "organic_keywords": 2234,
+  "organic_etv": 10268.7
+ },
+ {
+  "domain": "neuewege.com",
+  "avg_position": 3.4545454545454546,
+  "intersections": 11,
+  "organic_keywords": 2644,
+  "organic_etv": 63539.2
+ },
+ {
+  "domain": "holidaycheck.de",
+  "avg_position": 23.5,
+  "intersections": 10,
+  "organic_keywords": 1051847,
+  "organic_etv": 31944416.7
+ },
+ {
+  "domain": "womenshealth.de",
+  "avg_position": 9.333333333333334,
+  "intersections": 9,
+  "organic_keywords": 78979,
+  "organic_etv": 716963.6
+ },
+ {
+  "domain": "retreaturlaub.de",
+  "avg_position": 24.555555555555557,
+  "intersections": 9,
+  "organic_keywords": 1995,
+  "organic_etv": 32019.7
+ },
+ {
+  "domain": "urlaubsguru.de",
+  "avg_position": 17.333333333333332,
+  "intersections": 9,
+  "organic_keywords": 131017,
+  "organic_etv": 3026092.9
+ },
+ {
+  "domain": "weg.de",
+  "avg_position": 18.11111111111111,
+  "intersections": 9,
+  "organic_keywords": 155420,
+  "organic_etv": 1435302.1
+ },
+ {
+  "domain": "ab-in-den-urlaub.de",
+  "avg_position": 16.22222222222222,
+  "intersections": 9,
+  "organic_keywords": 294852,
+  "organic_etv": 6708727.7
+ },
+ {
+  "domain": "yoganature.de",
+  "avg_position": 10.375,
+  "intersections": 8,
+  "organic_keywords": 159,
+  "organic_etv": 452.2
+ },
+ {
+  "domain": "nordseetourismus.de",
+  "avg_position": 7,
+  "intersections": 8,
+  "organic_keywords": 16706,
+  "organic_etv": 366920.8
+ },
+ {
+  "domain": "dertour.de",
+  "avg_position": 9.25,
+  "intersections": 8,
+  "organic_keywords": 220297,
+  "organic_etv": 4957561.5
+ },
+ {
+  "domain": "reiseuhu.de",
+  "avg_position": 32.625,
+  "intersections": 8,
+  "organic_keywords": 51397,
+  "organic_etv": 258552.9
+ },
+ {
+  "domain": "ganzwunderbar.com",
+  "avg_position": 61,
+  "intersections": 8,
+  "organic_keywords": 1417,
+  "organic_etv": 1623.4
+ },
+ {
+  "domain": "yogasummer.de",
+  "avg_position": 81.25,
+  "intersections": 8,
+  "organic_keywords": 96,
+  "organic_etv": 51.9
+ },
+ {
+  "domain": "renatour.de",
+  "avg_position": 24.375,
+  "intersections": 8,
+  "organic_keywords": 2779,
+  "organic_etv": 15551.3
+ },
+ {
+  "domain": "meinyogaretreat.de",
+  "avg_position": 72.71428571428571,
+  "intersections": 7,
+  "organic_keywords": 712,
+  "organic_etv": 817.7
+ },
+ {
+  "domain": "reisereporter.de",
+  "avg_position": 26.285714285714285,
+  "intersections": 7,
+  "organic_keywords": 166002,
+  "organic_etv": 1420953.3
+ },
+ {
+  "domain": "moverii.de",
+  "avg_position": 36.714285714285715,
+  "intersections": 7,
+  "organic_keywords": 1030,
+  "organic_etv": 2663.4
+ },
+ {
+  "domain": "strandhotel-fischland.de",
+  "avg_position": 14.142857142857142,
+  "intersections": 7,
+  "organic_keywords": 783,
+  "organic_etv": 14753.4
+ },
+ {
+  "domain": "merkur.de",
+  "avg_position": 36.857142857142854,
+  "intersections": 7,
+  "organic_keywords": 710089,
+  "organic_etv": 5392900.4
+ }
+]

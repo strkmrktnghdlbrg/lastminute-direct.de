@@ -53,7 +53,7 @@ Auch außerhalb Griechenlands und Zyperns gibt es starke Optionen:
 
 Überlegt zuerst, was euch wichtiger ist: kurze Anreise und mediterranes Flair oder die große Fernreise an unberührte Strände. Fürs Mittelmeer sprechen die einfache Erreichbarkeit und faire Preise, besonders wenn ihr [in der Nebensaison reist](/magazin/strandurlaube-nebensaison/) oder mit [Last-Minute-Angeboten ans Meer](/magazin/last-minute-strandurlaube/) bucht. Eine passende Unterkunft für eure Zweisamkeit findet ihr unkompliziert über die Hotelauswahl auf [Booking.com](https://www.booking.com/).
 
-Plant außerdem genug freie Zeit ein. Ein voll durchgetakteter Ausflugskalender passt selten zu einem romantischen Urlaub. Manchmal ist der schönste Programmpunkt schlicht ein langer Strandspaziergang am Abend, gefolgt von einem Glas Wein mit Blick aufs Meer.
+Plant außerdem genug freie Zeit ein. Ein voll durchgetakteter Ausflugskalender passt selten zu einem romantischen Urlaub. Manchmal ist der schönste Programmpunkt schlicht ein langer Strandspaziergang am Abend, gefolgt von einem Glas Wein mit Blick aufs Meer. Wer die gemeinsame Auszeit noch bewusster gestalten möchte, kombiniert den Strandurlaub mit einem [Yoga-Urlaub am Meer](/magazin/strandurlaub-und-yoga/) und startet den Tag mit einer ruhigen Einheit direkt am Wasser.
 
 Egal ob Santorini, Kreta oder Seychellen: Ein romantischer Strandurlaub lebt vor allem von gemeinsamen Momenten. Wählt ein Ziel, das zu eurem Tempo passt, und der Rest ergibt sich ganz von selbst.
 

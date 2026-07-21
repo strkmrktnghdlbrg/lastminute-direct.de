@@ -26,7 +26,7 @@ Der größte Vorteil liegt auf der Hand: Es ist günstiger. Außerhalb der Ferie
 
 Dazu kommt die Ruhe. Statt Handtuchschlachten und langer Schlangen an der Strandbar erlebst du Orte in einem entspannteren Tempo. Das macht es leichter, eine Region wirklich kennenzulernen, statt nur durch den Touristentrubel zu hetzen.
 
-Auch das Wetter spielt häufig mit. Im Frühjahr und Frühherbst ist es in Südeuropa angenehm warm, ohne dass die Mittagshitze zur Belastung wird. Ideal für lange Spaziergänge, Ausflüge ins Hinterland und entspannte Stunden am Wasser.
+Auch das Wetter spielt häufig mit. Im Frühjahr und Frühherbst ist es in Südeuropa angenehm warm, ohne dass die Mittagshitze zur Belastung wird. Ideal für lange Spaziergänge, Ausflüge ins Hinterland und entspannte Stunden am Wasser. Gerade die milden Randmonate eignen sich auch gut für ein [Yoga-Retreat am Meer in der Nebensaison](/magazin/strandurlaub-und-yoga/), wenn die Küstenorte ruhiger und die Preise niedriger sind.
 
 ## Welche Reiseziele passen am besten?
 
