@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import rehypeExternalLinks from 'rehype-external-links';
 
+import outboundGate from './integrations/outbound-gate.mjs';
 export default defineConfig({
   site: 'https://www.lastminute-direct.de',
   trailingSlash: 'always',
@@ -86,7 +87,7 @@ export default defineConfig({
     '/staedtereisen-mit-kindern-eine-familienanleitung/': '/magazin/staedtereisen-mit-kindern/',
     '/solo-staedtereisen-ein-leitfaden/': '/magazin/solo-staedtereisen/',
   },
-  integrations: [sitemap()],
+  integrations: [outboundGate(), sitemap()],
   markdown: {
     // Externe Links in Artikeln automatisch absichern (rel + target).
     // Interne /magazin/-Links bleiben unberuehrt.
