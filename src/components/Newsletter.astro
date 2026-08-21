@@ -7,6 +7,7 @@ import { SITE } from '../data/site';
     <p>Mit dem Deal-Alarm bekommst du die besten Last-Minute-Angebote direkt in dein Postfach, bevor sie weg sind.</p>
     <form action="https://api.web3forms.com/submit" method="POST">
       <input type="hidden" name="access_key" value={SITE.web3formsKey} />
+      <input type="hidden" name="site_domain" value="lastminute-direct.de" />
       <input type="hidden" name="subject" value="Neue Deal-Alarm Anmeldung" />
       <input type="hidden" name="from_name" value="Lastminute Direct" />
       <input type="email" name="email" placeholder="Deine E-Mail-Adresse" required />
